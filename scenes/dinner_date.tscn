@@ -1,12 +1,6 @@
 [gd_scene format=3 uid="uid://1ut3kl64rl3d"]
 
-[ext_resource type="Texture2D" uid="uid://bu1ae6ct80pgc" path="res://icon.svg" id="1_84cdk"]
 [ext_resource type="Script" uid="uid://dlnbnd614nujb" path="res://scenes/dinner_date.gd" id="1_hicsk"]
 
 [node name="DinnerDate" type="Node2D" unique_id=193142095]
 script = ExtResource("1_hicsk")
-
-[node name="Sprite2D" type="Sprite2D" parent="." unique_id=601622764]
-position = Vector2(945, 326)
-scale = Vector2(1.9531252, 4.757812)
-texture = ExtResource("1_84cdk")
