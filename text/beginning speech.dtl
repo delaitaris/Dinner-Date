@@ -1,0 +1,19 @@
+...You ever wanted to go on a loving date with a steak?
+- Who the hell starts a conversation like that, I just sat down!?
+	set {SaysWhatToStartQ} = true
+	Cool Family Guy reference man. In any case, I'm the Narrator who you'll never seen again.
+- Can't say I haven't.
+	set {SaysYesToStartQ} = true
+	Good. Well, in that case, you'll have no problem with taking this super-duper-mega-awesome-magical-power of being able to converse with food.
+# Yes to first question
+if {SaysYesToStartQ} == true:
+	- Why?
+		Plot convenience. Okay, get gone and have fun. (Make sure to rate us 5 stars.)
+	- Okay.
+		You're awfully passive. You've said yes to both my arguably incredibly strange and wacky questions by now, but I'm not complaining. Have a good one.
+# Says what to first question
+if {SaysWhatToStartQ} == true:
+	- There's a Narrator? In my head? Am I tripping?
+		Okay, stop overthinking this. This is a funny dating-cooking simulator, not something that's supposed to make you contemplate reality. I'm removing your in-canon memories of this, go have fun with the spaghetti-woman.
+	- Oh, yeah, that makes sense.
+		If you picked this option because it sounds sarcastic, I'm taking it seriously. Thanks for understanding. Also, because we're inclusive here at Dinner Date and Manholes enterprises, we have foods with all sorts of body shapes, sexualities and gender types. Pretty sure. Okay, get thee gone, knave!

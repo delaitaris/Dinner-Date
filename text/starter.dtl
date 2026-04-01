@@ -1,6 +1,6 @@
 set {PlayerName} = ""
-[text_input text="Please enter your name:" var="PlayerName" placeholder="CoolGuy" default="Name"]
-join character left [animation="Slide In Down" length="3.0"]
+[text_input text="Please enter your name:" var="PlayerName" placeholder="Name"]
+join character right [animation="Slide From Right" length="1.2" wait="true"]
 character: you like stuff? i do
 label start
 character: you think about it?

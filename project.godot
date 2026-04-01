@@ -22,10 +22,13 @@ Dialogic="*uid://ds2q0uclmolvu"
 [dialogic]
 
 directories/dch_directory={
-"character": "res://characters/character.dch"
+"character": "res://characters/character.dch",
+"macarons": "res://characters/macarons.dch"
 }
 directories/dtl_directory={
+"beginning speech": "res://text/beginning speech.dtl",
 "followup": "res://text/followup.dtl",
+"macarons": "res://text/macarons.dtl",
 "starter": "res://text/starter.dtl"
 }
 layout/style_directory={}
@@ -63,10 +66,13 @@ audio/channel_defaults={
 }
 }
 variables={
-"PlayerName": ""
+"NewVar": "",
+"SaysWhatToStartQ": "",
+"SaysYesToStartQ": ""
 }
 layout/style_list=[]
 layout/default_style="Default"
+text/input_action="TextInteract"
 
 [editor_plugins]
 
