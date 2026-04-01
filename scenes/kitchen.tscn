@@ -1,0 +1,17 @@
+[gd_scene format=3 uid="uid://dubyruxbnvqu2"]
+
+[ext_resource type="PackedScene" uid="uid://gxfurakm6hv" path="res://scenes/chef.tscn" id="1_7ilqw"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_df3gt"]
+size = Vector2(1150, 97)
+
+[node name="Kitchen" type="Node2D" unique_id=535131713]
+
+[node name="StaticBody2D" type="StaticBody2D" parent="." unique_id=1427058739]
+
+[node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D" unique_id=517201500]
+position = Vector2(574, 600.5)
+shape = SubResource("RectangleShape2D_df3gt")
+
+[node name="Chef" parent="." unique_id=682599542 instance=ExtResource("1_7ilqw")]
+position = Vector2(215, 197)
