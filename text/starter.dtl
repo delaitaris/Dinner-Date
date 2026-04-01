@@ -1,0 +1,15 @@
+join character left [animation="Slide In Down" length="3.0"]
+character: you like stuff? i do
+label start
+character: you think about it?
+- thats... kinda weird man
+	character: why are you so mean
+	jump starter/start
+- says you
+	character: that's not that nice
+	jump starter/start
+- whatever you say
+	character: that's pretty rude
+	jump starter/start
+- die
+	leave character [animation="Fade Out Down"]
