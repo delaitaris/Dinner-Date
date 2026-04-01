@@ -62,7 +62,9 @@ audio/channel_defaults={
 "volume": 0.0
 }
 }
-variables={}
+variables={
+"PlayerName": ""
+}
 layout/style_list=[]
 layout/default_style="Default"
 
