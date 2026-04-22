@@ -27,9 +27,8 @@ directories/dch_directory={
 }
 directories/dtl_directory={
 "beginning speech": "res://text/beginning speech.dtl",
-"followup": "res://text/followup.dtl",
 "macarons": "res://text/macarons.dtl",
-"starter": "res://text/starter.dtl"
+"prologue": "res://text/prologue.dtl"
 }
 layout/style_directory={}
 glossary/default_case_sensitive=true
