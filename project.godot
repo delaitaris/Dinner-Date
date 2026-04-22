@@ -30,7 +30,10 @@ directories/dtl_directory={
 "macarons": "res://text/macarons.dtl",
 "prologue": "res://text/prologue.dtl"
 }
-layout/style_directory={}
+layout/style_directory={
+"": "res://styles/VN.tres",
+"VN": "res://styles/VN.tres"
+}
 glossary/default_case_sensitive=true
 text/letter_speed=0.01
 text/initial_text_reveal_skippable=true
@@ -65,12 +68,18 @@ audio/channel_defaults={
 }
 }
 variables={
-"NewVar": "",
-"SaysWhatToStartQ": "",
-"SaysYesToStartQ": ""
+"ChefGender": "",
+"ChefGenderHe": "",
+"ChefGenderHeCap": "",
+"ChefGenderHim": "",
+"ChefGenderHimCap": "",
+"ChefGenderHis": "",
+"ChefGenderHisCap": "",
+"ChefName": "",
+"Was_Were": ""
 }
-layout/style_list=[]
-layout/default_style="Default"
+layout/style_list=["res://styles/VN.tres"]
+layout/default_style="res://styles/VN.tres"
 text/input_action="TextInteract"
 
 [editor_plugins]
