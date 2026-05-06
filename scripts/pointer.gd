@@ -2,7 +2,9 @@ extends Area2D
 var raising = false
 var lowering = false
 var clicking = false
-
+var orange = false
+var red = false
+var green = false
 
 func _ready() -> void:
 	raising = true
@@ -12,9 +14,9 @@ func _ready() -> void:
 func _process(delta: float) -> void:
 #moving
 	if raising:
-		position.y -= 7.5
+		position.y -= 1
 	elif lowering:
-		position.y += 7.5
+		position.y += 1
 
 #interaction
 	if clicking:
@@ -32,16 +34,28 @@ func _process(delta: float) -> void:
 func _on_click_time_timeout() -> void:
 	clicking = false
 
-func _on_area_shape_entered(area_rid: RID, area: Area2D, area_shape_index: int, local_shape_index: int) -> void:
+
+func _on_area_entered(area: Area2D) -> void:
 	if area.name == "TopWall":
 		raising = false
 		lowering = true
 	if area.name == "BottomWall":
 		raising = true
 		lowering = false
-	if area.name == "RedUp" or "RedDown" and clicking:
-		print("NO")
-	if area.name == "OrangeUp" or "OrangeDown" and clicking:
-		print("KINDA")
-	if area.name == "Green" and clicking:
-		print("YES")
+	if area.name == "RedUp" or "RedDown" and !green or !orange:
+		red = true
+		print("red")
+	if area.name == "OrangeUp" or "OrangeDown" and !green or !red:
+		orange = true
+		print("orange")
+	if area.name == "Green" and !red or !orange:
+		green = true
+		print("green")
+
+func _on_area_exited(area: Area2D) -> void:
+	if area.name == "RedUp" or "RedDown":
+		red = false
+	if area.name == "OrangeUp" or "OrangeDown":
+		orange = false
+	if area.name == "Green":
+		green = false

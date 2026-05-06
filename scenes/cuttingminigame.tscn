@@ -5,25 +5,25 @@
 [ext_resource type="Texture2D" uid="uid://byrw2n614m0y0" path="res://sprites/pointerdark.png" id="3_7cptj"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_06ysg"]
-size = Vector2(66, 134.75)
+size = Vector2(66, 134.125)
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_33kw6"]
-size = Vector2(66, 76)
+size = Vector2(66, 74)
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_7cptj"]
-size = Vector2(66, 76.375)
+size = Vector2(66, 75.375)
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_8o1lb"]
 size = Vector2(66, 60)
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_1r08l"]
-size = Vector2(66, 5)
+size = Vector2(13, 5)
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_6lgc5"]
-size = Vector2(67, 53.5)
+size = Vector2(67, 44.5)
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_y7tk6"]
-size = Vector2(66, 32)
+size = Vector2(66, 21)
 
 [node name="Node2D" type="Node2D" unique_id=1384022361]
 
@@ -41,7 +41,7 @@ position = Vector2(162, 130.5)
 shape = SubResource("RectangleShape2D_06ysg")
 
 [node name="RedDown" type="CollisionShape2D" parent="Scale" unique_id=700427461]
-position = Vector2(162, 477.75)
+position = Vector2(162, 478.0625)
 shape = SubResource("RectangleShape2D_06ysg")
 
 [node name="OrangeUp" type="CollisionShape2D" parent="Scale" unique_id=1356888082]
@@ -49,7 +49,7 @@ position = Vector2(162, 236)
 shape = SubResource("RectangleShape2D_33kw6")
 
 [node name="OrangeDown" type="CollisionShape2D" parent="Scale" unique_id=1487749345]
-position = Vector2(162, 372.1875)
+position = Vector2(162, 372.6875)
 shape = SubResource("RectangleShape2D_7cptj")
 
 [node name="Green" type="CollisionShape2D" parent="Scale" unique_id=134068158]
@@ -68,7 +68,7 @@ scale = Vector2(4.326087, 4.1666665)
 texture = ExtResource("3_7cptj")
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="Pointer" unique_id=1757064840]
-position = Vector2(-8, 7.5)
+position = Vector2(18.5, 7.5)
 shape = SubResource("RectangleShape2D_1r08l")
 
 [node name="ClickTime" type="Timer" parent="Pointer" unique_id=1607549735]
@@ -77,15 +77,18 @@ wait_time = 0.1
 [node name="TopWall" type="Area2D" parent="." unique_id=1129283755]
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="TopWall" unique_id=938610138]
-position = Vector2(161.5, 45.25)
+position = Vector2(162, 40)
 shape = SubResource("RectangleShape2D_6lgc5")
 
 [node name="BottomWall" type="Area2D" parent="." unique_id=1209203726]
 position = Vector2(63, 248)
 
 [node name="CollisionShape2D" type="CollisionShape2D" parent="BottomWall" unique_id=806177923]
-position = Vector2(99, 303)
+position = Vector2(99, 308)
 shape = SubResource("RectangleShape2D_y7tk6")
 
+[connection signal="area_entered" from="Pointer" to="Pointer" method="_on_area_entered"]
+[connection signal="area_exited" from="Pointer" to="Pointer" method="_on_area_exited"]
 [connection signal="area_shape_entered" from="Pointer" to="Pointer" method="_on_area_shape_entered"]
+[connection signal="area_shape_exited" from="Pointer" to="Pointer" method="_on_area_shape_exited"]
 [connection signal="timeout" from="Pointer/ClickTime" to="Pointer" method="_on_click_time_timeout"]
