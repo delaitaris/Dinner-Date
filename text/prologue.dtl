@@ -21,9 +21,9 @@
 	set {ChefGenderHe} = "they"
 	set {ChefGenderHis} = "their"
 	set {ChefGenderHim} = "their"
-	set {ChefGenderHeCap} = "they"
-	set {ChefGenderHisCap} = "their"
-	set {ChefGenderHimCap} = "their"
+	set {ChefGenderHeCap} = "They"
+	set {ChefGenderHisCap} = "Their"
+	set {ChefGenderHimCap} = "Their"
 	set {ChefGender} = "Neutral"
 	set {Was_Were} = "were"
 [background arg="res://backgrounds/number-1.png" fade="0.2"]
@@ -39,4 +39,11 @@ He ducked, terrified of the notion of romance. The spell sprung around the room,
 [background arg="res://backgrounds/number-5.png" fade="1.5"]
 Surely that wouldn't have any consequences.
 [background arg="res://backgrounds/number-6.png" fade="1.5"]
-In a completely unrelated place, there was a Chef. {ChefGenderHe} {Was_Were} also depressed. After a horrible allergic reaction from {ChefGenderHis} partner in response to a dish {ChefGenderHe} made, {ChefGenderHe} {Was_Were} currently single.
+In a completely unrelated place, there was a chef called {ChefName}. {ChefGenderHeCap} {Was_Were} also depressed. After a horrible allergic reaction from {ChefGenderHis} partner in response to a dish {ChefGenderHe} made, {ChefGenderHe} {Was_Were} currently single.
+"You always do this!" {ChefGenderHis} partner yelled, despite the fact that {ChefGenderHe} had only accidentally poisoned them once before.
+Wait, no. It was twice.
+[background arg="res://backgrounds/number-7.png" fade="1.5"]
+While {ChefName} was wallowing in {ChefGenderHis} newly-single loneliness, the same spell that Philip had oh-so carelessly casted came barrelling through the window.
+[background arg="res://backgrounds/number-8.png" fade="1.5"]
+The power of love truly does aim true. And thus ends the story of {ChefName}, the most lacklustre-
+Nevermind. Chefs are surprisingly resilient to magical spells, apparently.

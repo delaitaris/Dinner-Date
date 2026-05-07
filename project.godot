@@ -81,6 +81,14 @@ variables={
 layout/style_list=["res://styles/VN.tres"]
 layout/default_style="res://styles/VN.tres"
 text/input_action="TextInteract"
+translation/enabled=false
+translation/original_locale="en"
+translation/file_mode=1
+translation/translation_folder=""
+translation/save_mode=0
+translation/add_separator=false
+text/split_at_new_lines=false
+text/autocolor_names=true
 
 [editor_plugins]
 
