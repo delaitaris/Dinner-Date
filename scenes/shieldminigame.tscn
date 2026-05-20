@@ -1,0 +1,31 @@
+[gd_scene format=3 uid="uid://df6c4k11j6ljx"]
+
+[ext_resource type="Texture2D" uid="uid://bobfl1oa2oivp" path="res://sprites/wokshield.png" id="1_nshxb"]
+[ext_resource type="Script" uid="uid://ddsr5dn3viad3" path="res://scenes/sprite_2d.gd" id="2_ue0pp"]
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_ue0pp"]
+size = Vector2(89, 82)
+
+[sub_resource type="RectangleShape2D" id="RectangleShape2D_qnxg8"]
+size = Vector2(102, 14)
+
+[node name="Shieldminigame" type="Node2D" unique_id=50690933]
+
+[node name="Shield" type="StaticBody2D" parent="." unique_id=884680478]
+position = Vector2(23, 277)
+metadata/_edit_group_ = true
+
+[node name="Sprite2D" type="Sprite2D" parent="Shield" unique_id=1818664421]
+texture_filter = 1
+position = Vector2(562, 246)
+scale = Vector2(3.775, 4)
+texture = ExtResource("1_nshxb")
+script = ExtResource("2_ue0pp")
+
+[node name="MissHB" type="CollisionShape2D" parent="Shield" unique_id=864906189]
+position = Vector2(557, 301)
+shape = SubResource("RectangleShape2D_ue0pp")
+
+[node name="ShieldHB" type="CollisionShape2D" parent="Shield" unique_id=634658542]
+position = Vector2(553, 236)
+shape = SubResource("RectangleShape2D_qnxg8")
