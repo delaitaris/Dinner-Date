@@ -1,6 +1,4 @@
-res://text/followup.dtl
 res://scenes/dinner_date.tscn
-res://text/starter.dtl
-res://characters/character.dch
+res://styles/VN.tres
 res://scenes/Starting screen.tscn
-res://scenes/starting_screen.gd
+res://text/prologue.dtl

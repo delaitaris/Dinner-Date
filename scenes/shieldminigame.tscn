@@ -1,7 +1,7 @@
 [gd_scene format=3 uid="uid://df6c4k11j6ljx"]
 
 [ext_resource type="Texture2D" uid="uid://bobfl1oa2oivp" path="res://sprites/wokshield.png" id="1_nshxb"]
-[ext_resource type="Script" uid="uid://b88y7aop7p04n" path="res://scenes/shield.gd" id="1_qnxg8"]
+[ext_resource type="Script" uid="uid://b88y7aop7p04n" path="res://scripts/shield.gd" id="1_qnxg8"]
 
 [sub_resource type="RectangleShape2D" id="RectangleShape2D_ue0pp"]
 size = Vector2(89, 82)
