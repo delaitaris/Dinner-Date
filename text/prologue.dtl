@@ -1,0 +1,49 @@
+[text_input text="Name:" var="ChefName" placeholder="Chef"]
+- Male Chef
+	set {ChefGenderHe} = "he"
+	set {ChefGenderHis} = "his"
+	set {ChefGenderHim} = "him"
+	set {ChefGenderHeCap} = "He"
+	set {ChefGenderHisCap} = "His"
+	set {ChefGenderHimCap} = "Him"
+	set {ChefGender} = "Male"
+	set {Was_Were} = "was"
+- Female Chef
+	set {ChefGenderHe} = "she"
+	set {ChefGenderHis} = "her"
+	set {ChefGenderHim} = "her"
+	set {ChefGenderHeCap} = "She"
+	set {ChefGenderHisCap} = "Her"
+	set {ChefGenderHimCap} = "Her"
+	set {ChefGender} = "Female"
+	set {Was_Were} = "was"
+- Neutral Chef
+	set {ChefGenderHe} = "they"
+	set {ChefGenderHis} = "their"
+	set {ChefGenderHim} = "their"
+	set {ChefGenderHeCap} = "They"
+	set {ChefGenderHisCap} = "Their"
+	set {ChefGenderHimCap} = "Their"
+	set {ChefGender} = "Neutral"
+	set {Was_Were} = "were"
+[background arg="res://backgrounds/number-1.png" fade="0.2"]
+2045, Newer York. October 36th. There was a wizard, and his name was Philip.
+[background arg="res://backgrounds/number-2.png" fade="1.5"]
+Philip was depressed. He had no love, and no family, and no money.
+[background arg="res://backgrounds/number-3.png" fade="1.5"]
+Philip, being the skilled mage he is, created a spell. A spell that brought the targets beloved into humanity.
+Philip, justifiably, was absolutely petrified. Was he really ready for love? Would his most beloved throw coffee in his face?
+[background arg="res://backgrounds/number-4.png" fade="1.5"]
+Philip, after steeling his nerves, cast the spell. As soon as he muttered the incantation, something changed.
+He ducked, terrified of the notion of romance. The spell sprung around the room, bouncing from wall to wall and eventually exiting out his one window.
+[background arg="res://backgrounds/number-5.png" fade="1.5"]
+Surely that wouldn't have any consequences.
+[background arg="res://backgrounds/number-6.png" fade="1.5"]
+In a completely unrelated place, there was a chef called {ChefName}. {ChefGenderHeCap} {Was_Were} also depressed. After a horrible allergic reaction from {ChefGenderHis} partner in response to a dish {ChefGenderHe} made, {ChefGenderHe} {Was_Were} currently single.
+"You always do this!" {ChefGenderHis} partner yelled, despite the fact that {ChefGenderHe} had only accidentally poisoned them once before.
+Wait, no. It was twice.
+[background arg="res://backgrounds/number-7.png" fade="1.5"]
+While {ChefName} was wallowing in {ChefGenderHis} newly-single loneliness, the same spell that Philip had oh-so carelessly casted came barrelling through the window.
+[background arg="res://backgrounds/number-8.png" fade="1.5"]
+The power of love truly does aim true. And thus ends the story of {ChefName}, the most lacklustre-
+Nevermind. Chefs are surprisingly resilient to magical spells, apparently.
