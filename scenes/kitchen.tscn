@@ -1,17 +1,28 @@
 [gd_scene format=3 uid="uid://dubyruxbnvqu2"]
 
-[ext_resource type="PackedScene" uid="uid://gxfurakm6hv" path="res://scenes/chef.tscn" id="1_7ilqw"]
-
-[sub_resource type="RectangleShape2D" id="RectangleShape2D_df3gt"]
-size = Vector2(1150, 97)
-
 [node name="Kitchen" type="Node2D" unique_id=535131713]
 
-[node name="StaticBody2D" type="StaticBody2D" parent="." unique_id=1427058739]
+[node name="ChipsButton" type="Button" parent="." unique_id=951478622]
+offset_left = 200.0
+offset_top = 94.0
+offset_right = 474.0
+offset_bottom = 206.0
+mouse_filter = 2
+text = "Beer-battered chips 
+(F)
+"
 
-[node name="CollisionShape2D" type="CollisionShape2D" parent="StaticBody2D" unique_id=517201500]
-position = Vector2(574, 600.5)
-shape = SubResource("RectangleShape2D_df3gt")
+[node name="WingsButton" type="Button" parent="." unique_id=1685114468]
+offset_left = 707.0
+offset_top = 89.0
+offset_right = 981.0
+offset_bottom = 201.0
+mouse_filter = 2
+text = "Buffalo wings
+(M)"
 
-[node name="Chef" parent="." unique_id=682599542 instance=ExtResource("1_7ilqw")]
-position = Vector2(215, 197)
+[node name="ColorRect" type="ColorRect" parent="." unique_id=67963109]
+z_index = -1
+offset_right = 1151.0
+offset_bottom = 647.0
+color = Color(0.65834004, 0.6583399, 0.6583399, 1)

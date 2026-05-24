@@ -3,3 +3,5 @@ res://scenes/shieldminigame.tscn
 res://styles/VN.tres
 res://characters/macarons.dch
 res://text/beginning speech.dtl
+res://text/prologue.dtl
+res://scenes/kitchen.tscn
