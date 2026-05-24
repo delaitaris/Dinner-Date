@@ -1,4 +1,5 @@
-res://scenes/dinner_date.tscn
+res://characters/character.dch
+res://scenes/shieldminigame.tscn
 res://styles/VN.tres
-res://scenes/Starting screen.tscn
-res://text/prologue.dtl
+res://characters/macarons.dch
+res://text/beginning speech.dtl
