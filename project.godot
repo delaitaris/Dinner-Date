@@ -22,11 +22,15 @@ Dialogic="*uid://ds2q0uclmolvu"
 [dialogic]
 
 directories/dch_directory={
+"beerbatteredchips": "res://characters/beerbatteredchips.dch",
+"buffalowings": "res://characters/buffalowings.dch",
 "character": "res://characters/character.dch",
 "macarons": "res://characters/macarons.dch"
 }
 directories/dtl_directory={
+"beerbatteredchips": "res://text/beerbatteredchips.dtl",
 "beginning speech": "res://text/beginning speech.dtl",
+"buffalowings": "res://text/buffalowings.dtl",
 "macarons": "res://text/macarons.dtl",
 "prologue": "res://text/prologue.dtl"
 }

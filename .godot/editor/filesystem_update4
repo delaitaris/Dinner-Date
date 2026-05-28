@@ -1,1 +1,11 @@
+res://characters/character.dch
+res://characters/macarons.dch
+res://characters/beerbatteredchips.dch
+res://scripts/chips_button.gd
+res://text/beerbatterdchips.dtl
+res://text/beerbatteredchips.dtl
+res://scenes/kitchen.tscn
 res://styles/VN.tres
+res://scripts/kitchen.gd
+res://characters/buffalowings.dch
+res://text/buffalowings.dtl

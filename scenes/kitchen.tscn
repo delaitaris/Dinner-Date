@@ -1,28 +1,31 @@
 [gd_scene format=3 uid="uid://dubyruxbnvqu2"]
 
-[node name="Kitchen" type="Node2D" unique_id=535131713]
+[ext_resource type="Script" uid="uid://dnlejcbbq8cyu" path="res://scripts/kitchen.gd" id="1_7ilqw"]
+
+[node name="Kitchen" type="Control" unique_id=694558723]
+layout_mode = 3
+anchors_preset = 0
+script = ExtResource("1_7ilqw")
 
 [node name="ChipsButton" type="Button" parent="." unique_id=951478622]
+layout_mode = 0
 offset_left = 200.0
 offset_top = 94.0
 offset_right = 474.0
 offset_bottom = 206.0
-mouse_filter = 2
+mouse_default_cursor_shape = 6
 text = "Beer-battered chips 
 (F)
 "
 
 [node name="WingsButton" type="Button" parent="." unique_id=1685114468]
+layout_mode = 0
 offset_left = 707.0
 offset_top = 89.0
 offset_right = 981.0
 offset_bottom = 201.0
-mouse_filter = 2
 text = "Buffalo wings
 (M)"
 
-[node name="ColorRect" type="ColorRect" parent="." unique_id=67963109]
-z_index = -1
-offset_right = 1151.0
-offset_bottom = 647.0
-color = Color(0.65834004, 0.6583399, 0.6583399, 1)
+[connection signal="pressed" from="ChipsButton" to="." method="_on_chips_button_pressed"]
+[connection signal="pressed" from="WingsButton" to="." method="_on_wings_button_pressed"]
