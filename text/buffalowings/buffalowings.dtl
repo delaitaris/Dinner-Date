@@ -1,0 +1,45 @@
+join buffalowings left
+buffalowings: Yo! How you doin’?
+- Good
+	character: Uh, pretty good actually-
+	set {WingsMood} = "good"
+- Bad
+	character: Not great, if I’m being honest-
+	set {WingsMood} = "bad"
+- Mid
+	character: Just… kinda mid-
+	set {WingsMood} = "mid"
+buffalowings: Aw, man! That’s awesome! Hey, you wanna see me bend a spatula with my bare hands?
+character: …I was saying-
+buffalowings: Alright! Check this out!
+character: HEY. STOP CUTTING ME OFF.
+buffalowings: My bad! So… How you doin’?
+character: You’ve asked that already. I said I was {WingsMood}.
+buffalowings: Oh, did I? Sorry, my hearing isn’t that great.
+character: Seriously? You’re a food, how can you have hearing issues?
+buffalowings: You ableist, bro?
+character: ...I don’t think so?
+buffalowings: ...
+character: ...
+character: ...So, what sort of person are you?
+buffalowings: Ripped. Funny. Just about the perfect lifeform.
+character: Yeah. Okay. I don’t know what to say in response to that.
+buffalowings: What sort of person are YOU? Come on, I want to get to know my future gym-buddy!
+- Funny
+	character: I'm... funny?
+	set {WingsTrait} = "funny"
+- Smart
+	character: I'm... smart?
+	set {WingsTrait} = "smart"
+- Strong
+	character: I'm... strong?
+	set {WingsTrait} = "strong"
+if {WingsTrait} == "funny":
+	buffalowings: You’re funny? Hell yeah, man! I love comedy!
+	jump buffalowingsFUNNYR/
+elif {WingsTrait} == "smart":
+	buffalowings: You’re smart? Well, no wonder! You’re a cook, of course you’re a genius!
+	jump buffalowingsSMARTR/
+elif {WingsTrait} == "strong":
+	buffalowings: You’re… strong? Seriously, with those arms? Hey, no need to lie, man.
+	jump buffalowingsSTRONGR/

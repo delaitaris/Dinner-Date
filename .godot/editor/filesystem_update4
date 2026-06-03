@@ -1,8 +1,11 @@
+res://characters/buffalowings.dch
+res://text/buffalowings.dtl
 res://scenes/kitchen.tscn
 res://styles/VN.tres
-res://characters/beerbatteredchips.dch
-res://characters/buffalowings.dch
+res://text/buffalowings/buffalowingsFUNNYR.dtl
+res://text/buffalowings/buffalowingsSMARTR.dtl
+res://text/buffalowings/buffalowingsSTRONGR.dtl
+res://text/buffalowings/buffalowings.dtl
 res://characters/character.dch
+res://characters/beerbatteredchips.dch
 res://characters/macarons.dch
-res://text/prologue.dtl
-res://scripts/dinner_date.gd

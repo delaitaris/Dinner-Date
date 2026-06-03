@@ -30,7 +30,10 @@ directories/dch_directory={
 directories/dtl_directory={
 "beerbatteredchips": "res://text/beerbatteredchips.dtl",
 "beginning speech": "res://text/beginning speech.dtl",
-"buffalowings": "res://text/buffalowings.dtl",
+"buffalowings": "res://text/buffalowings/buffalowings.dtl",
+"buffalowingsFUNNYR": "res://text/buffalowings/buffalowingsFUNNYR.dtl",
+"buffalowingsSMARTR": "res://text/buffalowings/buffalowingsSMARTR.dtl",
+"buffalowingsSTRONGR": "res://text/buffalowings/buffalowingsSTRONGR.dtl",
 "macarons": "res://text/macarons.dtl",
 "prologue": "res://text/prologue.dtl"
 }
@@ -80,7 +83,10 @@ variables={
 "ChefGenderHis": "",
 "ChefGenderHisCap": "",
 "ChefName": "",
-"Was_Were": ""
+"Was_Were": "",
+"WingsJoke": "",
+"WingsMood": "",
+"WingsTrait": ""
 }
 layout/style_list=["res://styles/VN.tres"]
 layout/default_style="res://styles/VN.tres"

@@ -1,0 +1,16 @@
+join buffalowings left [animation="Bounce In" length="0.0"]
+character: Well, I think I’m funny.
+buffalowings: Come on, lay a joke on me!
+character: …I really don’t think that’s necessary-
+buffalowings: Come on! You can’t say you’re funny without any proof!
+- Classic Joke?
+	character: …Why did the turkey cross the road?
+	set {WingsJoke} = "classic"
+- Unfunny Joke
+	character: …Deez
+	set {WingsJoke} = "unfunny"
+- Horse Joke?
+	character: A horse walks into a bar…
+	set {WingsJoke} = "horse"
+if {WingsJoke} == "classic":
+	buffalowings: Why?
