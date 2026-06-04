@@ -6,15 +6,31 @@ buffalowings: Come on! You can’t say you’re funny without any proof!
 - Classic Joke?
 	character: …Why did the turkey cross the road?
 	set {WingsJoke} = "classic"
-- Unfunny Joke
-	character: …Deez
+- Unfunny Joke?
+	character: …Deez.
 	set {WingsJoke} = "unfunny"
 - Horse Joke?
 	character: A horse walks into a bar…
 	set {WingsJoke} = "horse"
+- Vader Joke?
+	character: Where does Barth Vader get his shoes?
+	set {WingsJoke} = "maul"
 if {WingsJoke} == "classic":
 	buffalowings: Why?
+	character: To get to the other side.....
+	buffalowings: …Is that the whole joke?
+	character: Yeah.
+	buffalowings: ...
+	character: ...
+	character: Now that I think about it, that wasn’t that funny.
 elif {WingsJoke} == "unfunny":
 	buffalowings: Deez what?
+	character: …You don’t have to worry about it
 elif {WingsJoke} == "horse":
-	character: <Empty Text Event>
+	character: And the horse says, ‘I’ll have one cider please’. The bartender says, ‘Why the long face?
+	buffalowings: ....
+	buffalowings: HAHAHAHAHAHAHAHAHAHAHAHA!
+	character: Was it that funny? This feels like pity-laughter.
+elif {WingsJoke} == "maul":
+	buffalowings: Where?
+	character: The Barth Maul.
