@@ -1,4 +1,5 @@
 join buffalowings left
+[background scene="res://scenes/talking.tscn" arg="res://backgrounds/number-8.png" fade="0.0"]
 buffalowings: Yo! How you doin’?
 - Good
 	character: Uh, pretty good actually-

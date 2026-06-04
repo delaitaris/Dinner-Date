@@ -1,3 +1,6 @@
 [gd_scene format=3 uid="uid://nq4sdkt5horg"]
 
+[ext_resource type="Script" uid="uid://b5muj65vp0qap" path="res://scenes/talking.gd" id="1_on3p8"]
+
 [node name="talking" type="Node2D" unique_id=1118505670]
+script = ExtResource("1_on3p8")
