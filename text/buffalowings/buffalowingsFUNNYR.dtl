@@ -14,3 +14,7 @@ buffalowings: Come on! You can’t say you’re funny without any proof!
 	set {WingsJoke} = "horse"
 if {WingsJoke} == "classic":
 	buffalowings: Why?
+elif {WingsJoke} == "unfunny":
+	buffalowings: Deez what?
+elif {WingsJoke} == "horse":
+	character: <Empty Text Event>
