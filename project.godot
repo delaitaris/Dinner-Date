@@ -73,6 +73,12 @@ audio/channel_defaults={
 "fade_length": 0.0,
 "loop": true,
 "volume": 0.0
+},
+"voice": {
+"audio_bus": "",
+"fade_length": 0.0,
+"loop": true,
+"volume": 0.0
 }
 }
 variables={

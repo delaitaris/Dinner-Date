@@ -1,5 +1,5 @@
-res://text/buffalowings/buffalowingsFUNNYR.dtl
 res://scenes/kitchen.tscn
 res://styles/VN.tres
-res://text/buffalowings/buffalowingsENDR.dtl
-res://text/buffalowings/buffalowingsSTRONGR.dtl
+res://text/buffalowings/buffalowings.dtl
+res://characters/buffalowings.dch
+res://characters/character.dch
