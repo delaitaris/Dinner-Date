@@ -10,5 +10,6 @@ func _ready() -> void:
 
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 func _process(delta: float) -> void:
-	if Dialogic.signal_event:
-		print("yeahhhhh")
+	if Dialogic.timeline_ended("prologue"):
+		print("okay")
+		
