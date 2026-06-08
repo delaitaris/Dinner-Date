@@ -1,6 +1,7 @@
-res://scenes/kitchen.tscn
+res://text/prologue.dtl
+res://text/buffalowings/buffalowingsSMARTR.dtl
+res://scenes/Starting screen.tscn
 res://styles/VN.tres
-res://text/buffalowings/buffalowingsSTRONGR.dtl
+res://scripts/kitchen.gd
 res://text/buffalowings/buffalowingsFUNNYR.dtl
 res://text/buffalowings/buffalowingsENDR.dtl
-res://text/prologue.dtl
