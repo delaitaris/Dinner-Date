@@ -3,3 +3,9 @@ res://scenes/kitchen.tscn
 res://styles/VN.tres
 res://scenes/talking.tscn
 res://scenes/talking.gd
+res://scenes/kitchen.tscn
+res://styles/VN.tres
+res://text/buffalowings/buffalowingsSTRONGR.dtl
+res://text/buffalowings/buffalowingsFUNNYR.dtl
+res://text/buffalowings/buffalowingsENDR.dtl
+res://text/prologue.dtl
