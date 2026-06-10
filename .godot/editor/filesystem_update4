@@ -1,5 +1,7 @@
 res://scenes/talking.tscn
 res://styles/VN.tres
-res://scripts/kitchen.gd
+res://text/buffalowings/buffalowings.dtl
+res://characters/character.dch
 res://scripts/dinner_date.gd
 res://text/prologue.dtl
+res://scenes/dinner_date.tscn

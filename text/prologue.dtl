@@ -47,3 +47,4 @@ While {ChefName} was wallowing in {ChefGenderHis} newly-single loneliness, the s
 [background arg="res://backgrounds/number-8.png" fade="1.5"]
 The power of love truly does aim true. And thus ends the story of {ChefName}, the most lacklustre-
 Nevermind. Chefs are surprisingly resilient to magical spells, apparently.
+[signal arg="selection"]
