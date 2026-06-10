@@ -1,0 +1,25 @@
+join buffalowings left
+character: Genius would be going a bit far.
+buffalowings: Bro. You cook for a living, what other job lets you do something so fun!?
+character: Fun does not correlate to intellect.
+buffalowings: See! Already speaking without contractions.
+character: ...
+character: Did you know that y’all’dn’t’ve is a grammatically correct contraction?
+buffalowings: Proving my point.
+character: Barely. All I’m good at is spelling trivia.
+buffalowings: Intelligence is subjective.
+character: …What?
+character: No. No, it’s literally not.
+buffalowings: Pretty sure it is.
+character: You’re a food, you haven’t gone to school.
+buffalowings: Says who?
+- Yell
+	character: SAYS LOGIC! IF YOU WERE A CHICKEN 2 WEEKS AGO, THEN YOU COULDN’T GET AN EDUCATION!
+	buffalowings: …Yeesh, no need to get mad about it. It’s magic, okay? Magic doesn’t make any sense.
+	character:  …My bad, I guess. Sorry for yelling
+	jump buffalowingsENDR/
+- Admit Defeat
+	character: …Alright..
+	character: I can tell this isn’t gonna get anywhere.
+	buffalowings: Alright, whatever you say.
+	jump buffalowingsENDR/

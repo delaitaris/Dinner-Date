@@ -22,6 +22,7 @@ Dialogic="*uid://ds2q0uclmolvu"
 [dialogic]
 
 directories/dch_directory={
+"Both": "res://Both.dch",
 "beerbatteredchips": "res://characters/beerbatteredchips.dch",
 "buffalowings": "res://characters/buffalowings.dch",
 "character": "res://characters/character.dch",
@@ -69,6 +70,12 @@ audio/channel_defaults={
 "volume": 0.0
 },
 "music": {
+"audio_bus": "",
+"fade_length": 0.0,
+"loop": true,
+"volume": 0.0
+},
+"voice": {
 "audio_bus": "",
 "fade_length": 0.0,
 "loop": true,
