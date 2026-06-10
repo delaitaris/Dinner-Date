@@ -1,4 +1,5 @@
 join buffalowings left
+[background scene="res://scenes/talking.tscn" arg="res://backgrounds/number-8.png" fade="0.0"]
 buffalowings: Yo! How you doin’?
 - Good
 	character: Uh, pretty good actually-
@@ -12,7 +13,7 @@ buffalowings: Yo! How you doin’?
 buffalowings: Aw, man! That’s awesome! Hey, you wanna see me bend a spatula with my bare hands?
 character: …I was saying-
 buffalowings: Alright! Check this out!
-character: HEY. STOP CUTTING ME OFF.
+character: [lspeed=0.1]HEY. STOP CUTTING ME OFF.
 buffalowings: My bad! So… How you doin’?
 character: You’ve asked that already. I said I was {WingsMood}.
 buffalowings: Oh, did I? Sorry, my hearing isn’t that great.

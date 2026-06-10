@@ -2,16 +2,16 @@
 
 importer="texture"
 type="CompressedTexture2D"
-uid="uid://dm5jii7n0mx7m"
-path="res://.godot/imported/number-4.png-f52974f2731653d529a36fc03b3da1ac.ctex"
+uid="uid://c6x4pq3w2n7bd"
+path="res://.godot/imported/number-3.png-3a41487218269c0f04add10eaf618146.ctex"
 metadata={
 "vram_texture": false
 }
 
 [deps]
 
-source_file="res://backgrounds/number-4.png"
-dest_files=["res://.godot/imported/number-4.png-f52974f2731653d529a36fc03b3da1ac.ctex"]
+source_file="res://dialogic resources/backgrounds/number-3.png"
+dest_files=["res://.godot/imported/number-3.png-3a41487218269c0f04add10eaf618146.ctex"]
 
 [params]
 

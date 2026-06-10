@@ -2,17 +2,28 @@
 "@path": "res://addons/dialogic/Resources/character.gd",
 "@subpath": NodePath(""),
 &"_translation_id": "",
-&"color": Color(1, 1, 1, 1),
+&"color": Color(0.921875, 0.29888916, 0.29888916, 1),
 &"custom_info": {
 "prefix": "",
 "sound_mood_default": "Mood 1",
-"sound_moods": {},
-"style": "",
+"sound_moods": {
+"Mood 1": {
+"mode": 2,
+"name": "Mood 1",
+"pitch_base": 1.0,
+"pitch_variance": 0.0,
+"skip_characters": 0.0,
+"sound_path": "res://dialogic resources/voices/Brockvoice.wav",
+"volume_base": 1.0,
+"volume_variance": 0.0
+}
+},
+"style": "VN",
 "suffix": ""
 },
 &"default_portrait": "New portrait",
 &"description": "",
-&"display_name": "{ChefName}",
+&"display_name": "Brock Wingman",
 &"mirror": false,
 &"nicknames": [""],
 &"offset": Vector2(0, 0),
@@ -24,7 +35,8 @@
 "mirror": false,
 "offset": Vector2(0, 0),
 "scale": 1,
-"scene": "res://addons/dialogic/Modules/Character/default_portrait.tscn"
+"scene": "",
+"sound_mood": "<null>"
 }
 },
 &"scale": 1.0

@@ -22,22 +22,21 @@ Dialogic="*uid://ds2q0uclmolvu"
 [dialogic]
 
 directories/dch_directory={
-"Both": "res://Both.dch",
-"beerbatteredchips": "res://characters/beerbatteredchips.dch",
-"buffalowings": "res://characters/buffalowings.dch",
-"character": "res://characters/character.dch",
-"macarons": "res://characters/macarons.dch"
+"Both": "res://dialogic resources/characters/Both.dch",
+"beerbatteredchips": "res://dialogic resources/characters/beerbatteredchips.dch",
+"buffalowings": "res://dialogic resources/characters/buffalowings.dch",
+"character": "res://dialogic resources/characters/character.dch",
+"macarons": "res://dialogic resources/characters/macarons.dch"
 }
 directories/dtl_directory={
-"beerbatteredchips": "res://text/beerbatteredchips.dtl",
-"beginning speech": "res://text/beginning speech.dtl",
-"buffalowings": "res://text/buffalowings/buffalowings.dtl",
-"buffalowingsENDR": "res://text/buffalowings/buffalowingsENDR.dtl",
-"buffalowingsFUNNYR": "res://text/buffalowings/buffalowingsFUNNYR.dtl",
-"buffalowingsSMARTR": "res://text/buffalowings/buffalowingsSMARTR.dtl",
-"buffalowingsSTRONGR": "res://text/buffalowings/buffalowingsSTRONGR.dtl",
-"macarons": "res://text/macarons.dtl",
-"prologue": "res://text/prologue.dtl"
+"beerbatteredchips": "res://dialogic resources/text/beerbatteredchips/beerbatteredchips.dtl",
+"buffalowings": "res://dialogic resources/text/buffalowings/buffalowings.dtl",
+"buffalowingsENDR": "res://dialogic resources/text/buffalowings/buffalowingsENDR.dtl",
+"buffalowingsFUNNYR": "res://dialogic resources/text/buffalowings/buffalowingsFUNNYR.dtl",
+"buffalowingsSMARTR": "res://dialogic resources/text/buffalowings/buffalowingsSMARTR.dtl",
+"buffalowingsSTRONGR": "res://dialogic resources/text/buffalowings/buffalowingsSTRONGR.dtl",
+"macarons": "res://dialogic resources/text/macarons/macarons.dtl",
+"prologue": "res://dialogic resources/text/prologue/prologue.dtl"
 }
 layout/style_directory={
 "": "res://styles/VN.tres",

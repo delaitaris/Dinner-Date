@@ -6,7 +6,6 @@ func _ready() -> void:
 	pass # Replace with function body.
 
 
-
 func _on_chips_button_pressed() -> void:
 	Dialogic.start("beerbatteredchips")
 	get_tree().change_scene_to_file("res://scenes/talking.tscn")
