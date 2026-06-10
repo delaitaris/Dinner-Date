@@ -1,0 +1,17 @@
+join buffalowings left
+character: I’m not lying! I’ll have you know, I bench 80.
+buffalowings: Bro…
+buffalowings: That’s awesome! Hell yeah man, I’m all for the betterment of yourself!
+character: …I’m not gonna lie, I figured you were gonna say something else.
+buffalowings: Huh? Like what?
+- Self-doubt
+	character: Uh… “Only 80kg? That’s so little.” Something like that.
+	buffalowings:  What? Dude, 80kg is sick as hell! You’re… what, 90? Benching almost your entire bodyweight is pretty cool.
+- Not sure
+	character: I don’t really know. Just… not that.
+	buffalowings: Well, whatever it was, I ain’t like that. Any progress is good progress!
+character: …Weirdly motivational. But thanks. So… how much can you bench?
+buffalowings: Technically, I haven’t ever actually exercised before.
+character: Wait, so-
+buffalowings: It’s 400kg.
+character: WHAT THE HELL!? You’re- You’re like a couple inches taller than me at max! Hell, one of the strongest guys ever benched like 500kg, and that's not far off the world record! How…

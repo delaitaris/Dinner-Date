@@ -11,3 +11,15 @@ buffalowings: Intelligence is subjective.
 character: …What?
 character: No. No, it’s literally not.
 buffalowings: Pretty sure it is.
+character: You’re a food, you haven’t gone to school.
+buffalowings: Says who?
+- Yell
+	character: SAYS LOGIC! IF YOU WERE A CHICKEN 2 WEEKS AGO, THEN YOU COULDN’T GET AN EDUCATION!
+	buffalowings: …Yeesh, no need to get mad about it. It’s magic, okay? Magic doesn’t make any sense.
+	character:  …My bad, I guess. Sorry for yelling
+	jump buffalowingsENDR/
+- Admit Defeat
+	character: …Alright..
+	character: I can tell this isn’t gonna get anywhere.
+	buffalowings: Alright, whatever you say.
+	jump buffalowingsENDR/
