@@ -22,6 +22,7 @@ Dialogic="*uid://ds2q0uclmolvu"
 [dialogic]
 
 directories/dch_directory={
+"Both": "res://Both.dch",
 "beerbatteredchips": "res://characters/beerbatteredchips.dch",
 "buffalowings": "res://characters/buffalowings.dch",
 "character": "res://characters/character.dch",
