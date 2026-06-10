@@ -3,12 +3,12 @@
 importer="wav"
 type="AudioStreamWAV"
 uid="uid://cauo1a5ht4py8"
-path="res://.godot/imported/Brockvoice.wav-2b75addbf50d7564686a09f15325825f.sample"
+path="res://.godot/imported/Brockvoice.wav-797987b4b72a52bb468bf360af5c6529.sample"
 
 [deps]
 
-source_file="res://Brockvoice.wav"
-dest_files=["res://.godot/imported/Brockvoice.wav-2b75addbf50d7564686a09f15325825f.sample"]
+source_file="res://dialogic resources/voices/Brockvoice.wav"
+dest_files=["res://.godot/imported/Brockvoice.wav-797987b4b72a52bb468bf360af5c6529.sample"]
 
 [params]
 
