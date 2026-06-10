@@ -1,4 +1,6 @@
-res://characters/macarons.dch
-res://characters/character.dch
-res://characters/buffalowings.dch
 res://characters/beerbatteredchips.dch
+res://characters/buffalowings.dch
+res://Both.dch
+res://text/buffalowings/buffalowingsSTRONGR.dtl
+res://scenes/talking.tscn
+res://styles/VN.tres

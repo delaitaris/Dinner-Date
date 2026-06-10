@@ -1,5 +1,5 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1781060460
+::res://::1781061371
 Brockvoice.wav::AudioStreamWAV::4815025437696384261::1781060368::1781060471::1::::<><><>0<>0<>aa6f62b64d78ae6d4277bd66d516a8cb<>res://.godot/imported/Brockvoice.wav-2b75addbf50d7564686a09f15325825f.sample::
 icon.svg::CompressedTexture2D::3843880153456758082::1781060369::1781060369::1::::<><><>0<>0<>1bf8324b66b59551b29c4abc63bb2c4e<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 ::res://addons/::1781060369
@@ -636,7 +636,7 @@ TimelineResourceSaver.gd::GDScript::6005903703142383367::1781060369::0::1::::Dia
 ::res://addons/dialogic_additions/Test/::1781060369
 event_test.gd::GDScript::6342605812697891301::1781060369::0::1::::DialogicTestEvent<>DialogicEvent<><>0<>1<><>::
 index.gd::GDScript::6082284368828657349::1781060369::0::1::::<>DialogicIndexer<><>0<>1<><>::
-::res://backgrounds/::1781060369
+::res://backgrounds/::1781060471
 number-1.png::CompressedTexture2D::4224413906369175785::1781060369::1781060471::1::::<><><>0<>0<>b8e12b1a1bd189224f6e55815c564982<>res://.godot/imported/number-1.png-f8282db0a8b79e6d6af82a601325685c.ctex::
 number-2.png::CompressedTexture2D::8145133934121615723::1781060369::1781060471::1::::<><><>0<>0<>7c470dce5be6abd589a0de5f4186421b<>res://.godot/imported/number-2.png-6b3248575ce1967cc27d9857abcf4ba3.ctex::
 number-3.png::CompressedTexture2D::6997964672871716093::1781060369::1781060471::1::::<><><>0<>0<>785b7fe62eb4ba55d1ffd0c25fdc2990<>res://.godot/imported/number-3.png-ec7cd4692850833273c5013645fadfed.ctex::
@@ -645,11 +645,11 @@ number-5.png::CompressedTexture2D::8898927765517637436::1781060369::1781060471::
 number-6.png::CompressedTexture2D::5757010914316628944::1781060369::1781060471::1::::<><><>0<>0<>aba0a8e16a3e17e04efafdd226b8fc15<>res://.godot/imported/number-6.png-0adf41c58a99000822de392bf6bbdf8b.ctex::
 number-7.png::CompressedTexture2D::1050689802621808965::1781060369::1781060471::1::::<><><>0<>0<>0280cb36076674862caa34fcc6ecf687<>res://.godot/imported/number-7.png-9bb08be59c2283d167c8a74e62ae8971.ctex::
 number-8.png::CompressedTexture2D::942194725930003445::1781060369::1781060471::1::::<><><>0<>0<>25d787462dd7d01e58e81dda7363b269<>res://.godot/imported/number-8.png-5eff7dbe8e584759572322dd524fea59.ctex::
-::res://characters/::1781060369
-beerbatteredchips.dch::Resource/DialogicCharacter::5777829162865302177::1781060369::0::1::::<><><>0<>0<><>::res://icon.svg
-buffalowings.dch::Resource/DialogicCharacter::7761206186939089605::1781060369::0::1::::<><><>0<>0<><>::res://icon.svg
-character.dch::Resource/DialogicCharacter::7310148712118218395::1781060369::0::1::::<><><>0<>0<><>::res://addons/dialogic/Modules/Character/default_portrait.tscn<>res://icon.svg
-macarons.dch::Resource/DialogicCharacter::278880805345662245::1781060369::0::1::::<><><>0<>0<><>::res://icon.svg
+::res://characters/::1781060502
+beerbatteredchips.dch::Resource/DialogicCharacter::5777829162865302177::1781060502::0::1::::<><><>0<>0<><>::res://icon.svg
+buffalowings.dch::Resource/DialogicCharacter::7761206186939089605::1781060496::0::1::::<><><>0<>0<><>::res://icon.svg
+character.dch::Resource/DialogicCharacter::7310148712118218395::1781060495::0::1::::<><><>0<>0<><>::res://addons/dialogic/Modules/Character/default_portrait.tscn<>res://icon.svg
+macarons.dch::Resource/DialogicCharacter::278880805345662245::1781060494::0::1::::<><><>0<>0<><>::res://icon.svg
 ::res://scenes/::1781060369
 cuttingminigame.tscn::PackedScene::3307057463110420734::1781060369::0::1::::<><><>0<>0<><>::uid://csoopr6remkq0::::res://sprites/ROGscale.png<>uid://bkqnu1duix6v3::::res://scripts/pointer.gd<>uid://byrw2n614m0y0::::res://sprites/pointerdark.png
 dinner_date.tscn::PackedScene::1867401658436221151::1781060369::0::1::::<><><>0<>0<><>::uid://dlnbnd614nujb::::res://scripts/dinner_date.gd
@@ -665,7 +665,7 @@ shield.gd::GDScript::4772291365215669539::1781060369::0::1::::<>StaticBody2D<><>
 sprite_2d.gd::GDScript::7408073323213730386::1781060369::0::1::::<>Sprite2D<><>0<>0<><>::
 starting_screen.gd::GDScript::3316819250283287566::1781060369::0::1::::<>Control<><>0<>0<><>::
 wok_sprite.gd::GDScript::2660843366106391323::1781060369::0::1::::<>Sprite2D<><>0<>0<><>::
-::res://sprites/::1781060369
+::res://sprites/::1781060471
 carrot.png::CompressedTexture2D::4273140955619198012::1781060369::1781060471::1::::<><><>0<>0<>8aac0608ee6d01b841d83816d99ef1cb<>res://.godot/imported/carrot.png-76d9ce4583170baa6781d85b0386a785.ctex::
 pointer.png::CompressedTexture2D::7827396519606085190::1781060369::1781060471::1::::<><><>0<>0<>43e4117784fb694169742de617c1d356<>res://.godot/imported/pointer.png-35f0095bd49c9f0de9797c0d2bf3943a.ctex::
 pointerdark.png::CompressedTexture2D::4107432075014253789::1781060369::1781060471::1::::<><><>0<>0<>397e553e5eec59217329848a6d5882bd<>res://.godot/imported/pointerdark.png-7a9587f290293d8c9d44d9dc7905216a.ctex::
