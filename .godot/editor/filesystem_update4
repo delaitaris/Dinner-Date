@@ -1,16 +1,1 @@
-res://scenes/talking.tscn
 res://styles/VN.tres
-res://text/buffalowings/buffalowingsSTRONGR.dtl
-res://text/buffalowings/buffalowingsENDR.dtl
-res://text/buffalowings/buffalowings.dtl
-res://text/buffalowings/buffalowingsFUNNYR.dtl
-res://text/buffalowings/buffalowingsSMARTR.dtl
-res://scenes/cuttingminigame.tscn
-res://scenes/shieldminigame.tscn
-res://text/prologue.dtl
-res://dialogic resources/characters/beerbatteredchips.dch
-res://dialogic resources/characters/Both.dch
-res://dialogic resources/characters/buffalowings.dch
-res://dialogic resources/characters/character.dch
-res://dialogic resources/characters/macarons.dch
-res://dialogic resources/text/prologue/prologue.dtl
