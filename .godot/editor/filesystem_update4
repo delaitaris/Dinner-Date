@@ -1,15 +1,2 @@
 res://scenes/kitchen.tscn
 res://styles/VN.tres
-res://dialogic resources/characters/buffalowings.dch
-res://dialogic resources/characters/Both.dch
-res://dialogic resources/text/buffalowings/buffalowingsSTRONGR.dtl
-res://dialogic resources/text/buffalowings/buffalowingsENDR.dtl
-res://scripts/kitchen_2.gd
-res://dialogic resources/characters/steak.dch
-res://dialogic resources/characters/spaghetti.dch
-res://dialogic resources/text/spaghetti/spaghetti.dtl
-res://scenes/kitchen_2.tscn
-res://scripts/dinner_date.gd
-res://scenes/talking.tscn
-res://scripts/kitchen.gd
-res://scripts/talking.gd
