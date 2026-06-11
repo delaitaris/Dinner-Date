@@ -26,7 +26,8 @@ directories/dch_directory={
 "beerbatteredchips": "res://dialogic resources/characters/beerbatteredchips.dch",
 "buffalowings": "res://dialogic resources/characters/buffalowings.dch",
 "character": "res://dialogic resources/characters/character.dch",
-"macarons": "res://dialogic resources/characters/macarons.dch"
+"macarons": "res://dialogic resources/characters/macarons.dch",
+"spaghetti": "res://dialogic resources/characters/spaghetti.dch"
 }
 directories/dtl_directory={
 "beerbatteredchips": "res://dialogic resources/text/beerbatteredchips/beerbatteredchips.dtl",
@@ -36,7 +37,8 @@ directories/dtl_directory={
 "buffalowingsSMARTR": "res://dialogic resources/text/buffalowings/buffalowingsSMARTR.dtl",
 "buffalowingsSTRONGR": "res://dialogic resources/text/buffalowings/buffalowingsSTRONGR.dtl",
 "macarons": "res://dialogic resources/text/macarons/macarons.dtl",
-"prologue": "res://dialogic resources/text/prologue/prologue.dtl"
+"prologue": "res://dialogic resources/text/prologue/prologue.dtl",
+"spaghetti": "res://dialogic resources/text/spaghetti/spaghetti.dtl"
 }
 layout/style_directory={
 "": "res://styles/VN.tres",

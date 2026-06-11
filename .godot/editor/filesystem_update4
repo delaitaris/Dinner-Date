@@ -1,16 +1,15 @@
-res://scenes/talking.tscn
+res://scenes/kitchen.tscn
 res://styles/VN.tres
-res://text/buffalowings/buffalowingsSTRONGR.dtl
-res://text/buffalowings/buffalowingsENDR.dtl
-res://text/buffalowings/buffalowings.dtl
-res://text/buffalowings/buffalowingsFUNNYR.dtl
-res://text/buffalowings/buffalowingsSMARTR.dtl
-res://scenes/cuttingminigame.tscn
-res://scenes/shieldminigame.tscn
-res://text/prologue.dtl
-res://dialogic resources/characters/beerbatteredchips.dch
-res://dialogic resources/characters/Both.dch
 res://dialogic resources/characters/buffalowings.dch
-res://dialogic resources/characters/character.dch
-res://dialogic resources/characters/macarons.dch
-res://dialogic resources/text/prologue/prologue.dtl
+res://dialogic resources/characters/Both.dch
+res://dialogic resources/text/buffalowings/buffalowingsSTRONGR.dtl
+res://dialogic resources/text/buffalowings/buffalowingsENDR.dtl
+res://scripts/kitchen_2.gd
+res://dialogic resources/characters/steak.dch
+res://dialogic resources/characters/spaghetti.dch
+res://dialogic resources/text/spaghetti/spaghetti.dtl
+res://scenes/kitchen_2.tscn
+res://scripts/dinner_date.gd
+res://scenes/talking.tscn
+res://scripts/kitchen.gd
+res://scripts/talking.gd
