@@ -1,0 +1,52 @@
+[gd_scene format=3 uid="uid://rmvym6pjo21q"]
+
+[ext_resource type="Script" uid="uid://8kftwuaaioxo" path="res://scripts/kitchen_2.gd" id="1_3sbrr"]
+
+[sub_resource type="LabelSettings" id="LabelSettings_3sbrr"]
+font_size = 41
+font_color = Color(1, 0, 0, 1)
+
+[node name="Kitchen2" type="Control" unique_id=281839520]
+layout_mode = 3
+anchors_preset = 15
+anchor_right = 1.0
+anchor_bottom = 1.0
+grow_horizontal = 2
+grow_vertical = 2
+script = ExtResource("1_3sbrr")
+
+[node name="SpaghettiButton" type="Button" parent="." unique_id=852800676]
+layout_mode = 0
+offset_left = 199.0
+offset_top = 78.0
+offset_right = 455.0
+offset_bottom = 171.0
+text = "Spaghetti
+(F)"
+
+[node name="SteakButton" type="Button" parent="." unique_id=1684668104]
+layout_mode = 0
+offset_left = 695.0
+offset_top = 77.0
+offset_right = 956.0
+offset_bottom = 170.0
+text = "Steak
+(M)"
+
+[node name="ColorRect" type="ColorRect" parent="." unique_id=1018830027]
+layout_mode = 0
+offset_left = 693.0
+offset_top = 80.0
+offset_right = 957.0
+offset_bottom = 168.0
+
+[node name="Label" type="Label" parent="ColorRect" unique_id=508402371]
+layout_mode = 0
+offset_top = 12.0
+offset_right = 269.0
+offset_bottom = 78.0
+text = "IN PROGRESS"
+label_settings = SubResource("LabelSettings_3sbrr")
+
+[connection signal="pressed" from="SpaghettiButton" to="." method="_on_spaghetti_button_pressed"]
+[connection signal="pressed" from="SteakButton" to="." method="_on_steak_button_pressed"]

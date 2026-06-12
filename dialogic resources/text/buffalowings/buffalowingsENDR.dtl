@@ -1,3 +1,18 @@
 join buffalowings left
 character: So… apart from my skills, what do you think of me? This is a speed-date, I gotta knock it out quick.
 buffalowings: Right! You’re… good with your hands, you know with cooking and everything.
+if {WingsTrait} == "smart":
+	character: I guess, yeah. But you’ve said that already.
+else:
+	character: I guess, yeah.
+buffalowings: Yeah. Well, my time's coming to an end. The magic that imbued in me is fading out.
+character: Wait- already? Seriously? That… sucks, I guess. I figured you’d be kicking it around for at least a couple more minutes.
+buffalowings: The mana was borrowed from a spell, it’s not exactly like there’s a surplus of it.
+character: True. So… bye? I can’t exactly say ‘see you later’, since it’s not like I can make whatever spell that was with my own mana.
+buffalowings: Yeah. Peace! Keep exercising! I’m gonna go exercise in food-afterlife!
+- Afterlife?
+	character: There’s food… afterlife? Huh. Guess he’s gone.
+- Food Jesus?
+	character: …Huh. Does that mean there’s food Jesus?
+leave buffalowings [animation="Fade Out Down" length="3.5" wait="true"]
+[signal arg="entreedone"]
