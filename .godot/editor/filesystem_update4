@@ -1,3 +1,4 @@
-res://scenes/Starting screen.tscn
-res://scenes/kitchen.tscn
+res://scenes/kitchen_2.tscn
 res://styles/VN.tres
+res://scenes/talking.tscn
+res://dialogic resources/text/buffalowings/buffalowingsENDR.dtl

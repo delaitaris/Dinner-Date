@@ -15,4 +15,5 @@ buffalowings: Yeah. Peace! Keep exercising! I’m gonna go exercise in food-afte
 - Food Jesus?
 	character: …Huh. Does that mean there’s food Jesus?
 leave buffalowings [animation="Fade Out Down" length="3.5" wait="true"]
+Hi! Dev's here. This is all we have for now because our artist AND writer are being lazy. This is 1 of 6 characters, all with different personalities.
 [signal arg="entreedone"]
