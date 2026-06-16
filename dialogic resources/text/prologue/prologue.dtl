@@ -26,6 +26,7 @@
 	set {ChefGenderHimCap} = "Their"
 	set {ChefGender} = "Neutral"
 	set {Was_Were} = "were"
+audio music "res://Intro_dinnerdate_soundtrack.mp3"
 [background arg="res://dialogic resources/backgrounds/number-1.png" fade="0.2"]
 2045, Newer York. October 36th. There was a wizard, and his name was Philip.
 [background arg="res://dialogic resources/backgrounds/number-2.png" fade="1.5"]
