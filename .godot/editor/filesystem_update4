@@ -1,3 +1,7 @@
+res://dialogic resources/characters/beerbatteredchips.dch
+res://dialogic resources/characters/buffalowings.dch
+res://dialogic resources/text/buffalowings/buffalowingsENDR.dtl
 res://scenes/talking.tscn
 res://styles/VN.tres
-res://dialogic resources/text/prologue/prologue.dtl
+res://scripts/talking.gd
+res://scripts/kitchen.gd

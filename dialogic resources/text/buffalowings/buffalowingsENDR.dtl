@@ -8,12 +8,15 @@ else:
 buffalowings: Yeah. Well, my time's coming to an end. The magic that imbued in me is fading out.
 character: Wait- already? Seriously? That… sucks, I guess. I figured you’d be kicking it around for at least a couple more minutes.
 buffalowings: The mana was borrowed from a spell, it’s not exactly like there’s a surplus of it.
-character: True. So… bye? I can’t exactly say ‘see you later’, since it’s not like I can make whatever spell that was with my own mana.
-buffalowings: Yeah. Peace! Keep exercising! I’m gonna go exercise in food-afterlife!
-- Afterlife?
-	character: There’s food… afterlife? Huh. Guess he’s gone.
-- Food Jesus?
-	character: …Huh. Does that mean there’s food Jesus?
+character: What- No! What are you talking about!?
+buffalowings: So long!
+character: You’re about to die! What, don’t you have any last words or something?
+buffalowings: So long!
+character: How are you so chill about this!?
+buffalowings: So long!
+character: STOP SAYING SO LONG.
+buffalowings: So long!
+character: …I don’t care at this point.
+buffalowings: So-
 leave buffalowings [animation="Fade Out Down" length="3.5" wait="true"]
-Hi! Dev's here. This is all we have for now because our artist AND writer are being lazy. This is 1 of 6 characters, all with different personalities.
 [signal arg="entreedone"]
