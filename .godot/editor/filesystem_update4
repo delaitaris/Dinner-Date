@@ -1,7 +1,2 @@
-res://dialogic resources/characters/beerbatteredchips.dch
-res://dialogic resources/characters/buffalowings.dch
-res://dialogic resources/text/buffalowings/buffalowingsENDR.dtl
-res://scenes/talking.tscn
+res://scenes/kitchen_2.tscn
 res://styles/VN.tres
-res://scripts/talking.gd
-res://scripts/kitchen.gd
