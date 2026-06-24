@@ -1,5 +1,6 @@
+[background scene="kitchen_2.tscn" arg="res://icon.svg" fade="0.0"]
 join buffalowings left
-[background scene="res://scenes/talking.tscn" arg="res://backgrounds/number-8.png" fade="0.0"]
+set {Entreevar} = "Brock"
 buffalowings: Yo! How you doin’?
 - Good
 	character: Uh, pretty good actually-

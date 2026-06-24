@@ -38,7 +38,10 @@ directories/dtl_directory={
 "buffalowingsSTRONGR": "res://dialogic resources/text/buffalowings/buffalowingsSTRONGR.dtl",
 "macarons": "res://dialogic resources/text/macarons/macarons.dtl",
 "prologue": "res://dialogic resources/text/prologue/prologue.dtl",
-"spaghetti": "res://dialogic resources/text/spaghetti/spaghetti.dtl"
+"spaghetti": "res://dialogic resources/text/spaghetti/spaghetti.dtl",
+"spaghettiCOOKING": "res://dialogic resources/text/spaghetti/spaghettiCOOKING.dtl",
+"spaghettiFUMBLE": "res://dialogic resources/text/spaghetti/spaghettiFUMBLE.dtl",
+"spaghettiKNITTING": "res://dialogic resources/text/spaghetti/spaghettiKNITTING.dtl"
 }
 layout/style_directory={
 "": "res://styles/VN.tres",
@@ -92,6 +95,7 @@ variables={
 "ChefGenderHis": "",
 "ChefGenderHisCap": "",
 "ChefName": "",
+"Entreevar": "",
 "Was_Were": "",
 "WingsJoke": "",
 "WingsMood": "",

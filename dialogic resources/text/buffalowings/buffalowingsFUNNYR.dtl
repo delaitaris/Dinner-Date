@@ -37,4 +37,8 @@ elif {WingsJoke} == "horse":
 elif {WingsJoke} == "maul":
 	buffalowings: Where?
 	character: The Barth Maul.
+	buffalowings: ...
+	buffalowings: This feels like a joke I should get, but I don’t.
+	buffalowings: Like… like it was forced into the conversation.
+	character: Woah there! Getting a bit too meta
 	jump buffalowingsENDR/

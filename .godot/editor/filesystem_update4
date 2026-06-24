@@ -1,2 +1,12 @@
-res://scenes/kitchen_2.tscn
+res://dialogic resources/text/buffalowings/buffalowingsFUNNYR.dtl
+res://dialogic resources/text/buffalowings/buffalowingsENDR.dtl
+res://dialogic resources/text/spaghetti/spaghetti.dtl
+res://dialogic resources/text/buffalowings/buffalowings.dtl
+res://dialogic resources/text/beerbatteredchips/beerbatteredchips.dtl
+res://scenes/kitchen.tscn
 res://styles/VN.tres
+res://dialogic resources/text/spaghetti/spaghettiKNITTING.dtl
+res://dialogic resources/text/spaghetti/spaghettiCOOKING.dtl
+res://dialogic resources/text/spaghetti/spaghettiFUMBLE.dtl
+res://dialogic resources/characters/spaghetti.dch
+res://dialogic resources/characters/Both.dch
