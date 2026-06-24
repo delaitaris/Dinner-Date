@@ -1,2 +1,29 @@
 join spaghetti left
-spaghetti: hi
+spaghetti: How about pancakes?
+character: Alright. I’m pretty sure I have some batter in here…
+# Will do cooking game when ready, No point right now.
+character: Ta-dah! 3, fresh and deliciously-bland pancakes! For some reason, we didn’t have any jam or anything in stock.
+spaghetti: Ooh! Those actually look really good!
+character: Why thank you. I’ll ride that compliment for days.
+character: …Hey.
+spaghetti: What?
+character: Why haven’t they humanised?
+spaghetti: Huh? Explain.
+character: You know, like you. I made you as a dish, took a step back, and you just kinda "poofed" into existence. This isn’t exactly doing… that.
+spaghetti: Wow, just tell me I’m lame…
+- Sarcasm?
+	character: …Is that sarcasm? Coming from you?
+	spaghetti: I-I’m starting to pick up on your mannerisms, I guess?
+- Apologise
+	character: I… I didn’t mean it like that. Sorry.
+	spaghetti: …That was sarcasm, don’t worry.
+	character: …Right.
+character: Well, there’s no use gawking at it. Go on, try my cooking.
+spaghetti: Alright…
+leave spaghetti [animation="Slide To Left" length="1.5"]
+[wait time="4.0"]
+join spaghetti left [animation="Slide From Left" length="1.5"]
+spaghetti: That’s….
+spaghetti: That’s actually really good! Jeez, what the hell did you put in those?
+character: Love.
+character: Kidding, it was a pinch of cinnamon.
