@@ -5,7 +5,7 @@ spaghetti: O- oh… Right, yeah.
 character: …You’re different from the others. Like, personality wise. You’re all meek and shy and whatever.
 spaghetti:  I… Really?
 spaghetti:  I don’t think I’m that…
-spaghetti:  anti-social.
+spaghetti: Anti-social.
 character:  I mean, compared to the others…
 if {Entreevar} == "Brock":
 	character: There was a really buff dude. Like REALLY buff. He was basically the opposite of you.
