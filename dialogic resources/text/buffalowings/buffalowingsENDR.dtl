@@ -1,5 +1,5 @@
 join buffalowings left
-character:  Well, anyways…  apart from my skills, what do you think of me? This is a speed-date, I gotta knock it out quick.
+character: Well, anyways…  apart from my skills, what do you think of me? This is a speed-date, I gotta knock it out quick.
 buffalowings: Right! You’re… good with your hands, you know with cooking and everything.
 if {WingsTrait} == "smart":
 	character: I guess, yeah. But you’ve said that already.

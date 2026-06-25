@@ -1,5 +1,5 @@
-[background scene="kitchen_2.tscn" arg="res://icon.svg" fade="0.0"]
-join buffalowings left
+[background scene="kitchen_2.tscn" arg="res://sprites/24062026133858-0001 (1).jpg" fade="0.0"]
+join buffalowings left [length="1.0" wait="true"]
 set {Entreevar} = "Brock"
 buffalowings: Yo! How you doin’?
 - Good

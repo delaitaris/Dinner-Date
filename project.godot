@@ -40,6 +40,7 @@ directories/dtl_directory={
 "prologue": "res://dialogic resources/text/prologue/prologue.dtl",
 "spaghetti": "res://dialogic resources/text/spaghetti/spaghetti.dtl",
 "spaghettiCOOKING": "res://dialogic resources/text/spaghetti/spaghettiCOOKING.dtl",
+"spaghettiEND": "res://dialogic resources/text/spaghetti/spaghettiEND.dtl",
 "spaghettiFUMBLE": "res://dialogic resources/text/spaghetti/spaghettiFUMBLE.dtl",
 "spaghettiKNITTING": "res://dialogic resources/text/spaghetti/spaghettiKNITTING.dtl"
 }

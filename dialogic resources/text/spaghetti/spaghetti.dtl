@@ -1,24 +1,25 @@
+[background arg="res://sprites/24062026133858-0001 (1).jpg" fade="0.0"]
 join spaghetti left
 spaghetti: …Good afternoon.
-character:  Pretty sure it’s morning, given the fact that it’s 2\:30 and dark out.
+character: Pretty sure it’s morning, given the fact that it’s 2\:30 and dark out.
 spaghetti: O- oh… Right, yeah.
 character: …You’re different from the others. Like, personality wise. You’re all meek and shy and whatever.
-spaghetti:  I… Really?
-spaghetti:  I don’t think I’m that…
-spaghetti:  anti-social.
-character:  I mean, compared to the others…
+spaghetti: I… Really?
+spaghetti: I don’t think I’m that…
+spaghetti: Anti-social.
+character: I mean, compared to the others…
 if {Entreevar} == "Brock":
 	character: There was a really buff dude. Like REALLY buff. He was basically the opposite of you.
 else:
 	character: There was an alcoholic chick, and she was… somethin’. She was cool.
-spaghetti:  S- so… you enjoyed talking to them more than me…?
+spaghetti: S- so… you enjoyed talking to them more than me…?
 - Harsh Truth
 	character: …Well, I haven’t really talked to you long enough to gauge.
 	spaghetti: I....
 	spaghetti: Okay, that’s fair enough.
 - Comfort
 	character: I’m sure you’re great to talk to.
-	spaghetti:  …Th- thanks. That’s actually really nice of you.
+	spaghetti: …Th- thanks. That’s actually really nice of you.
 - Insecurity Observation
 	character: You’re… really insecure, aren’t you? I’m not even a therapist and I can tell.
 	spaghetti: …What sort of person starts a conversation like that!? I- it’s true, but still!?
@@ -28,28 +29,28 @@ spaghetti: U- uhm… I like knitting and crochet?
 if {Entreevar} == "Brock":
 	character: Have you actually knitted before? The last guy didn’t ever lift before, and he was still a gymbro.
 else:
-	character:  The last chick was apparently an alcoholic, and she hadn’t really drunk anything before, so…
-spaghetti:  …I came into existence about a minute ago, okay!? W- what’s your issue!?
+	character: The last chick was apparently an alcoholic, and she hadn’t really drunk anything before, so…
+spaghetti: …I came into existence about a minute ago, okay!? W- what’s your issue!?
 - Defuse
-	character:  Woah, woah, woah. I wasn’t trying to insinuate anything, I was just going off of prior experience.
+	character: Woah, woah, woah. I wasn’t trying to insinuate anything, I was just going off of prior experience.
 - Apologise
 	character: Sorry! Jeez, that’s my bad. I was just assuming…
 - "Apologise"
 	character: …’Sorry’. I didn’t know that was going to set you off, jeez…
-spaghetti:  I- it’s… alright. So, uhm… tell me about yourself now?
+spaghetti: I- it’s… alright. So, uhm… tell me about yourself now?
 if {ChefGender} == "Male Chef":
 	character: Yeah. I’m not really an interesting guy.
 elif {ChefGender} == "Female Chef":
 	character: Yeah. I’m not really an interesting girl
 else:
 	character: Yeah. I’m not really an interesting person.
-spaghetti:  N- no! I actually… I think that’s really admirable. You know, that you found something you like doing.
+spaghetti: N- no! I actually… I think that’s really admirable. You know, that you found something you like doing.
 character: …Thank you?
 spaghetti: You’re welcome!
 character: …
 character: [i] God, I haven’t heard that since my partner…
 spaghetti: What was that? Y- you’re speaking under your breath.
-character:  Nothing! Nothing at all!
+character: Nothing! Nothing at all!
 character: …SO! What sort of… uh, what sort of…
 - Knitting
 	character: What sort of stuff do you like knitting!?
