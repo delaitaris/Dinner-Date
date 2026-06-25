@@ -2,7 +2,8 @@ join spaghetti left
 spaghetti: How about pancakes?
 character: Alright. I’m pretty sure I have some batter in here…
 # Will do cooking game when ready, No point right now.
-character: Ta-dah! 3, fresh and deliciously-bland pancakes! For some reason, we didn’t have any jam or anything in stock.
+character: [wave amp=5 freq=10]Ta-dah!
+character: 3, fresh and deliciously-bland pancakes! For some reason, we didn’t have any jam or anything in stock.
 spaghetti: Ooh! Those actually look really good!
 character: Why thank you. I’ll ride that compliment for days.
 character: …Hey.
@@ -10,7 +11,8 @@ spaghetti: What?
 character: Why haven’t they humanised?
 spaghetti: Huh? Explain.
 character: You know, like you. I made you as a dish, took a step back, and you just kinda "poofed" into existence. This isn’t exactly doing… that.
-spaghetti: Wow, just tell me I’m lame…
+spaghetti: [wave amp=5 freq=10] Wow... [] test
+spaghetti: Just tell me I’m lame…
 - Sarcasm?
 	character: …Is that sarcasm? Coming from you?
 	spaghetti: I-I’m starting to pick up on your mannerisms, I guess?
