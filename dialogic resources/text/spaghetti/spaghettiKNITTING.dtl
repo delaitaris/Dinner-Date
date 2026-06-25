@@ -15,7 +15,7 @@ spaghetti: Kinda. I know it’s not real knitting, but…
 leave spaghetti [animation="Fade Out" length="2.0"]
 [background arg="res://icon.svg" fade="3.0" wait="true"]
 [wait_input hide_text="false"]
-[background fade="0.0"]
+[background arg="res://sprites/24062026133858-0001 (1).jpg" fade="0.0"]
 join spaghetti left [animation="Fade In" length="2.0" wait="true"]
 character: …Okay, this wasn’t what I was expecting when I heard ‘spaghetti’. I was imagining a jumble of thread and yarn, but this is literally just a knitted bowl of spaghetti.
 spaghetti: Uh-huh! It’s pretty cool, no?
