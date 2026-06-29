@@ -1,2 +1,14 @@
 join spaghetti left
-spaghetti: gulp
+spaghetti: …You good?
+character: Peachy! I was just asking if… Uh…
+spaghetti: …
+character: If you… If you…
+spaghetti: If I?
+character: HUSH. QUIET. SILENCE FROM YOU.
+character: [i] [wave amp=20 freq=2]Come on, you idiot! Don’t fumble this now! Okay… What to do, what to say…
+spaghetti: Hello? Heeelllloooooo? {ChefName}?
+character: [i] [wave amp=20 freq=2]WHY AM I CHOKING NOW!? I’M AN EXPERIENCED LOVER, I SHOULDN’T BE SCREWING THIS UP! WHAT THE HELL HAPPENS WHEN YOU’RE TALKING TO FOOD? ALL THE DATING SIMULATORS ARE HEADED FOR THE CREDITS AT THIS POINT!
+spaghetti:  …Yoohoo? Earth to {ChefName}?
+leave spaghetti [animation="Slide To Left"]
+character: [i] [wave amp=20 freq=2]…Damn. I’m cooked. I’ve been thinking to myself for at least a solid 15 seconds. There’s no way she hasn’t caught on to my fumbling-
+join spaghetti left [animation="Slide From Right"]

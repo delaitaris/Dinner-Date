@@ -1,12 +1,4 @@
-res://dialogic resources/text/spaghetti/spaghettiKNITTING.dtl
-res://scenes/kitchen_2.tscn
-res://styles/VN.tres
 res://dialogic resources/text/spaghetti/spaghettiCOOKING.dtl
-
-res://dialogic resources/text/spaghetti/spaghettiEND.dtl
-res://dialogic resources/characters/Both.dch
-res://dialogic resources/text/spaghetti/spaghetti.dtl
-res://dialogic resources/text/buffalowings/buffalowingsENDR.dtl
-res://scenes/kitchen.tscn
-
-
+res://scenes/Starting screen.tscn
+res://styles/VN.tres
+res://dialogic resources/text/spaghetti/spaghettiFUMBLE.dtl

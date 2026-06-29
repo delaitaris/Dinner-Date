@@ -27,5 +27,6 @@ leave spaghetti [animation="Slide To Left" length="1.5"]
 join spaghetti left [animation="Slide From Left" length="1.5"]
 spaghetti: That’s….
 spaghetti: That’s actually really good! Jeez, what the hell did you put in those?
-character: Love.
-character: Kidding, it was a pinch of cinnamon.
+character: [wave amp=50 freq=2] Love.
+spaghetti: ...
+character: Kidding, it was a pinch of cinnamon and a splash of vanilla.
