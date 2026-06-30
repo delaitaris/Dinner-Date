@@ -8,7 +8,22 @@ character: HUSH. QUIET. SILENCE FROM YOU.
 character: [i] [wave amp=20 freq=2]Come on, you idiot! Don’t fumble this now! Okay… What to do, what to say…
 spaghetti: Hello? Heeelllloooooo? {ChefName}?
 character: [i] [wave amp=20 freq=2]WHY AM I CHOKING NOW!? I’M AN EXPERIENCED LOVER, I SHOULDN’T BE SCREWING THIS UP! WHAT THE HELL HAPPENS WHEN YOU’RE TALKING TO FOOD? ALL THE DATING SIMULATORS ARE HEADED FOR THE CREDITS AT THIS POINT!
-spaghetti:  …Yoohoo? Earth to {ChefName}?
+spaghetti: …Yoohoo? Earth to {ChefName}?
 leave spaghetti [animation="Slide To Left"]
 character: [i] [wave amp=20 freq=2]…Damn. I’m cooked. I’ve been thinking to myself for at least a solid 15 seconds. There’s no way she hasn’t caught on to my fumbling-
 join spaghetti left [animation="Slide From Right"]
+character: DAMN IT!
+character: Ow….. God
+character: Did you just hit me with a ladle!?
+spaghetti: Lightly. You were lost in thought, so…
+character: That’s a metal ladle! And you whacked me… over the head with it!
+spaghetti: U- uh… Sorry?
+- Forgive
+	character: It’s… fine. Could’ve hit me in the arm or somethin’ at the least, though…
+- Observation
+	character: God, you’re actually surprisingly strong. Ow…
+spaghetti: …You okay?
+character: I’d be better off if I hadn’t had a serving spoon smashed into my cranium, but I’m good.
+spaghetti: Okay. Good, I thought I’d… Sorry.
+character: It’s fine. Still a bit achy, though.
+jump spaghettiEND/

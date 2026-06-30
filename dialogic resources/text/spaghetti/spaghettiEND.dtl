@@ -1,2 +1,42 @@
 join spaghetti left
-spaghetti: BYE BYE CHUD
+character: Hey, you know what I just noticed?
+spaghetti: What?
+character: You’ve stopped being so nervous. When you first appeared, you were all stuttery and looked like you’d evaporate into nothingness at the slightest bit of embarrassment. Now…
+spaghetti: Now I’m not?
+character: Yeah. You’re a whole lot more confident. What’s your timer looking like till you disappear? The last person I talked to poofed out of existence around this time.
+spaghetti: Wow, trying to get rid of me?
+character: N- no! I didn’t mean it like that.
+spaghetti: I was kidding, don’t worry! It’s… I still have a decent chunk of time left. Only burned 10%.
+if {Entreevar} == "Brock":
+	character: Huh. Brock just drew the short end of the stick, I suppose.
+else:
+	character: Huh. Chips just drew the short end of the stick, I suppose.
+spaghetti: Yeah. I still have 90% of my mana reserves left, so…
+character: So we just mess about till you’re gone?
+spaghetti: Mhm. That’d be fun.
+leave spaghetti [animation="Slide To Left" wait="true"]
+[wave amp=30 freq=1]45 minutes later.
+join spaghetti left [animation="Slide From Left"]
+character: …and then the student says to Joe, “Tell me, will using a metal fork to make holes instead of chopsticks ruin the dish?” And then Joe says back to him, “Not nearly as bad as {ChefName}’s baking, his pancakes are FORKING atrocious!”
+spaghetti: …Is that supposed to be funny? It just sounds like you were getting bullied.
+character: Considering that Joe was my best friend, I doubt it was actual bullying.
+spaghetti: Was?
+character: Don’t want to get into it.
+spaghetti: …Okay. So, uh… Just to let you know, I’m running out of mana.
+character: RIGHT! God, I forgot that you were on a time limit. How much do you have left?
+spaghetti: About… 30 seconds or so?
+character: ...
+character: ...[wave amp=30 freq=1]Huh?
+character: What? Why are all of you people so chill about this? Aren’t you… dying or something?
+spaghetti: …Not really? We get put into a sort of purgatory stasis until something else happens.
+character: And you know this… how?
+spaghetti: The same way you humans know how to breath and blink. It comes naturally.
+character: Right. So… How exactly do I resummon you?
+spaghetti: Figure it out, I don’t know.
+character: [wave amp=25 freq=2]Real helpful.
+character: Well, I guess I’ll… see you later?
+spaghetti: …Yeah. See you later!
+leave spaghetti [animation="Fade Out" length="3.5" wait="true"]
+character: …Damn. That was fun.
+if {SpaghettiKnit} == "Knit":
+	character: …Damn. That was fun. I still have the plushie, too. That’s neat.

@@ -29,7 +29,7 @@ spaghetti: U- uhm… I like knitting and crochet?
 if {Entreevar} == "Brock":
 	character: Have you actually knitted before? The last guy didn’t ever lift before, and he was still a gymbro.
 else:
-	character: The last chick was apparently an alcoholic, and she hadn’t really drunk anything before, so…
+	character: Have you actually knitted before? The last chick was apparently an alcoholic, and she hadn’t really drunk anything before, so…
 spaghetti: …I came into existence about a minute ago, okay!? W- what’s your issue!?
 - Defuse
 	character: Woah, woah, woah. I wasn’t trying to insinuate anything, I was just going off of prior experience.
@@ -38,6 +38,9 @@ spaghetti: …I came into existence about a minute ago, okay!? W- what’s your 
 - "Apologise"
 	character: …’Sorry’. I didn’t know that was going to set you off, jeez…
 spaghetti: I- it’s… alright. So, uhm… tell me about yourself now?
+character: I like cooking. That’s… really about it. I’m a pretty good cook, though.
+if {Spaghetti_Apologise_} == "SApologise":
+	character: I like cooking. That’s… really about it. I’m a pretty good cook, though. You didn’t hear the sarcasm?
 if {ChefGender} == "Male Chef":
 	character: Yeah. I’m not really an interesting guy.
 elif {ChefGender} == "Female Chef":
@@ -53,6 +56,7 @@ spaghetti: What was that? Y- you’re speaking under your breath.
 character: Nothing! Nothing at all!
 character: …SO! What sort of… uh, what sort of…
 - Knitting
+	set {SpaghettiKnit} = "Knit"
 	character: What sort of stuff do you like knitting!?
 	jump spaghettiKNITTING/
 - Cooking
