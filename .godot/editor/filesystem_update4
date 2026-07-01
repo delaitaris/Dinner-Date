@@ -1,8 +1,8 @@
-res://dialogic resources/text/spaghetti/spaghettiFUMBLE.dtl
-res://dialogic resources/text/spaghetti/spaghettiEND.dtl
-res://scenes/Starting screen.tscn
+res://scripts/kitchen_3.gd
+res://dialogic resources/text/chocolatecake/chocolatecake.dtl
+res://dialogic resources/characters/chocolatecake.dch
+res://dialogic resources/characters/buffalowings.dch
 res://styles/VN.tres
-res://dialogic resources/text/spaghetti/spaghetti.dtl
-res://dialogic resources/text/spaghetti/spaghettiKNITTING.dtl
-res://dialogic resources/text/spaghetti/spaghettiCOOKING.dtl
-res://scenes/kitchen_2.tscn
+res://dialogic resources/characters/bananasplit.dch
+res://dialogic resources/text/bananasplit/bananasplit.dtl
+res://scenes/kitchen_3.tscn

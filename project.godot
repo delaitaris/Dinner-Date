@@ -23,19 +23,23 @@ Dialogic="*uid://ds2q0uclmolvu"
 
 directories/dch_directory={
 "Both": "res://dialogic resources/characters/Both.dch",
+"bananasplit": "res://dialogic resources/characters/bananasplit.dch",
 "beerbatteredchips": "res://dialogic resources/characters/beerbatteredchips.dch",
 "buffalowings": "res://dialogic resources/characters/buffalowings.dch",
 "character": "res://dialogic resources/characters/character.dch",
+"chocolatecake": "res://dialogic resources/characters/chocolatecake.dch",
 "macarons": "res://dialogic resources/characters/macarons.dch",
 "spaghetti": "res://dialogic resources/characters/spaghetti.dch"
 }
 directories/dtl_directory={
+"bananasplit": "res://dialogic resources/text/bananasplit/bananasplit.dtl",
 "beerbatteredchips": "res://dialogic resources/text/beerbatteredchips/beerbatteredchips.dtl",
 "buffalowings": "res://dialogic resources/text/buffalowings/buffalowings.dtl",
 "buffalowingsENDR": "res://dialogic resources/text/buffalowings/buffalowingsENDR.dtl",
 "buffalowingsFUNNYR": "res://dialogic resources/text/buffalowings/buffalowingsFUNNYR.dtl",
 "buffalowingsSMARTR": "res://dialogic resources/text/buffalowings/buffalowingsSMARTR.dtl",
 "buffalowingsSTRONGR": "res://dialogic resources/text/buffalowings/buffalowingsSTRONGR.dtl",
+"chocolatecake": "res://dialogic resources/text/chocolatecake/chocolatecake.dtl",
 "macarons": "res://dialogic resources/text/macarons/macarons.dtl",
 "prologue": "res://dialogic resources/text/prologue/prologue.dtl",
 "spaghetti": "res://dialogic resources/text/spaghetti/spaghetti.dtl",
