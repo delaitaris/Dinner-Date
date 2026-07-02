@@ -1,0 +1,6 @@
+[background arg="res://sprites/24062026133858-0001 (1).jpg" fade="0.0"]
+if {EntreeKeep} == "Brock":
+	join buffalowings left
+if {EntreeKeep} == "Spaghetti":
+	join spaghetti left
+	<Empty Text Event>

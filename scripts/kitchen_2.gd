@@ -9,7 +9,7 @@ func _ready() -> void:
 
 func _on_spaghetti_button_pressed() -> void:
 	Dialogic.start("spaghetti")
-	get_tree().change_scene_to_file("res://scenes/talking.tscn")
+	get_tree().change_scene_to_file("res://scenes/kitchen_3.tscn")
 	if Dialogic.current_timeline != null:
 		pass
 
@@ -17,6 +17,6 @@ func _on_spaghetti_button_pressed() -> void:
 
 func _on_steak_button_pressed() -> void:
 	Dialogic.start("steak")
-	get_tree().change_scene_to_file("res://scenes/talking.tscn")
+	get_tree().change_scene_to_file("res://scenes/kitchen_3.tscn")
 	if Dialogic.current_timeline != null:
 		pass

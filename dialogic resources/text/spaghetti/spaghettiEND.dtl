@@ -40,3 +40,7 @@ leave spaghetti [animation="Fade Out" length="3.5" wait="true"]
 character: …Damn. That was fun.
 if {SpaghettiKnit} == "Knit":
 	character: …Damn. That was fun. I still have the plushie, too. That’s neat.
+System: [wave amp=30 freq=1] Do you want to keep talking to this food at the end?
+- Keep
+	set {MaincourseKeep} = "Spaghetti"
+- Discard

@@ -1,9 +1,22 @@
-res://scripts/kitchen_3.gd
-res://dialogic resources/text/chocolatecake/chocolatecake.dtl
 res://dialogic resources/characters/chocolatecake.dch
 res://dialogic resources/characters/buffalowings.dch
-res://styles/VN.tres
 res://dialogic resources/characters/bananasplit.dch
+res://dialogic resources/characters/spaghetti.dch
 res://dialogic resources/text/bananasplit/bananasplit.dtl
+res://dialogic resources/text/chocolatecake/chocolatecake.dtl
+res://dialogic resources/text/beerbatteredchips/beerbatteredchips.dtl
+res://dialogic resources/text/spaghetti/spaghetti.dtl
 res://scenes/kitchen_3.tscn
+res://styles/VN.tres
+res://dialogic resources/characters/steak.dch
+res://dialogic resources/text/steak/steak.dtl
+res://dialogic resources/characters/beerbatteredchips.dch
+res://scenes/kitchen.tscn
 res://scenes/kitchen_2.tscn
+res://scripts/kitchen_2.gd
+res://dialogic resources/text/buffalowings/buffalowingsENDR.dtl
+res://dialogic resources/characters/System.dch
+res://dialogic resources/characters/character.dch
+res://dialogic resources/text/buffalowings/buffalowings.dtl
+res://dialogic resources/text/spaghetti/spaghettiEND.dtl
+res://dialogic resources/text/end/end.dtl
