@@ -29,7 +29,6 @@ directories/dch_directory={
 "buffalowings": "res://dialogic resources/characters/buffalowings.dch",
 "character": "res://dialogic resources/characters/character.dch",
 "chocolatecake": "res://dialogic resources/characters/chocolatecake.dch",
-"macarons": "res://dialogic resources/characters/macarons.dch",
 "spaghetti": "res://dialogic resources/characters/spaghetti.dch",
 "steak": "res://dialogic resources/characters/steak.dch"
 }
