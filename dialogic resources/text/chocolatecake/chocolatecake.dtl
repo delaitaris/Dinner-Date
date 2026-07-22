@@ -1,3 +1,4 @@
 [background arg="res://sprites/24062026133858-0001 (1).jpg" fade="0.0"]
-join beerbatteredchips left
-beerbatteredchips: Yo!
+join chocolatecake left
+chocolatecake: HI
+jump end/
