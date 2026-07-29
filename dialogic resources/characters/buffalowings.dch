@@ -14,7 +14,7 @@
 "pitch_variance": 0.0,
 "skip_characters": 0.0,
 "sound_path": "res://dialogic resources/voices/Brockvoice.wav",
-"volume_base": 1.0,
+"volume_base": -10.0,
 "volume_variance": 0.0
 }
 },

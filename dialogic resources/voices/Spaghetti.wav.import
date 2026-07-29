@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://speewx5wqk2d"
+path="res://.godot/imported/Spaghetti.wav-b1ae8563000858ab38f1f65cb36f8e13.sample"
+
+[deps]
+
+source_file="res://dialogic resources/voices/Spaghetti.wav"
+dest_files=["res://.godot/imported/Spaghetti.wav-b1ae8563000858ab38f1f65cb36f8e13.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2
