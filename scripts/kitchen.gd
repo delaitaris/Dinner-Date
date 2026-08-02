@@ -7,7 +7,7 @@ func _ready() -> void:
 
 
 func _on_chips_button_pressed() -> void:
-	Dialogic.start("beerbatteredchips")
+	Dialogic.start("sushi")
 	get_tree().change_scene_to_file("res://scenes/kitchen_2.tscn")
 	if Dialogic.current_timeline != null:
 		pass

@@ -9,21 +9,21 @@ script = ExtResource("1_7ilqw")
 
 [node name="ChipsButton" type="Button" parent="." unique_id=951478622]
 layout_mode = 0
-offset_left = 200.0
+offset_left = 154.0
 offset_top = 94.0
-offset_right = 474.0
+offset_right = 495.0
 offset_bottom = 206.0
 mouse_default_cursor_shape = 6
-text = "Beer-battered chips 
+text = "Sushi
 (F)
 "
 
 [node name="WingsButton" type="Button" parent="." unique_id=1685114468]
 layout_mode = 0
-offset_left = 707.0
+offset_left = 628.0
 offset_top = 89.0
 offset_right = 981.0
-offset_bottom = 201.0
+offset_bottom = 205.0
 text = "Buffalo wings
 (M)"
 

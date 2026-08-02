@@ -23,25 +23,34 @@ Dialogic="*uid://ds2q0uclmolvu"
 
 directories/dch_directory={
 "Both": "res://dialogic resources/characters/Both.dch",
+"System": "res://dialogic resources/characters/System.dch",
+"bananasplit": "res://dialogic resources/characters/bananasplit.dch",
 "beerbatteredchips": "res://dialogic resources/characters/beerbatteredchips.dch",
 "buffalowings": "res://dialogic resources/characters/buffalowings.dch",
 "character": "res://dialogic resources/characters/character.dch",
-"macarons": "res://dialogic resources/characters/macarons.dch",
-"spaghetti": "res://dialogic resources/characters/spaghetti.dch"
+"chocolatecake": "res://dialogic resources/characters/chocolatecake.dch",
+"spaghetti": "res://dialogic resources/characters/spaghetti.dch",
+"steak": "res://dialogic resources/characters/steak.dch",
+"sushi": "res://dialogic resources/characters/sushi.dch"
 }
 directories/dtl_directory={
-"beerbatteredchips": "res://dialogic resources/text/beerbatteredchips/beerbatteredchips.dtl",
+"bananasplit": "res://dialogic resources/text/bananasplit/bananasplit.dtl",
 "buffalowings": "res://dialogic resources/text/buffalowings/buffalowings.dtl",
 "buffalowingsENDR": "res://dialogic resources/text/buffalowings/buffalowingsENDR.dtl",
 "buffalowingsFUNNYR": "res://dialogic resources/text/buffalowings/buffalowingsFUNNYR.dtl",
 "buffalowingsSMARTR": "res://dialogic resources/text/buffalowings/buffalowingsSMARTR.dtl",
 "buffalowingsSTRONGR": "res://dialogic resources/text/buffalowings/buffalowingsSTRONGR.dtl",
+"chocolatecake": "res://dialogic resources/text/chocolatecake/chocolatecake.dtl",
+"end": "res://dialogic resources/text/end/end.dtl",
 "macarons": "res://dialogic resources/text/macarons/macarons.dtl",
 "prologue": "res://dialogic resources/text/prologue/prologue.dtl",
 "spaghetti": "res://dialogic resources/text/spaghetti/spaghetti.dtl",
 "spaghettiCOOKING": "res://dialogic resources/text/spaghetti/spaghettiCOOKING.dtl",
+"spaghettiEND": "res://dialogic resources/text/spaghetti/spaghettiEND.dtl",
 "spaghettiFUMBLE": "res://dialogic resources/text/spaghetti/spaghettiFUMBLE.dtl",
-"spaghettiKNITTING": "res://dialogic resources/text/spaghetti/spaghettiKNITTING.dtl"
+"spaghettiKNITTING": "res://dialogic resources/text/spaghetti/spaghettiKNITTING.dtl",
+"steak": "res://dialogic resources/text/steak/steak.dtl",
+"sushi": "res://dialogic resources/text/sushi/sushi.dtl"
 }
 layout/style_directory={
 "": "res://styles/VN.tres",
@@ -49,7 +58,7 @@ layout/style_directory={
 }
 glossary/default_case_sensitive=true
 text/letter_speed=0.01
-text/initial_text_reveal_skippable=false
+text/initial_text_reveal_skippable=true
 text/text_reveal_skip_delay=0.1
 text/advance_delay=0.1
 text/autoadvance_per_character_delay=0.1
@@ -101,7 +110,13 @@ variables={
 "ChefGenderHis": "",
 "ChefGenderHisCap": "",
 "ChefName": "",
+"DessertKeep": "",
+"EntreeKeep": "",
 "Entreevar": "",
+"MaincourseKeep": "",
+"SpaghettiKnit": "",
+"Spaghetti_Apologise_": "",
+"SushiMood": "",
 "Was_Were": "",
 "WingsJoke": "",
 "WingsMood": "",
@@ -136,7 +151,7 @@ dialogic_default_action={
 "deadzone": 0.5,
 "events": [Object(InputEventKey,"resource_local_to_scene":false,"resource_name":"","device":0,"window_id":0,"alt_pressed":false,"shift_pressed":false,"ctrl_pressed":false,"meta_pressed":false,"pressed":false,"keycode":4194309,"physical_keycode":0,"key_label":0,"unicode":0,"location":0,"echo":false,"script":null)
 , Object(InputEventMouseButton,"resource_local_to_scene":false,"resource_name":"","device":-1,"window_id":0,"alt_pressed":false,"shift_pressed":false,"ctrl_pressed":false,"meta_pressed":false,"button_mask":0,"position":Vector2(0, 0),"global_position":Vector2(0, 0),"factor":1.0,"button_index":1,"canceled":false,"pressed":true,"double_click":false,"script":null)
-, Object(InputEventKey,"resource_local_to_scene":false,"resource_name":"","device":0,"window_id":0,"alt_pressed":false,"shift_pressed":false,"ctrl_pressed":false,"meta_pressed":false,"pressed":false,"keycode":32,"physical_keycode":0,"key_label":0,"unicode":0,"location":0,"echo":false,"script":null)
+, Object(InputEventKey,"resource_local_to_scene":false,"resource_name":"","device":-1,"window_id":0,"alt_pressed":false,"shift_pressed":false,"ctrl_pressed":false,"meta_pressed":false,"pressed":false,"keycode":90,"physical_keycode":0,"key_label":0,"unicode":122,"location":0,"echo":false,"script":null)
 , Object(InputEventKey,"resource_local_to_scene":false,"resource_name":"","device":0,"window_id":0,"alt_pressed":false,"shift_pressed":false,"ctrl_pressed":false,"meta_pressed":false,"pressed":false,"keycode":88,"physical_keycode":0,"key_label":0,"unicode":0,"location":0,"echo":false,"script":null)
 , Object(InputEventJoypadButton,"resource_local_to_scene":false,"resource_name":"","device":0,"button_index":0,"pressure":0.0,"pressed":false,"script":null)
 ]

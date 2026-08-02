@@ -1,0 +1,24 @@
+join sushi left
+sushi: S\: …Evening, Chef.
+character: C\: Hi? You’re… Sushi.
+sushi: S\: That I am. How are you this fine evening?
+- Ok
+	character: …I’m okay.
+	sushi: That’s good to hear. I’m of adequate status myself as well.
+	character:  Why are you speaking like that?
+	sushi: I feel using more complex words and phrases helps people understand my intentions better than colloquial language. Is there an issue with it? Do you not understand my verbalising?
+	character:  …Only a little bit. Have you ever seen the movie V for Vengeance? “Verily, this vichyssoise of verbiage veers most verbose…”
+	character: [wave amp=5 freq=10] Ring any bells?
+- Confused?
+	character: Confused, really.
+	sushi: Is it because of my constitution as an edible eastern cuisine?
+	character: Yeah, partially. And your insistence on using complicated words, like a sesquipedalian.
+	sushi: …Sesquipedalian? I didn’t take you for an English aficionado like myself.
+	<Empty Text Event>
+- Not great
+	character: Not great, all things considered.
+	sushi:  May I indulge in my curiosity and ask why?
+	character: My… partner, they broke up with me. It’s fine, nothing to concern yourself with. My turn for a question now; why the vocabulary?
+	sushi: [wave amp=50 freq=2] ...Oh.
+	sushi: Well, I apologise for bringing the subject into light. As for the question about my lexicon, I feel that words with more complexity bring a sort of regality and professionalism into the day-to-day, which helps foster a more honest relationship by increasing understanding of my intentions.
+	set {SushiMood} = "SMood"
