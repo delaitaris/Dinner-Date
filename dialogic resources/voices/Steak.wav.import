@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://bnp41omgpljrc"
+path="res://.godot/imported/Steak.wav-4d1fd7960c29929943c0b3097114ea5a.sample"
+
+[deps]
+
+source_file="res://dialogic resources/voices/Steak.wav"
+dest_files=["res://.godot/imported/Steak.wav-4d1fd7960c29929943c0b3097114ea5a.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2
