@@ -2,7 +2,7 @@
 "@path": "res://addons/dialogic/Resources/character.gd",
 "@subpath": NodePath(""),
 &"_translation_id": "",
-&"color": Color(1, 1, 1, 1),
+&"color": Color(0.94140625, 0.4324355, 0.18386841, 1),
 &"custom_info": {
 "prefix": "",
 "sound_mood_default": "",
@@ -12,7 +12,7 @@
 },
 &"default_portrait": "New portrait",
 &"description": "",
-&"display_name": "Sushi",
+&"display_name": "Shizuka Tanaka",
 &"mirror": false,
 &"nicknames": [""],
 &"offset": Vector2(0, 0),

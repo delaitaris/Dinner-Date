@@ -1,24 +1,36 @@
 join sushi left
-sushi: S\: …Evening, Chef.
-character: C\: Hi? You’re… Sushi.
-sushi: S\: That I am. How are you this fine evening?
+sushi: …Evening, Chef.
+character: Hi? You’re… Sushi.
+sushi: That I am. How are you this fine evening?
 - Ok
 	character: …I’m okay.
 	sushi: That’s good to hear. I’m of adequate status myself as well.
-	character:  Why are you speaking like that?
+	character: Why are you speaking like that?
 	sushi: I feel using more complex words and phrases helps people understand my intentions better than colloquial language. Is there an issue with it? Do you not understand my verbalising?
-	character:  …Only a little bit. Have you ever seen the movie V for Vengeance? “Verily, this vichyssoise of verbiage veers most verbose…”
+	character: …Only a little bit. Have you ever seen the movie V for Vengeance? “Verily, this vichyssoise of verbiage veers most verbose…”
 	character: [wave amp=5 freq=10] Ring any bells?
+	sushi: …No, I have not. That sentence strikes an interest in me, however. Is this movie made for connoisseurs of the language?
+	character: Only a little bit. This guy in a Guy Fawkes mask, V, is a freedom-fighter and tries to blow up Parliament in a dystopian, fascist society. Great film. I’m pretty sure it’s on Superior Video, if you’re that interested.
+	sushi: …Hm. It interests me quite a bit. Does it create focus and attention on the growing capitalistic society we live in, where the wealth gap continues to grow larger and more severe and thus fosters a world where the poor stay poor and the rich stay rich?
 - Confused?
 	character: Confused, really.
 	sushi: Is it because of my constitution as an edible eastern cuisine?
 	character: Yeah, partially. And your insistence on using complicated words, like a sesquipedalian.
 	sushi: …Sesquipedalian? I didn’t take you for an English aficionado like myself.
-	<Empty Text Event>
+	character: [wave amp=50 freq=2] …Yeah. Definitely.
+	character: I know what aficionado means.
+	sushi: …I can hear the hesitation in your voice. Aficionado is a synonym for the word connoisseur.
+	character: …Thank you. So, do you like big words, or is that just a trait of yours?
+	sushi: Many people have said that my diction is rather grandiloquent, but I feel that the usage of such a dialect creates a more understanding and honest relationship between whoever I’m conversing with and I.
 - Not great
 	character: Not great, all things considered.
-	sushi:  May I indulge in my curiosity and ask why?
+	sushi: May I indulge in my curiosity and ask why?
 	character: My… partner, they broke up with me. It’s fine, nothing to concern yourself with. My turn for a question now; why the vocabulary?
 	sushi: [wave amp=50 freq=2] ...Oh.
 	sushi: Well, I apologise for bringing the subject into light. As for the question about my lexicon, I feel that words with more complexity bring a sort of regality and professionalism into the day-to-day, which helps foster a more honest relationship by increasing understanding of my intentions.
+	character: …I didn’t catch any of that. Not a lick.
+	sushi: …By increasing the complexity of my dialect, my general presence is more professional and thus aids in creating a more honest and easy-to-understand relationship with the people I am around.
+	character: Still nothin’.
+	sushi: [wave amp=50 freq=2] Good grief; were you raised by neanderthals?
+	sushi: I apologise… Essentially, this way of speaking makes a more understandable conversation.
 	set {SushiMood} = "SMood"

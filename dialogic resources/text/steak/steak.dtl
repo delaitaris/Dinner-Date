@@ -1,3 +1,32 @@
 [background arg="res://sprites/24062026133858-0001 (1).jpg" fade="0.0"]
 join steak left
-steak: ....dfsgg
+steak: Howdy there, partner!
+- What's your name?
+	character: Um, Hi! What’s your name?
+	steak: Name’s Loin, Fastest gunslinger in the west. Ma full name is Sir Loin but my partners all said that sounded more like a knight. And so, it’s just Loin now. YEE HAW.
+- Steak?
+	character: You're a steak?
+	steak: Yep! You know it partner! Fastest gunslinger in the west!
+character: Right yea I see that…
+character: [i] …The west…. What does he mean by the west???
+steak: What sorta stuff ya into?
+character: Erm.. I cook.
+steak: Oh, that’s great! What are you making right now?
+character: ...
+character: ..You.
+steak: Ah! How could I have stumbled on that one?
+if {Entreevar} == "Brock":
+	character: It’s fine!... It’s not like I was expecting you to be like that big buff gymbro.
+	steak: I got some sand in me too! Hah!
+else:
+	character: It’s fine! It’s not like I was expecting you to be like that emotionless deadpan.
+	steak: I will devote myself to be as delightful as I can be. Just like an Ace-High roller!
+character: Why do you keep speaking like that?
+steak: Like what? You startling my grooves.
+character: Like THAT.,,
+steak: Ah you mean my superior way of speaking.
+character: Uh well.. Sure I guess…
+steak: If ya don’t mind me asking ya but I got a strong gut feeling that you ain’t from around these parts are ya?
+character: Well… Actually I am, this is where I work.
+steak: Oh righty, Pardon my reach partner.
+character: Yea that’s fine. Hm… what could we talk about..
