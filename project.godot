@@ -50,6 +50,10 @@ directories/dtl_directory={
 "spaghettiFUMBLE": "res://dialogic resources/text/spaghetti/spaghettiFUMBLE.dtl",
 "spaghettiKNITTING": "res://dialogic resources/text/spaghetti/spaghettiKNITTING.dtl",
 "steak": "res://dialogic resources/text/steak/steak.dtl",
+"steakCOMFORT": "res://dialogic resources/text/steak/steakCOMFORT.dtl",
+"steakEND": "res://dialogic resources/text/steak/steakEND.dtl",
+"steakMOVIE": "res://dialogic resources/text/steak/steakMOVIE.dtl",
+"steakTEACHING": "res://dialogic resources/text/steak/steakTEACHING.dtl",
 "sushi": "res://dialogic resources/text/sushi/sushi.dtl"
 }
 layout/style_directory={

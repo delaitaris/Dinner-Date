@@ -30,3 +30,21 @@ steak: If ya don’t mind me asking ya but I got a strong gut feeling that you a
 character: Well… Actually I am, this is where I work.
 steak: Oh righty, Pardon my reach partner.
 character: Yea that’s fine. Hm… what could we talk about..
+- Dislike accent
+	character: That way of speaking. It's kinda weird?
+	steak: Oh, I'm doggone sorry, it’s just that from where I come from It’s normal to holler about like this. Plus I think it’s pretty solid.
+	character: Yea.. right.... Could you try to speak normally?
+	steak: You don’t like this way of speaking? I must educate ya!
+	jump steakCOMFORT/
+- Compliment accent
+	character: The accent, I think it’s pretty neat.
+	steak: Oh that’s lovely! Thanks for appreciating ma amazing accent that comes from the west.
+	character: You got it partner!
+	steak: I can teach ya' if you want!
+	jump steakTEACHING/
+- Western movies?
+	character: What about those western movies?
+	steak: Yea you bet partner!
+	character: What is your favourite western?
+	steak: Hm... Maybe that good old western called “The unbeatable, the unhealthy, and the unsightly"?
+	jump steakMOVIE/

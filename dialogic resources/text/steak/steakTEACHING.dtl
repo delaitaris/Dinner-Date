@@ -1,0 +1,34 @@
+join steak left
+character: So where do we start PARTNER!!!!!!!
+steak: Hey hey hey, calm down there, I'm glad you're jolly on the go but try to calm down a slight bit when speaking. It makes it sound better than just hollering out the words to everyone.
+character: Right, sorry about that.
+steak: All good, It be apart of how we all learn the way of the-
+steak: [wave amp=50 freq=2] Cowboy.
+steak: I’ll start by explaining what some of the key words mean and how we say them yea?
+character: Lead the way.
+steak: For some basic ones to start on with, you gotta know how to cut your words off to make me sound better ye?
+- Make attempt
+	character: Oh so like “I am a che”
+- Embarrass yourself
+	character: Oh so like “Ya wha i u ma partner”.
+steak: Nah partner, it’s gotta at least sound good ya know?
+character: Ok… so “How are ya doing partner!”
+steak: [wave amp=50 freq=2] Wow...
+steak: That's the best I've ever seen someone else do before.
+character: How many people have you seen do it before?
+steak: Ohh a lot, yea a lot.
+character: [i] He doesn't even try to lie..
+steak: Next you gotta use the right words like you have sort of already been doing.
+character: Like “partner”?
+steak: Yea like that. But you just gotta expand your knowledge a bit more to get it nailed. Using words like Fixin’ to or Reckon.
+character: Ah I see… So basically just a really stereotypical cowboy?
+steak: Um.. Yea I reckon?
+character: See what you did there yea. So like “ I will be fixin'to teach ya a lesson partner!”
+steak: Oh wow you're a natural at this stuff.
+character: Thanks! I reckon I'm pretty neat at this superior language!
+character: YEE HAWWW!!!
+steak: YEE HAWWW!!!!!!
+character: Ha this is a great yea.
+steak: I don’t think you need anymore lessons?
+character: Same yea. I reckon I was born to speak this way.
+jump steakEND/
