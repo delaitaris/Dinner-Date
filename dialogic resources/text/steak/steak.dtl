@@ -36,15 +36,18 @@ character: Yea that’s fine. Hm… what could we talk about..
 	character: Yea.. right.... Could you try to speak normally?
 	steak: You don’t like this way of speaking? I must educate ya!
 	jump steakCOMFORT/
+	set {SteakComfort} = "Comfort"
 - Compliment accent
 	character: The accent, I think it’s pretty neat.
 	steak: Oh that’s lovely! Thanks for appreciating ma amazing accent that comes from the west.
 	character: You got it partner!
 	steak: I can teach ya' if you want!
 	jump steakTEACHING/
+	set {SteakTeach} = "Teach"
 - Western movies?
 	character: What about those western movies?
 	steak: Yea you bet partner!
 	character: What is your favourite western?
 	steak: Hm... Maybe that good old western called “The unbeatable, the unhealthy, and the unsightly"?
 	jump steakMOVIE/
+	set {SteakMovie} = "Movie"
