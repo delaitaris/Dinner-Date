@@ -1,3 +1,4 @@
-res://scenes/kitchen_2.tscn
-res://dialogic resources/text/prologue/prologue.dtl
 res://scenes/kitchen.tscn
+res://dialogic resources/text/buffalowings/buffalowings.dtl
+res://scenes/Starting screen.tscn
+res://dialogic resources/text/buffalowings/buffalowingsENDR.dtl

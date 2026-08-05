@@ -104,7 +104,7 @@ audio/channel_defaults={
 "audio_bus": "",
 "fade_length": 0.0,
 "loop": true,
-"volume": -20.0
+"volume": 0.0
 }
 }
 variables={
