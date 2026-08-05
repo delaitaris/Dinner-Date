@@ -49,3 +49,4 @@ label takemeback
 	- Take me back.
 		jump takemeback
 - I wish not to continue the conversation later.
+[end_timeline]

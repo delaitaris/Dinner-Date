@@ -12,3 +12,4 @@ character: Bye.
 leave sushi [animation="Fade Out Up" length="2.0"]
 character: ...
 character: …Damn. That sucks.
+[end_timeline]

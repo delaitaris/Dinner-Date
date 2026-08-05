@@ -1,8 +1,8 @@
 steak: So anyway. Time to get serious considering I don’t have much time left here.
 if {EntreeKeep} == "Brock":
-	character:  Seriously? Aw, man. Are all you people short-lived like this?
+	character: Seriously? Aw, man. Are all you people short-lived like this?
 else:
-	character:  Seriously? But Shizuka had so long, why were you only here for like half an hour?
+	character: Seriously? But Shizuka had so long, why were you only here for like half an hour?
 steak: Naw. Some of us get longer than others; it’s just fate.
 character: That… That sucks!
 steak: Not really.
@@ -33,3 +33,4 @@ label takemeback
 	- Take me back
 		jump takemeback
 - I wish not to continue the conversation later
+[end_timeline]
