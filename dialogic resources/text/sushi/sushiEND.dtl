@@ -1,0 +1,15 @@
+character: Uh… excuse me? What does that mean?
+sushi: It means that I’m leaving. The mana used to create me is dissipating.
+character: Again, what? So… you’re dying?
+sushi: That would be a way to describe it.
+character: And how exactly are you so chill about this?
+sushi: Well, I’m not exactly human, am I?
+character: …No, technically not.
+sushi: Exactly. I don’t really care much for it.
+character: Okay. Alright. So… peace?
+sushi: Indeed. Goodbye.
+character: Bye.
+leave sushi [animation="Fade Out Up" length="2.0"]
+character: ...
+character: …Damn. That sucks.
+[end_timeline]

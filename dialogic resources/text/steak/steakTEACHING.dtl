@@ -1,0 +1,32 @@
+character: Yeah, that’d be fun.
+steak: Hot damn! So, where do we start, PARTNER!?
+character: Hey, calm down there. I'm glad you're hyped but try to slow down a bit when speaking. It makes it sound better rather than just hollering out the words to everyone. Basic education 101.
+steak: Right, sorry about that.
+character: All good. You’re teaching me, I’m teaching you.
+steak: Yeah! ‘Kay, so I’ll start by explaining what some of the key words mean and how we say them, yea’?
+character: Hit me.
+steak: For some basic ones to start on with, you gotta know how to cut your words off to make me sound better, yea?
+- Make attempt
+	character: Oh so like “I am a che’.”
+- Embarrass yourself
+	character: Oh so like “Ya’ wha’ is up ma' partner”.
+steak: Naw partner, it’s gotta at least sound good ya know?
+character: [i] Wow, real supportive.
+character: Ok… so, “How are ya’ doing, partner!?”
+steak: [wave amp=50 freq=2] Wow...
+steak: That's the best I've ever seen someone else do before.
+character: How many people have you seen do it before?
+steak: Ohh a lot, yea a lot.
+character: [i] He doesn't even try to lie..
+steak: Next, you gotta use the right words, like you’ve already been doing.
+character: Like “partner”?
+steak: Yea, like that. But you just gotta expand your knowledge a bit more to get it nailed. Using words like ‘Fixin’ to’ or ‘Reckon.’
+character: …So, just a really stereotypical cowboy?
+steak: Um.. Yea?
+character: Okay, so like, “I’m fixin' to teach ya’ a lesson, partner!”
+steak: Huh. You’re a natural at this!.
+character: Cheers.
+character: [i]I’m literally just LARPing.
+steak: Such is the way of the cowboy.
+character: …Right.
+jump steakEND/

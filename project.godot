@@ -31,6 +31,7 @@ directories/dch_directory={
 "chocolatecake": "res://dialogic resources/characters/chocolatecake.dch",
 "spaghetti": "res://dialogic resources/characters/spaghetti.dch",
 "steak": "res://dialogic resources/characters/steak.dch",
+"steakloin": "res://dialogic resources/characters/steakloin.dch",
 "sushi": "res://dialogic resources/characters/sushi.dch"
 }
 directories/dtl_directory={
@@ -50,12 +51,17 @@ directories/dtl_directory={
 "spaghettiFUMBLE": "res://dialogic resources/text/spaghetti/spaghettiFUMBLE.dtl",
 "spaghettiKNITTING": "res://dialogic resources/text/spaghetti/spaghettiKNITTING.dtl",
 "steak": "res://dialogic resources/text/steak/steak.dtl",
-"sushi": "res://dialogic resources/text/sushi/sushi.dtl"
+"steakCOMFORT": "res://dialogic resources/text/steak/steakCOMFORT.dtl",
+"steakEND": "res://dialogic resources/text/steak/steakEND.dtl",
+"steakMOVIE": "res://dialogic resources/text/steak/steakMOVIE.dtl",
+"steakTEACHING": "res://dialogic resources/text/steak/steakTEACHING.dtl",
+"sushi": "res://dialogic resources/text/sushi/sushi.dtl",
+"sushiCOOKING": "res://dialogic resources/text/sushi/sushiCOOKING.dtl",
+"sushiEND": "res://dialogic resources/text/sushi/sushiEND.dtl",
+"sushiMOVIE": "res://dialogic resources/text/sushi/sushiMOVIE.dtl",
+"sushiTEACHING": "res://dialogic resources/text/sushi/sushiTEACHING.dtl"
 }
-layout/style_directory={
-"": "res://styles/VN.tres",
-"VN": "res://styles/VN.tres"
-}
+layout/style_directory={}
 glossary/default_case_sensitive=true
 text/letter_speed=0.01
 text/initial_text_reveal_skippable=true
@@ -116,6 +122,9 @@ variables={
 "MaincourseKeep": "",
 "SpaghettiKnit": "",
 "Spaghetti_Apologise_": "",
+"SteakComfort": "",
+"SteakMovie": "",
+"SteakTeach": "",
 "SushiMood": "",
 "Was_Were": "",
 "WingsJoke": "",

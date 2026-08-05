@@ -1,0 +1,33 @@
+character: I... don’t think I know that one?
+steak: All good partner! I’ll give ya' a basic run down of the plot!
+character: Hit me.
+leave steak [animation="Slide To Left" wait="true"]
+join steak left [animation="Slide From Left" wait="true"]
+- The unbeatable
+	character: Huh, that movie sounds great! The Unbeatable sounds cool.
+	steak: Towhead?
+- The unhealthy
+	character: Huh, that movie sounds great! The Unhealthy sounds pretty cool.
+	steak: Devil pupils?
+- The unsightly
+	character: Huh, that movie sounds great! The Unsightly sounds pretty cool.
+	steak: Ruco?
+character: Yeah, that guy.
+steak: Yea, he’s great. I actually know him too.
+character: What? But… he’s fictional.
+steak: No, no, no. Believe me ,he’s real. He’s one of my good ol’ partners back in the west!
+character: Sure… Who are these “partners” anyway?
+steak: Oh, don’t worry about that.
+steak: [wave amp=50 freq=2]Just the boys back at the old bar, there was a LOT of 'em. A LOT.
+character: [i]He isn’t even trying to hide it at all.
+character: Yeah, cool… But back to the movie. Are there any other movies you like?
+steak: I don’t really get time for many of em.
+steak: [wave amp=50 freq=2] Y’know, since I'm always busy with being an epic gunslinger that is from the Wild West and all.
+if {Entreevar} == "Brock":
+	character: Uh-huh, yeah.. But I want to know more about you since I've already seen a big buff dude made out of food today, and you don’t really strike me as either.
+else:
+	character: Uh-huh, yeah.. But I want to know more about you since I've already seen one deadpan chick made out of food today, and you don’t really strike me as either.
+steak: [wave amp=50 freq=2] I bet they weren't an epic gunslinger from the west like me though.
+character: Yeah no, they weren’t. But… this is all kind of random y’know?
+steak: I guess I can understand that.
+jump steakEND/

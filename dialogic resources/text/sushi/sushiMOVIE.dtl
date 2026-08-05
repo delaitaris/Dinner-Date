@@ -1,0 +1,35 @@
+[wait time="1.5"]
+character: Got some chairs.
+sushi: I thank you. This motion picture… It looks quite interesting, from the synopsis I found.
+character: Yeah, quite.
+sushi: So, shall we begin?
+character: I don’t see why not. The films… 2 hours and 12 minutes long, and it’s midnight, so we’re looking at an end point of around 2 in the morning.
+sushi: That is not ideal for your sleep schedule, but alas, I fear whatever I say wouldn’t be able to get you to rest regardless.
+character: Woah, where’d that come from? Suddenly you care?
+sushi: Simply an observation. Let us begin.
+leave sushi [animation="Slide To Left"]
+[wait time="2.0"]
+join sushi left [animation="Slide From Left" wait="true"]
+sushi: Wow.
+character: Yeah. Wow. I forgot how that movie ended, that was… good.
+sushi: Indubitably. The female main character, Eva, changed a lot during that.
+character: Exactly, and the parallels between V and Eva were…
+sushi: Those were obvious, however I can agree. They were good.
+character: Treedy was a horrible guy. Kutler, too.
+sushi: Well, I’d assume so, considering they’re the main antagonists.
+character: Yeah. What’d you think of it?
+sushi: It… could’ve had a bigger focus on the societal backlash that V’s killings had, but aside from that, I feel it’s a pretty good movie.
+- Fun fact
+	character: Of course you’d say that. Fun fact\: It’s actually a superhero movie.
+	sushi: I paid attention to the more supernatural aspects, given the entire ‘ideas are bulletproof’ aspect of the movie, but I would hardly classify it as a superhero film.
+	character: Technically it’s owned by CD comics. It’s not in the shared universe, like Uberman or ManBat, but still.
+	sushi: That’s actually quite interesting, despite providing no real use.
+	character: Yeah.
+- Political
+	character: Yeah. Honestly, Blackfire seems rather… reflective of our current situation, here in the US.
+	sushi: I have to agree. I would like to discuss this more, but I’m afraid I’m not too educated on the politics of the world.
+	character: Yeah.
+	sushi: That’s actually quite interesting, despite providing no real use.
+	character: [i]For some reason, I feel like I can’t talk about that subject. As if someone else is listening in, and could share differing opinions.
+sushi: Well, due to spending so much time watching that film, I’m afraid that I don’t have much time left.
+jump sushiEND/

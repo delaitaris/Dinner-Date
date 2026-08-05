@@ -1,0 +1,51 @@
+character: Not really.
+steak: Damn.
+character: You… Are you good?
+steak: Yea, It’s just…
+steak: Like my voice….
+steak: And my gun….
+steak: And my um…...
+character: Your…?
+steak: Um… My partners! Yea, yea; my good old partners!
+character: Oh, your buddies. Yeah.
+steak: Yea! Lots of great friends. Mhm.
+character: Why are you saying it like tha-
+character: Yeah.
+steak: ...
+character: [i]Yeah, that guy looks incredibly depressed.
+steak: ...
+steak: Yea… nobody really likes this voice I have.
+character: [i]Oh. I’m… Damn.
+character: Uh…
+character: [wave amp=50 freq=2]Y’know, it’s actually pretty charming when you listen to it for a bit.
+character: [i]What the hell am I doing!? I just said it was weird.
+steak: Thanks, yea. There’s actually a good reason why people don't like it, though… rather than being just ‘weird’, of course
+character: And… that is?
+steak: Remember how I talked about being from the west?
+character: Uh-huh. Best gunslinger, right?
+steak: Yea… I'm actually from a really nice neighborhood.
+character: [i]…So he’s LARPing being a cowboy.
+steak: People dislike it ‘cause they think I’m faking it, considering I'm not from the west… and aren’t an actual sharpshooter...
+character: Yeah, I figured that last part out.
+steak: Oh, well…
+character: But still, you can’t let other people decide who you get to be!
+steak: They ain't wrong, though.
+character: They are. Who are these people anyway?
+steak: I actually… I don't know.
+character: [i]Damn. Being bullied by strangers has to suck.
+character: Oh, man, that's just… sad.
+steak: Yea…
+character: Y'know what?
+character: Hm?
+character: I’ll be back in a bit.
+# BRING TOY GUN
+[wait time="2.0"]
+steak: What… is this?
+character:  Some kid left a cap-gun here. ‘Left’ is a strong word, he was messing around with it and being a nuisance, so we took it.
+steak: Can you do that?
+character: God, no. It was funny, though. You like it?
+steak: I… this is bloody awesome, partner! I can finally fulfill my dreams of being the wests’ best gunslinger!
+character: …Glad to hear it.
+steak: I can already see the scene; a derailed train at sunrise, with me on one end and another man on the other. Our hands are hovering over our iron, where any move could be our last-
+character: Alright, that’s enough. I get it, you’re happy.
+jump steakEND/
