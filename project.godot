@@ -31,6 +31,7 @@ directories/dch_directory={
 "chocolatecake": "res://dialogic resources/characters/chocolatecake.dch",
 "spaghetti": "res://dialogic resources/characters/spaghetti.dch",
 "steak": "res://dialogic resources/characters/steak.dch",
+"steakloin": "res://dialogic resources/characters/steakloin.dch",
 "sushi": "res://dialogic resources/characters/sushi.dch"
 }
 directories/dtl_directory={

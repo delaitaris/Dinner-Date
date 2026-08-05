@@ -1,18 +1,17 @@
-join steak left
-character: So where do we start PARTNER!!!!!!!
-steak: Hey hey hey, calm down there, I'm glad you're jolly on the go but try to calm down a slight bit when speaking. It makes it sound better than just hollering out the words to everyone.
+character: So, where do we start, PARTNER!?
+steak: Hey, calm down there. I'm glad you're hyped but try to slow down a bit when speaking. It makes it sound better rather than just hollering out the words to everyone. Basic education 101.
 character: Right, sorry about that.
-steak: All good, It be apart of how we all learn the way of the-
-steak: [wave amp=50 freq=2] Cowboy.
-steak: I’ll start by explaining what some of the key words mean and how we say them yea?
-character: Lead the way.
-steak: For some basic ones to start on with, you gotta know how to cut your words off to make me sound better ye?
+steak: All good. You’re teaching me, I’m teaching you.
+steak: Yeah! ‘Kay, so I’ll start by explaining what some of the key words mean and how we say them, yea’?
+steak: Hit me.
+steak: For some basic ones to start on with, you gotta know how to cut your words off to make me sound better yea’?
 - Make attempt
-	character: Oh so like “I am a che”
+	character: Oh so like “I am a che’.”
 - Embarrass yourself
-	character: Oh so like “Ya wha i u ma partner”.
-steak: Nah partner, it’s gotta at least sound good ya know?
-character: Ok… so “How are ya doing partner!”
+	character: Oh so like “Ya’ wha’ is up ma' partner”.
+steak: Naw partner, it’s gotta at least sound good ya know?
+character: [i] Wow, real supportive.
+character: Ok… so, “How are ya’ doing, partner!?”
 steak: [wave amp=50 freq=2] Wow...
 steak: That's the best I've ever seen someone else do before.
 character: How many people have you seen do it before?

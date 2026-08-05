@@ -1,6 +1,9 @@
-res://dialogic resources/text/steak/steakCOMFORT.dtl
-res://dialogic resources/text/steak/steakEND.dtl
 res://dialogic resources/text/steak/steak.dtl
-res://dialogic resources/text/spaghetti/spaghettiEND.dtl
+res://dialogic resources/characters/steakloin.dch
+res://dialogic resources/characters/steak.dch
 res://scenes/kitchen.tscn
 res://styles/VN.tres
+res://dialogic resources/text/steak/steakCOMFORT.dtl
+res://dialogic resources/text/steak/steakEND.dtl
+res://dialogic resources/text/steak/steakMOVIE.dtl
+res://dialogic resources/text/steak/steakTEACHING.dtl

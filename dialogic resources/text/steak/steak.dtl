@@ -3,12 +3,12 @@ join steak left
 steak: Howdy there, partner!
 - What's your name?
 	character: Um, Hi! What’s your name?
-	steak: Name’s Loin, Fastest gunslinger in the west. Ma full name is Sir Loin but my partners all said that sounded more like a knight. And so, it’s just Loin now. YEE HAW.
+	steak: Name’s Loin, Fastest gunslinger in the west. Ma' full name is Sir Loin but my partners all said that sounded more like a knight, so it’s just Loin now. YEE HAW.
 - Steak?
 	character: You're a steak?
 	steak: Yep! You know it partner! Fastest gunslinger in the west!
-character: Right yea I see that…
-character: [i] …The west…. What does he mean by the west???
+character: Right yea I see that.
+character: [i] The west? What the hell does that mean?
 steak: What sorta stuff ya into?
 character: Erm.. I cook.
 steak: Oh, that’s great! What are you making right now?
@@ -23,31 +23,30 @@ else:
 	steak: I will devote myself to be as delightful as I can be. Just like an Ace-High roller!
 character: Why do you keep speaking like that?
 steak: Like what? You startling my grooves.
-character: Like THAT.,,
-steak: Ah you mean my superior way of speaking.
-character: Uh well.. Sure I guess…
-steak: If ya don’t mind me asking ya but I got a strong gut feeling that you ain’t from around these parts are ya?
-character: Well… Actually I am, this is where I work.
-steak: Oh righty, Pardon my reach partner.
-character: Yea that’s fine. Hm… what could we talk about..
+character: Like THAT.
+steak: Ah, you mean my superior way of speaking.
+character: I…
+steak: Well, if ya’ don’t mind me asking, I got a strong gut feeling that you ain’t from around these parts, are ya?
+character: Actually I am. This is where I work. My job.
+steak: Right! Shucks, pardon me, I must still be a bit shook from… y’know, comin’ into existence.
+character: Yeah, that’s fine.
+steak: …
+character: So, uh…
 - Dislike accent
 	character: That way of speaking. It's kinda weird?
-	steak: Oh, I'm doggone sorry, it’s just that from where I come from It’s normal to holler about like this. Plus I think it’s pretty solid.
-	character: Yea.. right.... Could you try to speak normally?
-	steak: You don’t like this way of speaking? I must educate ya!
+	steak: Oh, I’m doggone sorry. It’s just that from where I come from, it's normal to holler like this. Plus, I think it’s pretty solid.
+	character: Yeah, right… I don’t want to be rude or anything, but it’s kind of bugging me.
+	steak: You don’t like this way of speaking?!
 	jump steakCOMFORT/
-	set {SteakComfort} = "Comfort"
 - Compliment accent
 	character: The accent, I think it’s pretty neat.
-	steak: Oh that’s lovely! Thanks for appreciating ma amazing accent that comes from the west.
-	character: You got it partner!
-	steak: I can teach ya' if you want!
+	steak: Oh, well that’s just heartwarmin’. Cheers, partner!
+	character:  It’s all good.
+	steak: I can teach ya’ if you want!
 	jump steakTEACHING/
-	set {SteakTeach} = "Teach"
-- Western movies?
+- Western movies
 	character: What about those western movies?
-	steak: Yea you bet partner!
-	character: What is your favourite western?
-	steak: Hm... Maybe that good old western called “The unbeatable, the unhealthy, and the unsightly"?
+	steak: Yea, you bet!
+	character: So, what’s your favourite western?
+	steak: I’d say… that good old western called, “The Unbeatable, the Unhealthy, and the Unsightly.”
 	jump steakMOVIE/
-	set {SteakMovie} = "Movie"
