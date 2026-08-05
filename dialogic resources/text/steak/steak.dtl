@@ -1,6 +1,6 @@
 [background arg="res://sprites/24062026133858-0001 (1).jpg" fade="0.0"]
 join steak left
-steak: Howdy there, partner!
+Howdy there, partner!
 - What's your name?
 	character: Um, Hi! What’s your name?
 	steak: Name’s Loin, Fastest gunslinger in the west. Ma' full name is Sir Loin but my partners all said that sounded more like a knight, so it’s just Loin now. YEE HAW.
@@ -41,7 +41,7 @@ character: So, uh…
 - Compliment accent
 	character: The accent, I think it’s pretty neat.
 	steak: Oh, well that’s just heartwarmin’. Cheers, partner!
-	character:  It’s all good.
+	character: It’s all good.
 	steak: I can teach ya’ if you want!
 	jump steakTEACHING/
 - Western movies

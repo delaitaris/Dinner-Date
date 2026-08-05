@@ -1,54 +1,51 @@
-character: No no it’s fine lets just try to talk about something less…. Irritating.
-steak: I don’t get where all this hate be coming from but sure lets get it on!.
-character: Right so… what sort of stuff are YOU into.
-steak: I like all kinds of things…
+character: Not really.
+steak: Damn.
+character: You… Are you good?
+steak: Yea, It’s just…
 steak: Like my voice….
 steak: And my gun….
 steak: And my um…...
-character: You're what?
-steak: Um… My partners! Yea yea my good old partners!
-character: Ah right we all have a lot of great friends don't we?
-steak: YEP! A lot of great friends.
+character: Your…?
+steak: Um… My partners! Yea, yea; my good old partners!
+character: Oh, your buddies. Yeah.
+steak: Yea! Lots of great friends. Mhm.
 character: Why are you saying it like tha-
-character: [i]... Is he trying to say he doesn’t….. Oh damn.
-steak: Uhhh what's wrong.. You went silent there for a sec!
-character: Loin… is it slightly possible that you don't actually have any friends?
+character: Yeah.
 steak: ...
-steak: Yea... nobody really likes this "accent" i have.
-character: Why I think your accent is amazing!
-character: [i]Hopefully he doesn’t remember what I said earlier.
-steak: Thanks yea, but there is a good reason why people don't like it rather than just “being annoying”.
-character: And what's that?
+character: [i]Yeah, that guy looks incredibly depressed.
+steak: ...
+steak: Yea… nobody really likes this voice I have.
+character: [i]Oh. I’m… Damn.
+character: Uh…
+character: [wave amp=50 freq=2]Y’know, it’s actually pretty charming when you listen to it for a bit.
+character: [i]What the hell am I doing!? I just said it was weird.
+steak: Thanks, yea. There’s actually a good reason why people don't like it, though… rather than being just ‘weird’, of course
+character: And… that is?
 steak: Remember how I talked about being from the west?
-character: Yea what about it? Best gunslinger right?
+character: Uh-huh. Best gunslinger, right?
 steak: Yea… I'm actually from a really nice neighborhood.
-Both: ....
-character: ...what
-steak: Yea. People hate the accent because they think im faking it considering im not from the west. NOR AM I A EPIC COOL GUNSLINGER!!!.
-character: I kind of figured that last part out.
-steak: Oh well..
-character: But still you can’t let everyone else decide who you are!
-steak: They ain't wrong though.
+character: [i]…So he’s LARPing being a cowboy.
+steak: People dislike it ‘cause they think I’m faking it, considering I'm not from the west… and aren’t an actual sharpshooter...
+character: Yeah, I figured that last part out.
+steak: Oh, well…
+character: But still, you can’t let other people decide who you get to be!
+steak: They ain't wrong, though.
 character: They are. Who are these people anyway?
-steak: Um. I don’t actually know…
-character: How can you not kno-.
-character: ….Wait a sec.
-character: Are you trying to say that you don't have any friends either!?!
-steak: Yea.
-character: Oh man…that's… just sad..
+steak: I actually… I don't know.
+character: [i]Damn. Being bullied by strangers has to suck.
+character: Oh, man, that's just… sad.
+steak: Yea…
 character: Y'know what?
-steak: Hm?
-character: I’ll be back real quick.
+character: Hm?
+character: I’ll be back in a bit.
 # BRING TOY GUN
 [wait time="2.0"]
-steak: What kind of hickey is this?
-character: Oh I umm. Just found this.. And thought you might like it.
-steak: Hm.. it’s weird.
-character: Seriously?!?
-steak: Wait is this a gun?
-character: Yea it's a toy gu-
-steak: OH MY GOLLY GOSH THIS IS ABSOLUTELY FANTASTIC, IM GONNA BECOME THE BEST GUNSLINGER IN THE WEST!. YEEEE HAWWWW
-character: …. I'm glad you like it but… maybe tone it down a bit…
-steak: Oh pardon me partner! I'm just so jolly for this thoughtful gift.
-character: It’s alright. You're feeling better now so it’s fine.
+steak: What… is this?
+character:  Some kid left a cap-gun here. ‘Left’ is a strong word, he was messing around with it and being a nuisance, so we took it.
+steak: Can you do that?
+character: God, no. It was funny, though. You like it?
+steak: I… this is bloody awesome, partner! I can finally fulfill my dreams of being the wests’ best gunslinger!
+character: …Glad to hear it.
+steak: I can already see the scene; a derailed train at sunrise, with me on one end and another man on the other. Our hands are hovering over our iron, where any move could be our last-
+character: Alright, that’s enough. I get it, you’re happy.
 jump steakEND/
