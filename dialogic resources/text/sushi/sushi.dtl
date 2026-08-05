@@ -14,6 +14,11 @@ sushi: S\: That I am. How are you this fine evening?
 	sushi: …No, I have not. That sentence strikes an interest in me, however. Is this movie made for connoisseurs of the language?
 	character: Only a little bit. This guy in a Guy Fawkes mask, V, is a freedom-fighter and tries to blow up Parliament in a dystopian, fascist society. Great film. I’m pretty sure it’s on Superior Video, if you’re that interested.
 	sushi: …Hm. It interests me quite a bit. Does it create focus and attention on the growing capitalistic society we live in, where the wealth gap continues to grow larger and more severe and thus fosters a world where the poor stay poor and the rich stay rich?
+	character: It’s more of an action movie than anything else, but I’d say so. If nothing else, it’s a good film for the explosions.
+	sushi: You said you had access to it on your cellular phone? May I use it to watch said entertainment?
+	character: Sure, sure. I’ll drag some of the spare chairs over so we can both watch, just pull it up.
+	jump sushiMOVIE/
+<Empty Text Event>
 - Confused?
 	character: Confused, really.
 	sushi: Is it because of my constitution as an edible eastern cuisine?
@@ -24,6 +29,16 @@ sushi: S\: That I am. How are you this fine evening?
 	sushi: …I can hear the hesitation in your voice. Aficionado is a synonym for the word connoisseur.
 	character: …Thank you. So, do you like big words, or is that just a trait of yours?
 	sushi: Many people have said that my diction is rather grandiloquent, but I feel that the usage of such a dialect creates a more understanding and honest relationship between whoever I’m conversing with and I.
+	character: ‘Grandiloquent’, she says, knowing full well I don’t know what that word means.
+	sushi: Grandiloquent, someone who uses complex wording and vocabulary for purposes of boasting and extollation. You may just ask without the use of sarcasm, you realise?
+	character: Yeah, I get that, but… It feels humiliating to ask questions about language to someone who was born about 2 minutes ago, when I’ve been speaking it my whole life.
+	sushi: Don’t feel humiliated by your inadequacy. I’m sure compared to you, my skills regarding culinary practices are lacklustre.
+	character: …True.
+	sushi:  I actually had a question regarding that, if you may hear it.
+	character: Shoot.
+	sushi: Would you be able to teach me how to prepare a meal? As you may have picked up, I consider myself to be an intellectual, and you seem to be well-versed in that field, given your occupation.
+	character: I… Sure, I guess.
+	jump sushiCOOKING/
 - Not great
 	character: Not great, all things considered.
 	sushi: May I indulge in my curiosity and ask why?
@@ -35,4 +50,20 @@ sushi: S\: That I am. How are you this fine evening?
 	character: Still nothin’.
 	sushi: [wave amp=50 freq=2] Good grief; were you raised by neanderthals?
 	sushi: I apologise… Essentially, this way of speaking makes a more understandable conversation.
-	set {SushiMood} = "SMood"
+	character: Right…
+	sushi: You look disheartened. I apologise again for my outburst.
+	character:  It’s all cool. Also, I severely doubt that speaking like that is any more understandable than like this.
+	sushi: Why would it not be?
+	character: It’s just not. Sure, technically it’s able to convey your emotions clearer, but who really knows what the word ‘grandiloquent’ means?
+	sushi: The vocabulary of nowadays is rather lacking. Is it not your issue that you don’t understand my vocabulary?
+	character: …Did you just ‘not my problem’ me?
+	sushi: I believe I did. It’s really the fault of the American Education System, however.
+	character: I can’t argue that.
+	sushi: Indeed.
+	character: ...
+	sushi: …And once more, you look disheartened.
+	character: Yeah. I’m just coming to terms with how bad my education was.
+	sushi: Well, while I may not be a qualified educator, surely I’d be able to assist you in revision.
+	character: I’d… I’d actually like that. Thanks.
+	jump sushiTEACHING/
+	set {SushiMood} = "Mood"

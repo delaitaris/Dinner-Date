@@ -55,12 +55,13 @@ directories/dtl_directory={
 "steakEND": "res://dialogic resources/text/steak/steakEND.dtl",
 "steakMOVIE": "res://dialogic resources/text/steak/steakMOVIE.dtl",
 "steakTEACHING": "res://dialogic resources/text/steak/steakTEACHING.dtl",
-"sushi": "res://dialogic resources/text/sushi/sushi.dtl"
+"sushi": "res://dialogic resources/text/sushi/sushi.dtl",
+"sushiCOOKING": "res://dialogic resources/text/sushi/sushiCOOKING.dtl",
+"sushiEND": "res://dialogic resources/text/sushi/sushiEND.dtl",
+"sushiMOVIE": "res://dialogic resources/text/sushi/sushiMOVIE.dtl",
+"sushiTEACHING": "res://dialogic resources/text/sushi/sushiTEACHING.dtl"
 }
-layout/style_directory={
-"": "res://styles/VN.tres",
-"VN": "res://styles/VN.tres"
-}
+layout/style_directory={}
 glossary/default_case_sensitive=true
 text/letter_speed=0.01
 text/initial_text_reveal_skippable=true
