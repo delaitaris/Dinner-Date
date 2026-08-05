@@ -48,7 +48,7 @@ offset_right = 1156.0
 offset_bottom = 456.0
 text = "ART IS IN PROGRESS AND WILL BE DONE SOON
 
-IF YOU CAN PLAY WITH SOUND, PLEASE DO"
+IF YOU CAN PLAY WITH SOUND, PLEASE DO. SOMEONE WORKED VERY HARD"
 label_settings = SubResource("LabelSettings_pi1ro")
 
 [connection signal="pressed" from="Button" to="." method="_on_button_pressed"]

@@ -1,23 +1,2 @@
-
-res://dialogic resources/text/steak/steak.dtl
-res://dialogic resources/text/steak/steakTEACHING.dtl
-res://dialogic resources/text/steak/steakCOMFORT.dtl
-res://dialogic resources/text/steak/steakEND.dtl
-res://scenes/kitchen.tscn
-res://styles/VN.tres
+res://scenes/Starting screen.tscn
 res://dialogic resources/text/buffalowings/buffalowings.dtl
-res://scenes/Starting screen.tscn
-res://dialogic resources/text/spaghetti/spaghettiEND.dtl
-
-
-res://dialogic resources/characters/sushi.dch
-res://scenes/Starting screen.tscn
-res://styles/VN.tres
-res://dialogic resources/characters/steak.dch
-res://scenes/kitchen.tscn
-res://dialogic resources/text/sushi/sushi.dtl
-res://dialogic resources/text/sushi/sushiMOVIE.dtl
-res://dialogic resources/text/sushi/sushiCOOKING.dtl
-res://dialogic resources/text/sushi/sushiTEACHING.dtl
-res://dialogic resources/text/sushi/sushiEND.dtl
-res://scenes/kitchen_3.tscn
