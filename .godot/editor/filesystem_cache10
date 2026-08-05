@@ -1,5 +1,5 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1785916796
+::res://::1785916973
 export_presets.cfg::TextFile::-1::1785914300::0::1::::<><><>0<>0<><>::
 icon.svg::CompressedTexture2D::3843880153456758082::1785901801::1785901801::1::::<><><>0<>0<>1bf8324b66b59551b29c4abc63bb2c4e<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 index.apple-touch-icon.png::CompressedTexture2D::7179943832297673318::1785914170::1785913784::1::::<><><>0<>0<>d1950d25534208923fe3db88fe90ae51<>res://.godot/imported/index.apple-touch-icon.png-8085a11cc297d91deb55511843765958.ctex::
@@ -702,18 +702,18 @@ Raspusia.wav::AudioStreamWAV::6930149588254433013::1785911614::1785911831::1::::
 Spaghetti.wav::AudioStreamWAV::1294616055379473185::1785911614::1785911831::1::::<><><>0<>0<>d58b3da8a7380cdd6761c18d22a02e90<>res://.godot/imported/Spaghetti.wav-b1ae8563000858ab38f1f65cb36f8e13.sample::
 Steak.wav::AudioStreamWAV::3331649294887829360::1785911614::1785911831::1::::<><><>0<>0<>f8bea7011206d9edc4421351c9cd89c9<>res://.godot/imported/Steak.wav-4d1fd7960c29929943c0b3097114ea5a.sample::
 Sushi.wav::AudioStreamWAV::6252133172767042242::1785911614::1785911831::1::::<><><>0<>0<>4c4bb65dbf39499c622b36eb8dc6a19f<>res://.godot/imported/Sushi.wav-570782514f259cddb57d5227983dae1c.sample::
-::res://scenes/::1785915431
+::res://scenes/::1785916932
 cuttingminigame.tscn::PackedScene::3307057463110420734::1785901801::0::1::::<><><>0<>0<><>::uid://csoopr6remkq0::::res://sprites/ROGscale.png<>uid://bkqnu1duix6v3::::res://scripts/pointer.gd<>uid://byrw2n614m0y0::::res://sprites/pointerdark.png
 dinner_date.tscn::PackedScene::1867401658436221151::1785901801::0::1::::<><><>0<>0<><>::uid://dlnbnd614nujb::::res://scripts/dinner_date.gd
 end.tscn::PackedScene::1805930618533131972::1785901801::0::1::::<><><>0<>0<><>::
 kitchen.tscn::PackedScene::8566591953977945819::1785911498::0::1::::<><><>0<>0<><>::uid://dnlejcbbq8cyu::::res://scripts/kitchen.gd
-kitchen_2.tscn::PackedScene::1219301469660360464::1785915431::0::1::::<><><>0<>0<><>::uid://8kftwuaaioxo::::res://scripts/kitchen_2.gd
+kitchen_2.tscn::PackedScene::1219301469660360464::1785916932::0::1::::<><><>0<>0<><>::uid://8kftwuaaioxo::::res://scripts/kitchen_2.gd
 kitchen_3.tscn::PackedScene::8318238455836646223::1785911538::0::1::::<><><>0<>0<><>::uid://c2rshst8syd62::::res://scripts/kitchen_3.gd
 shieldminigame.tscn::PackedScene::7574375768247088829::1785901801::0::1::::<><><>0<>0<><>::uid://bobfl1oa2oivp::::res://sprites/wokshield.png<>uid://b88y7aop7p04n::::res://scripts/shield.gd
 Starting screen.tscn::PackedScene::4581755766123240684::1785913956::0::1::::<><><>0<>0<><>::uid://bnixr75ssbgly::::res://scripts/starting_screen.gd
 talking.tscn::PackedScene::947278122361642616::1785901801::0::1::::<><><>0<>0<><>::uid://bd5bfieqtefa7::::res://scripts/talking.gd
-::res://scripts/::1785915412
-dinner_date.gd::GDScript::7958260380893563067::1785915412::0::1::::<>Node2D<><>0<>0<><>::
+::res://scripts/::1785916846
+dinner_date.gd::GDScript::7958260380893563067::1785916846::0::1::::<>Node2D<><>0<>0<><>::
 kitchen.gd::GDScript::8094684220444213300::1785901801::0::1::::<>Control<><>0<>0<><>::
 kitchen_2.gd::GDScript::2337214319053814676::1785901801::0::1::::<>Control<><>0<>0<><>::
 kitchen_3.gd::GDScript::6704140950155180677::1785901801::0::1::::<>Control<><>0<>0<><>::

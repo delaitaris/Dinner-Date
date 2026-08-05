@@ -1,2 +1,3 @@
 res://scenes/kitchen_2.tscn
-res://scripts/dinner_date.gd
+res://dialogic resources/text/prologue/prologue.dtl
+res://scenes/kitchen.tscn
