@@ -1,0 +1,35 @@
+steak: So anyway. Time to get serious considering I don’t have much time left here.
+if {EntreeKeep} == "Brock":
+	character:  Seriously? Aw, man. Are all you people short-lived like this?
+else:
+	character:  Seriously? But Shizuka had so long, why were you only here for like half an hour?
+steak: Naw. Some of us get longer than others; it’s just fate.
+character: That… That sucks!
+steak: Not really.
+character: Yes, it does! Aren’t you… dying, or something?
+steak: Naw? What made you think that?
+if {EntreeKeep} == "Brock":
+	character: Gee, maybe the fact that both you and Brock
+else:
+	character: Shizuka said that your time was up!
+steak: Well… it is. It’s not like we’re dead, though.
+character: So what happens after you poof out of existence, then!? You experience nirvana, maybe reach enlightenment with Buddha?
+steak: We go into a purgatory-like waiting room until ya’ decide to pull us out again.
+character: …Huh? I can do that?
+steak: How else do you think we came to life?
+character: I just figured the magic I got struck with was doing… magic, I don’t know!
+steak: Yeah, well… Now you do know.
+character: Uh-huh, right. I’m going to assume that bringing you out of purgatory is what I’m doing when I cook you.
+steak: Yep!
+character: Sick. Okay, well… I guess I’ll see you later then, partner.
+steak: Catch you ‘round, partner!
+leave steak [animation="Fade Out" length="2.0" wait="true"]
+System: [wave amp=50 freq=2] This next choice will determine whether you want to continue this conversation later or not.
+label takemeback
+- I wish to continue the conversation later
+	System: Are you sure?
+	- Yes
+		set {MaincourseKeep} = "Steak"
+	- Take me back
+		jump takemeback
+- I wish not to continue the conversation later
