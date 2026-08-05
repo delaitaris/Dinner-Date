@@ -2,6 +2,9 @@
 
 [ext_resource type="Script" uid="uid://bnixr75ssbgly" path="res://scripts/starting_screen.gd" id="1_pi1ro"]
 
+[sub_resource type="LabelSettings" id="LabelSettings_pi1ro"]
+font_size = 29
+
 [node name="Control" type="Control" unique_id=89425527]
 layout_mode = 3
 anchors_preset = 15
@@ -30,11 +33,22 @@ color = Color(0.18717614, 0.18717614, 0.18717614, 1)
 [node name="Button" type="Button" parent="." unique_id=2135195168]
 z_index = 3
 layout_mode = 0
-offset_left = 412.0
-offset_top = 172.0
-offset_right = 678.0
-offset_bottom = 261.0
+offset_left = 415.0
+offset_top = 154.0
+offset_right = 681.0
+offset_bottom = 243.0
 text = "Play!"
 flat = true
+
+[node name="Label2" type="Label" parent="." unique_id=1068075363]
+layout_mode = 0
+offset_left = 9.0
+offset_top = 288.0
+offset_right = 1156.0
+offset_bottom = 456.0
+text = "ART IS IN PROGRESS AND WILL BE DONE SOON
+
+IF YOU CAN PLAY WITH SOUND, PLEASE DO"
+label_settings = SubResource("LabelSettings_pi1ro")
 
 [connection signal="pressed" from="Button" to="." method="_on_button_pressed"]
