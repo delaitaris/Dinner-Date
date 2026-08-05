@@ -4,11 +4,10 @@ extends Node2D
 # Called when the node enters the scene tree for the first time.
 func _ready() -> void:
 	Dialogic.signal_event.connect(_on_dialogic_signal)
-	get_tree().change_scene_to_file("res://scenes/kitchen_2.tscn")
 #calls dialogic to begin at start of opening
-#	Dialogic.start("prologue")
-	#if Dialogic.current_timeline != null:
-	#	pass
+	Dialogic.start("prologue")
+	if Dialogic.current_timeline != null:
+		pass
 
 func _on_dialogic_signal(argument:String):
 	if argument == "selection":

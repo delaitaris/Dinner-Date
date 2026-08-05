@@ -1,7 +1,2 @@
-res://scenes/Starting screen.tscn
-res://scripts/dinner_date.gd
-res://dialogic resources/text/buffalowings/buffalowingsENDR.dtl
-res://dialogic resources/text/spaghetti/spaghettiEND.dtl
-res://dialogic resources/text/sushi/sushiEND.dtl
 res://scenes/kitchen_2.tscn
-res://dialogic resources/text/steak/steakEND.dtl
+res://scripts/dinner_date.gd
