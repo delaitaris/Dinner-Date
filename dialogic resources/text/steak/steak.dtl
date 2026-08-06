@@ -1,6 +1,6 @@
 [background arg="res://sprites/24062026133858-0001 (1).jpg" fade="0.0"]
 join steak left
-audio "res://Soundtracks/Sir_Loin_song.mp3" [volume="-5.0"]
+audio music "res://Soundtracks/Sir_Loin_song.mp3" [volume="-5.0"]
 Howdy there, partner!
 - What's your name?
 	character: Um, Hi! What’s your name?
