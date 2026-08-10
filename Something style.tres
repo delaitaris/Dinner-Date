@@ -1,0 +1,49 @@
+[gd_resource type="Resource" script_class="DialogicStyle" format=3 uid="uid://dt4v304f8xinj"]
+
+[ext_resource type="Script" uid="uid://yivwmkfwrvfr" path="res://addons/dialogic/Modules/DefaultLayoutParts/Base_Default/default_layout_base.gd" id="1_tce1o"]
+[ext_resource type="Script" uid="uid://bwg6yncmh2cml" path="res://addons/dialogic/Resources/dialogic_style_layer.gd" id="2_3a3u2"]
+[ext_resource type="PackedScene" uid="uid://c1k5m0w3r40xf" path="res://addons/dialogic/Modules/DefaultLayoutParts/Layer_FullBackground/full_background_layer.tscn" id="3_nnhhg"]
+[ext_resource type="Script" uid="uid://bqdylb4maacf0" path="res://addons/dialogic/Modules/DefaultLayoutParts/Layer_FullBackground/full_background_layer.gd" id="3_uhhmh"]
+[ext_resource type="PackedScene" uid="uid://cy1y14inwkplb" path="res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Portraits/vn_portrait_layer.tscn" id="4_bbdq7"]
+[ext_resource type="PackedScene" uid="uid://cn674foxwedqu" path="res://addons/dialogic/Modules/DefaultLayoutParts/Layer_Input/full_advance_input_layer.tscn" id="5_llqeo"]
+[ext_resource type="Script" uid="uid://cx1i44s2olq2d" path="res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Portraits/vn_portrait_layer.gd" id="5_wa650"]
+[ext_resource type="PackedScene" uid="uid://bquja8jyk8kbr" path="res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Textbox/vn_textbox_layer.tscn" id="6_vfakn"]
+[ext_resource type="PackedScene" uid="uid://dsbwnp5hegnu3" path="res://addons/dialogic/Modules/DefaultLayoutParts/Layer_Glossary/glossary_popup_layer.tscn" id="7_hydn3"]
+[ext_resource type="Script" uid="uid://dwml743wmb7mn" path="res://addons/dialogic/Modules/DefaultLayoutParts/Layer_Input/full_advance_input_layer.gd" id="7_uchfm"]
+[ext_resource type="PackedScene" uid="uid://dhk6j6eb6e3q" path="res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Choices/vn_choice_layer.tscn" id="8_8dygc"]
+[ext_resource type="Script" uid="uid://bl43m5qw8pso3" path="res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Textbox/vn_textbox_layer.gd" id="9_nauo7"]
+[ext_resource type="PackedScene" uid="uid://cvgf4c6gg0tsy" path="res://addons/dialogic/Modules/DefaultLayoutParts/Layer_TextInput/text_input_layer.tscn" id="9_td8lv"]
+[ext_resource type="PackedScene" uid="uid://lx24i8fl6uo" path="res://addons/dialogic/Modules/DefaultLayoutParts/Layer_History/history_layer.tscn" id="10_tce1o"]
+[ext_resource type="Script" uid="uid://o2cnjam8bomr" path="res://addons/dialogic/Modules/DefaultLayoutParts/Layer_Glossary/glossary_popup_layer.gd" id="11_ds750"]
+[ext_resource type="Script" uid="uid://dv08k6ljua6fm" path="res://addons/dialogic/Resources/dialogic_style.gd" id="11_uhhmh"]
+[ext_resource type="Script" uid="uid://ij0qm2ew6plv" path="res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Choices/vn_choice_layer.gd" id="13_ke2ok"]
+[ext_resource type="Script" uid="uid://cjdvjwjrj86sj" path="res://addons/dialogic/Modules/DefaultLayoutParts/Layer_TextInput/text_input_layer.gd" id="15_4j4fv"]
+[ext_resource type="Script" uid="uid://gv8mqbjor5nu" path="res://addons/dialogic/Modules/DefaultLayoutParts/Layer_History/history_layer.gd" id="17_c2aev"]
+[ext_resource type="PackedScene" uid="uid://cuoywrmvda1yg" path="res://addons/dialogic/Modules/DefaultLayoutParts/Layer_History/example_history_item.tscn" id="18_tndne"]
+
+[sub_resource type="PackedScene" id="PackedScene_2jt1u"]
+_bundled = {
+"conn_count": 0,
+"conns": PackedInt32Array(),
+"editable_instances": [],
+"id_paths": [],
+"names": PackedStringArray("Custom", "script", "CanvasLayer", "BackgroundLayer", "layout_direction", "layout_mode", "anchors_preset", "anchor_right", "anchor_bottom", "grow_horizontal", "grow_vertical", "apply_overrides_on_ready", "Control", "VN_PortraitLayer", "mouse_filter", "FullAdvanceInputLayer", "VN_TextboxLayer", "box_panel", "box_size", "name_label_box_panel", "name_label_box_modulate", "Glossary", "VN_ChoiceLayer", "TextInputLayer", "ExampleHistoryScene", "size_flags_horizontal", "size_flags_vertical", "HistoryItem"),
+"node_count": 9,
+"node_ids": PackedInt32Array(1390097599, 301919803, 511480804, 308363426, 2011665328, 1787697363, 220023370, 1819096190, 175442397),
+"node_paths": [],
+"nodes": PackedInt32Array(-1, -1, 2, 0, -1, 1, 1, 0, 0, 0, 0, 12, 3, 1, 9, 4, 2, 5, 3, 6, 4, 7, 5, 8, 5, 9, 2, 10, 2, 1, 6, 11, 7, 0, 0, 0, 12, 13, 8, 9, 5, 3, 6, 4, 7, 5, 8, 5, 9, 2, 10, 2, 14, 2, 1, 9, 11, 7, 0, 0, 0, 12, 15, 10, 9, 5, 3, 6, 4, 7, 5, 8, 5, 9, 2, 10, 2, 14, 2, 1, 11, 11, 7, 0, 0, 0, 12, 16, 12, 13, 5, 3, 6, 4, 7, 5, 8, 5, 9, 2, 10, 2, 14, 2, 1, 13, 17, 14, 18, 15, 19, 16, 20, 17, 11, 7, 0, 0, 0, 12, 21, 18, 5, 5, 3, 6, 19, 14, 2, 1, 20, 11, 7, 0, 0, 0, 12, 22, 21, 9, 5, 3, 6, 4, 7, 5, 8, 5, 9, 2, 10, 2, 14, 2, 1, 22, 11, 7, 0, 0, 0, 12, 23, 23, 9, 5, 3, 6, 4, 7, 5, 8, 5, 9, 2, 10, 2, 14, 2, 1, 24, 11, 7, 0, 0, 0, 12, 24, 25, 13, 4, 26, 5, 3, 6, 4, 7, 5, 8, 5, 9, 2, 10, 2, 25, 3, 26, 3, 14, 2, 1, 27, 27, 28, 11, 7, 0),
+"variants": [ExtResource("1_tce1o"), ExtResource("3_nnhhg"), 2, 3, 15, 1.0, ExtResource("3_uhhmh"), true, ExtResource("4_bbdq7"), ExtResource("5_wa650"), ExtResource("5_llqeo"), ExtResource("7_uchfm"), ExtResource("6_vfakn"), ExtResource("9_nauo7"), "res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Textbox/vn_textbox_default_panel.tres", Vector2(550, 150), "res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Textbox/vn_textbox_name_label_panel.tres", Color(0, 0, 0, 1), ExtResource("7_hydn3"), 0, ExtResource("11_ds750"), ExtResource("8_8dygc"), ExtResource("13_ke2ok"), ExtResource("9_td8lv"), ExtResource("15_4j4fv"), ExtResource("10_tce1o"), 1, ExtResource("17_c2aev"), ExtResource("18_tndne")],
+"version": 3
+}
+
+[sub_resource type="Resource" id="Resource_qbbf6"]
+script = ExtResource("2_3a3u2")
+scene = SubResource("PackedScene_2jt1u")
+
+[resource]
+script = ExtResource("11_uhhmh")
+name = "Something style"
+layer_info = {
+"": SubResource("Resource_qbbf6")
+}
+metadata/_latest_layer = ""

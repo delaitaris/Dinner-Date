@@ -1,3 +1,6 @@
-res://scenes/kitchen_2.tscn
+res://scenes/Starting screen.tscn
+res://scripts/dinner_date.gd
 res://dialogic resources/text/prologue/prologue.dtl
-res://scenes/kitchen.tscn
+res://Something style.tres
+res://scenes/New_File.tres
+res://scenes/DefaultLayoutBase/custom_default_layout_base.tscn
