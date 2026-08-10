@@ -1,9 +1,2 @@
-res://dialogic resources/text/prologue/prologue.dtl
-res://dialogic resources/characters/steak.dch
+res://dialogic resources/text/sushi/sushiCOOKING.dtl
 res://scenes/kitchen.tscn
-res://dialogic resources/text/buffalowings/buffalowings.dtl
-res://dialogic resources/text/spaghetti/spaghetti.dtl
-res://dialogic resources/text/sushi/sushi.dtl
-res://scenes/kitchen_2.tscn
-res://dialogic resources/text/steak/steak.dtl
-res://dialogic resources/characters/sushi.dch

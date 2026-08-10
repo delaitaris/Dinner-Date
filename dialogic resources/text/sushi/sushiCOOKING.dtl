@@ -1,0 +1,19 @@
+character: So, what’d you like to cook?
+sushi: I don’t mind. It would provide valuable experience and information regardless.
+character: Uh… Alright. Let’s just do a whole bunch of stuff, there’s no point in focusing on one specific dish.
+sushi: Verily.
+[wait time="2.0"]
+[wave amp=50 freq=2] 15 minutes later.
+character: Alright, so just chuck that in the microwave for like a minute.
+sushi: Certainly. This is quite fun, making a microwaveable muffin.
+leave sushi
+character: Yeah. It’s definitely not the best recipe, given the fact that I’m trying to cram as much food knowledge into your brain as possible, but it's something.
+sushi: Regardless of the expertise required to create such a dish, it honestly is quite engaging.
+character: Such are the joys of cooking.
+sushi: Hm. {ChefName}, why is it glowing?
+character: What?
+sushi: Why is it glowing?
+character: What do you mean, ‘Why is it glowing?’ It shouldn’t be glowing!
+join sushi left
+character: ...
+character: That’s a metal tray!
