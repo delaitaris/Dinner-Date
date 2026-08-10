@@ -61,7 +61,10 @@ directories/dtl_directory={
 "sushiMOVIE": "res://dialogic resources/text/sushi/sushiMOVIE.dtl",
 "sushiTEACHING": "res://dialogic resources/text/sushi/sushiTEACHING.dtl"
 }
-layout/style_directory={}
+layout/style_directory={
+"": "res://scenes/New_File.tres",
+"New_File": "res://scenes/New_File.tres"
+}
 glossary/default_case_sensitive=true
 text/letter_speed=0.01
 text/initial_text_reveal_skippable=true
@@ -131,8 +134,8 @@ variables={
 "WingsMood": "",
 "WingsTrait": ""
 }
-layout/style_list=["res://styles/VN.tres"]
-layout/default_style="res://styles/VN.tres"
+layout/style_list=["res://scenes/New_File.tres"]
+layout/default_style="res://scenes/New_File.tres"
 text/input_action="TextInteract"
 translation/enabled=false
 translation/original_locale="en"

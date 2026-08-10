@@ -1,6 +1,7 @@
 [gd_scene format=3 uid="uid://b6jo33ml85esy"]
 
 [ext_resource type="Script" uid="uid://bnixr75ssbgly" path="res://scripts/starting_screen.gd" id="1_pi1ro"]
+[ext_resource type="AudioStream" uid="uid://d002sqo6buef0" path="res://Soundtracks/matthewvakaliuk73627-mouse-click-290204.mp3" id="2_i3j4q"]
 
 [sub_resource type="LabelSettings" id="LabelSettings_pi1ro"]
 font_size = 29
@@ -50,5 +51,8 @@ text = "ART IS IN PROGRESS AND WILL BE DONE SOON
 
 IF YOU CAN PLAY WITH SOUND, PLEASE DO. SOMEONE WORKED VERY HARD"
 label_settings = SubResource("LabelSettings_pi1ro")
+
+[node name="TextChangeSound" type="AudioStreamPlayer2D" parent="." unique_id=1439066082]
+stream = ExtResource("2_i3j4q")
 
 [connection signal="pressed" from="Button" to="." method="_on_button_pressed"]
