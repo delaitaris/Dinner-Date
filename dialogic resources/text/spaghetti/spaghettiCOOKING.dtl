@@ -2,6 +2,7 @@ join spaghetti left
 spaghetti: How about pancakes?
 character: Alright. I’m pretty sure I have some batter in here…
 # Will do cooking game when ready, No point right now.
+[wait time="1.5"]
 character: [wave amp=5 freq=10]Ta-dah!
 character: 3, fresh and deliciously-bland pancakes! For some reason, we didn’t have any jam or anything in stock.
 spaghetti: Ooh! Those actually look really good!

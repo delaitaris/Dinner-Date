@@ -1,2 +1,11 @@
+res://dialogic resources/text/sushi/sushi.dtl
 res://dialogic resources/text/sushi/sushiCOOKING.dtl
 res://scenes/kitchen.tscn
+res://dialogic resources/text/sushi/sushiTEACHING.dtl
+res://dialogic resources/text/sushi/sushiEND.dtl
+res://dialogic resources/text/steak/steakEND.dtl
+res://dialogic resources/characters/steak.dch
+res://dialogic resources/characters/steakloin.dch
+res://dialogic resources/text/spaghetti/spaghetti.dtl
+res://dialogic resources/text/spaghetti/spaghettiCOOKING.dtl
+res://dialogic resources/text/spaghetti/spaghettiEND.dtl

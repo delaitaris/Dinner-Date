@@ -17,7 +17,7 @@ if {Entreevar} == "Brock":
 	character: There was a really buff dude. Like REALLY buff. He was basically the opposite of you.
 else:
 	
-	character: There was this deadpan chick, and she was pretty out-of-it.
+	character: There was this deadpan chick, and she was rather confident in herself.
 
 spaghetti: S- so… you enjoyed talking to them more than me…?
 - Harsh Truth
@@ -35,11 +35,12 @@ character: …So, erm. Tell me about yourself?
 spaghetti: U- uhm… I like knitting and crochet?
 if {Entreevar} == "Brock":
 	character: Have you actually knitted before? The last guy didn’t ever lift before, and he was still a gymbro.
+	spaghetti: …I came into existence about a minute ago, okay!?
 else:
 	
-	character: Have you actually knitted before? The last chick liked to cook, and she had never even cooked before
-
-spaghetti: …I came into existence about a minute ago, okay!? W- what’s your issue!?
+	character: Uh-huh. Rather cliche for someone made of spaghetti.
+	
+	spaghetti: W-what’s your issue!?
 - Defuse
 	character: Woah, woah, woah. I wasn’t trying to insinuate anything, I was just going off of prior experience.
 - Apologise
