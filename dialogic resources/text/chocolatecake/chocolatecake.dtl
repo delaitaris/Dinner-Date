@@ -1,4 +1,53 @@
 [background arg="res://sprites/24062026133858-0001 (1).jpg" fade="0.0"]
 join chocolatecake left
-chocolatecake: HI
-jump end/
+chocolatecake: How’s it going?
+character: Hey! I'm… pretty alright.
+chocolatecake: Are you sure?
+character: Uh… Yeah?
+chocolatecake: Just looking out for ya! That’s all.
+character: …Alright?
+chocolatecake: What do you want to do?
+character: Why are we rushing? You still haven’t even introduced yourself yet.
+chocolatecake: Oh! Apologies, I was lost in the moment..
+character: [i]What moment? The moment just began.
+chocolatecake: So, what do you want to do?
+character: I still don’t know who you are.
+chocolatecake: Right!
+chocolatecake: Charlotte Blackout, pleased to meet you.
+character: Blackout. Makes sense, given the cake. I’m {ChefName}.
+chocolatecake: So… what do you want to do now then?
+character: I’m not really sure. What’s your shtick? The other people had something about them, something… special? I don’t know.
+chocolatecake: I really like mana, magic, and wizards.
+character: [i]Huh. I never actually really thought about that, I just kind of… accepted it.
+chocolatecake: So how are you doing today?
+character: I’m… honestly doing fine. You’ve asked that already, by the way.
+chocolatecake: Oh!
+character: Yeah. So… about mana, and magic, and all that. Can I… y’know, get some pointers?
+chocolatecake: Uh...
+character: 'Uh’?
+chocolatecake: I… Not yet?
+character: Why not?
+chocolatecake: Because I wanna get to know you more before I waste all my time talking about magic.
+character: That’s… pretty fair, I guess. You’re on a time limit, after all.
+chocolatecake: Yeah. Thanks.
+character: Uh-huh. So… Let’s get to it?
+chocolatecake: Right! Uh… show me around?
+character: I… There’s really not much more to it than this.
+[wait time="1.0"]
+You walked around the table once, silent and motioning to the various appliances.
+chocolatecake: ...Ah.
+character: Honestly, I don’t know. The only thing I can think of is stuff I’ve already done.
+chocolatecake: …How about I talk about mana and magic stuff?
+- Gracefully decline
+	character: No, that’s… this is supposed to be a date. It’s fine.
+	chocolatecake:  I guess… What makes it super romantic?
+	character: Ah-hah! We can go on an actual date!
+	jump cakeDATE/
+- The super fleshed out lore the writer spent ages on
+	character: …Please. I want to understand this.
+	jump cakeLORE/
+- I have an idea…
+	character: No, it’s… it’s fine. Actually, here’s an idea.
+	chocolatecake: Oh yea?
+	character: I got a few games on this old Minrendo Shift. Maybe we could give one a shot?
+	jump cakeGAMING/
