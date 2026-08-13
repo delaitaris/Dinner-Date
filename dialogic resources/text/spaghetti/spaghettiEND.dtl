@@ -3,14 +3,17 @@ character: Hey, you know what I just noticed?
 spaghetti: What?
 character: You’ve stopped being so nervous. When you first appeared, you were all stuttery and looked like you’d evaporate into nothingness at the slightest bit of embarrassment. Now…
 spaghetti: Now I’m not?
-character: Yeah. You’re a whole lot more confident. What’s your timer looking like till you disappear? The last person I talked to poofed out of existence around this time.
+if {EntreeKeep} == "Brock":
+	character: Yeah. You’re a whole lot more confident. What’s your timer looking like till you disappear? The last person I talked to poofed out of existence around this time. The last person I talked to poofed out of existence around this time.
+else:
+	character: Yeah. You’re a whole lot more confident. What’s your timer looking like till you disappear? The last person I talked to poofed out of existence around this time.
 spaghetti: Wow, trying to get rid of me?
 character: N- no! I didn’t mean it like that.
 spaghetti: I was kidding, don’t worry! It’s… I still have a decent chunk of time left. Only burned 10%.
 if {Entreevar} == "Brock":
 	character: Huh. Brock just drew the short end of the stick, I suppose.
 else:
-	character: Huh. Chips just drew the short end of the stick, I suppose.
+	character: Oh, so you’re going good then. Sick.
 spaghetti: Yeah. I still have 90% of my mana reserves left, so…
 character: So we just mess about till you’re gone?
 spaghetti: Mhm. That’d be fun.

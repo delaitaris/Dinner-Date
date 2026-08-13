@@ -1,6 +1,6 @@
 [background arg="res://sprites/24062026133858-0001 (1).jpg" fade="0.0"]
 join spaghetti left
-audio music "res://Soundtracks/Spagettie_song.mp3" [volume="-13.0"]
+audio music "res://Soundtracks/Spagettie_song.mp3" [bus="" loop="true" sync=""]
 spaghetti: …Good afternoon.
 character: Pretty sure it’s morning, given the fact that it’s 2\:30 and dark out.
 spaghetti: O- oh… Right, yeah.
@@ -16,10 +16,8 @@ character: I mean, compared to the others…
 if {Entreevar} == "Brock":
 	character: There was a really buff dude. Like REALLY buff. He was basically the opposite of you.
 else:
-
-	character: There was an alcoholic chick, and she was… somethin’. She was cool.
-
-	character: There was this deadpan chick, and she was pretty out-of-it.
+	
+	character: There was this deadpan chick, and she was rather confident in herself.
 
 spaghetti: S- so… you enjoyed talking to them more than me…?
 - Harsh Truth
@@ -37,13 +35,12 @@ character: …So, erm. Tell me about yourself?
 spaghetti: U- uhm… I like knitting and crochet?
 if {Entreevar} == "Brock":
 	character: Have you actually knitted before? The last guy didn’t ever lift before, and he was still a gymbro.
+	spaghetti: …I came into existence about a minute ago, okay!?
 else:
-
-	character: The last chick was apparently an alcoholic, and she hadn’t really drunk anything before, so…
-
-	character: Have you actually knitted before? The last chick liked to cook, and she had never even cooked before
-
-spaghetti: …I came into existence about a minute ago, okay!? W- what’s your issue!?
+	
+	character: Uh-huh. Rather cliche for someone made of spaghetti.
+	
+	spaghetti: W-what’s your issue!?
 - Defuse
 	character: Woah, woah, woah. I wasn’t trying to insinuate anything, I was just going off of prior experience.
 - Apologise

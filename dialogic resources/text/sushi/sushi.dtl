@@ -1,6 +1,6 @@
 [background arg="res://sprites/24062026133858-0001 (1).jpg" fade="0.0"]
 join sushi left
-audio music "res://Soundtracks/Sushi_song.mp3" [volume="-10.0"]
+audio music "res://Soundtracks/Sushi_song.mp3" [bus="" loop="true" sync=""]
 sushi: S\: …Evening, Chef.
 character: C\: Hi? You’re… Sushi.
 sushi: S\: That I am. How are you this fine evening?
@@ -18,7 +18,6 @@ sushi: S\: That I am. How are you this fine evening?
 	sushi: You said you had access to it on your cellular phone? May I use it to watch said entertainment?
 	character: Sure, sure. I’ll drag some of the spare chairs over so we can both watch, just pull it up.
 	jump sushiMOVIE/
-<Empty Text Event>
 - Confused?
 	character: Confused, really.
 	sushi: Is it because of my constitution as an edible eastern cuisine?
@@ -34,7 +33,7 @@ sushi: S\: That I am. How are you this fine evening?
 	character: Yeah, I get that, but… It feels humiliating to ask questions about language to someone who was born about 2 minutes ago, when I’ve been speaking it my whole life.
 	sushi: Don’t feel humiliated by your inadequacy. I’m sure compared to you, my skills regarding culinary practices are lacklustre.
 	character: …True.
-	sushi:  I actually had a question regarding that, if you may hear it.
+	sushi: I actually had a question regarding that, if you may hear it.
 	character: Shoot.
 	sushi: Would you be able to teach me how to prepare a meal? As you may have picked up, I consider myself to be an intellectual, and you seem to be well-versed in that field, given your occupation.
 	character: I… Sure, I guess.
@@ -52,7 +51,7 @@ sushi: S\: That I am. How are you this fine evening?
 	sushi: I apologise… Essentially, this way of speaking makes a more understandable conversation.
 	character: Right…
 	sushi: You look disheartened. I apologise again for my outburst.
-	character:  It’s all cool. Also, I severely doubt that speaking like that is any more understandable than like this.
+	character: It’s all cool. Also, I severely doubt that speaking like that is any more understandable than like this.
 	sushi: Why would it not be?
 	character: It’s just not. Sure, technically it’s able to convey your emotions clearer, but who really knows what the word ‘grandiloquent’ means?
 	sushi: The vocabulary of nowadays is rather lacking. Is it not your issue that you don’t understand my vocabulary?

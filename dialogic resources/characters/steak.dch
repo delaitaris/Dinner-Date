@@ -23,7 +23,7 @@
 },
 &"default_portrait": "New portrait",
 &"description": "",
-&"display_name": "Sir Loin",
+&"display_name": "{SteakName}",
 &"mirror": false,
 &"nicknames": [""],
 &"offset": Vector2(0, 0),

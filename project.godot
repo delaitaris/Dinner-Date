@@ -68,7 +68,7 @@ layout/style_directory={
 glossary/default_case_sensitive=true
 text/letter_speed=0.01
 text/initial_text_reveal_skippable=true
-text/text_reveal_skip_delay=0.1
+text/text_reveal_skip_delay=0.7
 text/advance_delay=0.1
 text/autoadvance_per_character_delay=0.1
 text/autoadvance_ignored_characters_enabled=true
@@ -89,6 +89,12 @@ audio/channel_defaults={
 "audio_bus": "",
 "fade_length": 0.0,
 "loop": false,
+"volume": 0.0
+},
+"Dialogic": {
+"audio_bus": "",
+"fade_length": 0.0,
+"loop": true,
 "volume": 0.0
 },
 "Sfx1": {
@@ -127,6 +133,7 @@ variables={
 "Spaghetti_Apologise_": "",
 "SteakComfort": "",
 "SteakMovie": "",
+"SteakName": "",
 "SteakTeach": "",
 "SushiMood": "",
 "Was_Were": "",

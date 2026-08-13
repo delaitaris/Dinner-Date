@@ -1,0 +1,38 @@
+character: So, what’d you like to cook?
+sushi: I don’t mind. It would provide valuable experience and information regardless.
+character: Uh… Alright. Let’s just do a whole bunch of stuff, there’s no point in focusing on one specific dish.
+sushi: Verily.
+[wait time="2.0"]
+[wave amp=50 freq=2] 15 minutes later.
+character: Alright, so just chuck that in the microwave for like a minute.
+sushi: Certainly. This is quite fun, making a microwaveable muffin.
+leave sushi
+character: Yeah. It’s definitely not the best recipe, given the fact that I’m trying to cram as much food knowledge into your brain as possible, but it's something.
+sushi: Regardless of the expertise required to create such a dish, it honestly is quite engaging.
+character: Such are the joys of cooking.
+sushi: Hm. {ChefName}, why is it glowing?
+character: What?
+sushi: Why is it glowing?
+character: What do you mean, ‘Why is it glowing?’ It shouldn’t be glowing!
+character: ...
+character: [shake rate=20.0 level=5] That’s a metal tray!
+[wait time="2.0"]
+join sushi left
+character: ....And… our industrial microwave is gone.
+sushi: I’m… I…
+character: Damn.
+sushi: I… My greatest apologies. I did not foresee that to…
+- Take blame
+	character: No, no. It’s my bad. I handed someone without any cooking experience a non-microwavable cooking tray and told them to microwave it.
+	sushi: I… Well, regardless, the blame falls to me for actually following through with the instructions.
+- Proclaim
+	character: Damn it! That’s like… multiple grand!
+	sushi: ...Sorry.
+character: No… No. It’s alright. It’s fine. I’ll just say that I messed up due to sleep deprivation.
+sushi: That’s… Will your occupation be okay?
+character: Hell if I know. Let’s just… Let’s just continue with something else. I’m doing all the microwaving now.
+sushi: That may be for the best, indeed.
+leave sushi
+[wait time="4.0"]
+join sushi left
+sushi: Well, due to spending so much time cooking with you "cooking" with you, I’m afraid that I don’t have much time left.

@@ -31,6 +31,7 @@ label takemeback
 	- Yes
 		set {MaincourseKeep} = "Steak"
 	- Take me back
+		[wait time="0.3"]
 		jump takemeback
 - I wish not to continue the conversation later
 [end_timeline]
