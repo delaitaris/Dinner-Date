@@ -1,5 +1,5 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1786568215
+::res://::1786656631
 export_presets.cfg::TextFile::-1::1786322577::0::1::::<><><>0<>0<><>::
 icon.svg::CompressedTexture2D::3843880153456758082::1786322577::1786322577::1::::<><><>0<>0<>1bf8324b66b59551b29c4abc63bb2c4e<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 index.apple-touch-icon.png::CompressedTexture2D::7179943832297673318::1786322577::1786322835::1::::<><><>0<>0<>d1950d25534208923fe3db88fe90ae51<>res://.godot/imported/index.apple-touch-icon.png-8085a11cc297d91deb55511843765958.ctex::
@@ -682,8 +682,8 @@ spaghettiCOOKING.dtl::Resource/DialogicTimeline::4000426903336928507::1786412552
 spaghettiEND.dtl::Resource/DialogicTimeline::1204469758451587846::1786412552::0::1::::<><><>0<>0<><>::uid://b5o65fxw5ohyy<>uid://dcfdc06684m32<>uid://3fmqbhkkhqq1
 spaghettiFUMBLE.dtl::Resource/DialogicTimeline::3930694903145934971::1786322577::0::1::::<><><>0<>0<><>::uid://b5o65fxw5ohyy<>uid://dcfdc06684m32<>uid://rfpo8y7vshak
 spaghettiKNITTING.dtl::Resource/DialogicTimeline::1187902381877408117::1786322577::0::1::::<><><>0<>0<><>::uid://b5o65fxw5ohyy<>uid://dcfdc06684m32<>uid://bu1ae6ct80pgc<>uid://bpe3fmje14jkk<>uid://rfpo8y7vshak
-::res://dialogic resources/text/steak/::1786412737
-steak.dtl::Resource/DialogicTimeline::2168844092716456691::1786412737::0::1::::<><><>0<>0<><>::uid://bpe3fmje14jkk<>uid://dhb42ae0pmdoq<>uid://bdbguvcnajoh6<>uid://dcfdc06684m32<>uid://c823nufxtni81<>uid://bwf4yuxlpwbl<>uid://mephi46otp0n
+::res://dialogic resources/text/steak/::1786569954
+steak.dtl::Resource/DialogicTimeline::2168844092716456691::1786569954::0::1::::<><><>0<>0<><>::uid://bpe3fmje14jkk<>uid://dhb42ae0pmdoq<>uid://bdbguvcnajoh6<>uid://dcfdc06684m32<>uid://c823nufxtni81<>uid://bwf4yuxlpwbl<>uid://mephi46otp0n
 steakCOMFORT.dtl::Resource/DialogicTimeline::7146535757181060820::1786322577::0::1::::<><><>0<>0<><>::uid://dcfdc06684m32<>uid://dhb42ae0pmdoq<>uid://cpataxntdmkck
 steakEND.dtl::Resource/DialogicTimeline::5826828873806526758::1786412552::0::1::::<><><>0<>0<><>::uid://dhb42ae0pmdoq<>uid://dcfdc06684m32<>uid://3fmqbhkkhqq1
 steakMOVIE.dtl::Resource/DialogicTimeline::851447356535559987::1786322577::0::1::::<><><>0<>0<><>::uid://dcfdc06684m32<>uid://dhb42ae0pmdoq<>uid://cpataxntdmkck
