@@ -1,10 +1,2 @@
-res://scenes/kitchen.tscn
-res://dialogic resources/text/buffalowings/buffalowings.dtl
-res://scenes/Starting screen.tscn
-res://dialogic resources/text/buffalowings/buffalowingsENDR.dtl
-res://scenes/Starting screen.tscn
-res://scripts/dinner_date.gd
-res://dialogic resources/text/prologue/prologue.dtl
-res://Something style.tres
-res://scenes/New_File.tres
 res://scenes/DefaultLayoutBase/custom_default_layout_base.tscn
+res://scenes/New_File.tres

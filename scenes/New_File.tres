@@ -1,6 +1,6 @@
 [gd_resource type="Resource" script_class="DialogicStyle" format=3 uid="uid://bc2d1jr05oshm"]
 
-[ext_resource type="PackedScene" path="res://scenes/DefaultLayoutBase/custom_default_layout_base.tscn" id="1_oqim3"]
+[ext_resource type="PackedScene" uid="uid://bmbcppprhmrb1" path="res://scenes/DefaultLayoutBase/custom_default_layout_base.tscn" id="1_oqim3"]
 [ext_resource type="Script" uid="uid://bwg6yncmh2cml" path="res://addons/dialogic/Resources/dialogic_style_layer.gd" id="2_rrv2b"]
 [ext_resource type="PackedScene" uid="uid://c1k5m0w3r40xf" path="res://addons/dialogic/Modules/DefaultLayoutParts/Layer_FullBackground/full_background_layer.tscn" id="3_nehee"]
 [ext_resource type="PackedScene" uid="uid://cy1y14inwkplb" path="res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Portraits/vn_portrait_layer.tscn" id="4_sna0a"]
