@@ -42,6 +42,7 @@ directories/dtl_directory={
 "buffalowingsSMARTR": "res://dialogic resources/text/buffalowings/buffalowingsSMARTR.dtl",
 "buffalowingsSTRONGR": "res://dialogic resources/text/buffalowings/buffalowingsSTRONGR.dtl",
 "cakeDATE": "res://dialogic resources/text/chocolatecake/cakeDATE.dtl",
+"cakeENDR": "res://dialogic resources/text/chocolatecake/cakeENDR.dtl",
 "cakeGAMING": "res://dialogic resources/text/chocolatecake/cakeGAMING.dtl",
 "cakeLORE": "res://dialogic resources/text/chocolatecake/cakeLORE.dtl",
 "chocolatecake": "res://dialogic resources/text/chocolatecake/chocolatecake.dtl",
@@ -119,6 +120,8 @@ audio/channel_defaults={
 }
 }
 variables={
+"Bum": "",
+"CakeRoute": "",
 "ChefGender": "",
 "ChefGenderHe": "",
 "ChefGenderHeCap": "",

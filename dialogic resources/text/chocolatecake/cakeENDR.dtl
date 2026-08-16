@@ -1,0 +1,38 @@
+character: Whatever... Man, that was fun.
+chocolatecake: Yeah! You were honestly great to be around. Super interesting.
+if {CakeRoute} == "Date":
+	character: Hey, buddy! We just smooched, I think that's a bit more than 'interesting'.
+elif {Bum} == "True" and {CakeRoute} == "Date":
+	character: Hey! We just... uh... had a moment.
+elif {CakeRoute} == "Lore":
+	character: Hey! We just had a thrilling conversation about the magic of this world. Now that I say that, yeah, it's pretty interesting...
+else:
+	character: Hey! You just caved my skull in with Scorpio and Princess Mosalina. That was more than interesting.
+chocolatecake: Sure, sure. So... I only really have a minute or two left.
+character: Yeah...
+if {CakeRoute} == "Lore":
+	chocolatecake: Listen, remember what I told you. If you want to bring us back, just make the dish again and think about us.
+	character: Yeah. I've got it.
+else:
+	chocolatecake: Look, I don't really have much time, but you have to know this. If you make our dishes again and think about us, we'll come back into existence again.
+	character: I... Okay. I'm over being confused. I've got it.
+chocolatecake: Cool...
+character: ...
+chocolatecake: ...
+character: Okay, too awkward. Let's clear this by doing something we enjoy.
+chocolatecake: And that is?
+character: Why, walking around the table in silence, of course!
+Pointless words to save on making an animation. But yeah, they do that.
+character: Ah... What nice moments together.
+chocolatecake: Yeah. Something about going down memory lane.
+character: Memory lane of 40 minutes ago?
+chocolatecake: Yep.
+character: Of course.
+chocolatecake: ...
+character: ...
+chocolatecake: Hey, {ChefName}?
+character: Hm?
+chocolatecake: This whole thing was a nice...
+chocolatecake: [wave amp=50 freq=2] Dinner Date.
+leave chocolatecake [animation="Fade Out Down" length="2.0" wait="true"]
+character: [i] ...Huh. That feeling again, as if someones watching me.
