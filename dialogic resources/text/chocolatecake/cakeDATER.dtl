@@ -1,0 +1,24 @@
+chocolatecake: Okay, so how... how are we gonna do this?
+character: You don't know what a date is?
+chocolatecake: No, I do. It's just that we came to a conclusion randomly without any discussion about what we're gonna do.
+character: That's... true, but-
+chocolatecake: We could just talk?
+character: ...Yeah, that'll work. Lame date, but still. You got any ideas?
+chocolatecake: I mean... You showed interest in magic, right? There's some super juicy lore the writer spent ages on.
+- Yeah, I want to read that lore.
+	character: Yeah, true. Sick, so let's do that.
+	jump cakeLORE/
+- No, I don't. Let me crack.
+	That's not like a date at all, no? How about... gossip?
+chocolatecake: Hey, that's actually a good idea!
+character: Thank you, thank you. I know, I'm great.
+chocolatecake: Alright, you're pushing it.
+character: Wow, how mean.
+if {Entreevar} == "Brock":
+	chocolatecake: Yeah. Now might be a good time to tell you that I... kinda heard your conversations with Brock and the others.
+else:
+	chocolatecake: Yeah. Now might be a good time to tell you that I... kinda heard your conversations with Shizuka and the others.
+character: And that means?
+chocolatecake: Well... I know a bit about you. 
+character: Uh...
+chocolatecake: You're kind, but a bit snarky. You're great at cooking (ADD MORE ADD MORE)
