@@ -1,8 +1,5 @@
-
 res://scenes/end.tscn
-res://scripts/canvas_layer.gd
-
-res://scenes/kitchen_3.tscn
 res://scenes/New_File.tres
-res://dialogic resources/text/chocolatecake/cakeDATER.dtl
-
+res://scripts/canvas_layer.gd
+res://scripts/dinner_date.gd
+res://dialogic resources/text/chocolatecake/cakeENDR.dtl
