@@ -40,14 +40,17 @@ character: Honestly, I don’t know. The only thing I can think of is stuff I’
 chocolatecake: …How about I talk about mana and magic stuff?
 - Gracefully decline
 	character: No, that’s… this is supposed to be a date. It’s fine.
-	chocolatecake:  I guess… What makes it super romantic?
+	chocolatecake: I guess… What makes it super romantic?
 	character: Ah-hah! We can go on an actual date!
 	jump cakeDATE/
+	set {CakeRoute} = "Date"
 - The super fleshed out lore the writer spent ages on
 	character: …Please. I want to understand this.
 	jump cakeLORE/
+	set {CakeRoute} = "Lore"
 - I have an idea…
 	character: No, it’s… it’s fine. Actually, here’s an idea.
 	chocolatecake: Oh yea?
 	character: I got a few games on this old Minrendo Shift. Maybe we could give one a shot?
+	set {CakeRoute} = "Gaming"
 	jump cakeGAMING/

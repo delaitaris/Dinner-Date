@@ -1,4 +1,5 @@
 [background scene="kitchen_2.tscn" arg="res://sprites/24062026133858-0001 (1).jpg" fade="0.0"]
+
 join buffalowings left [length="1.0" wait="true"]
 audio music "res://Soundtracks/Brock_song.mp3" [bus="" loop="true"]
 

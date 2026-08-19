@@ -1,8 +1,9 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1787180623
+::res://::1787181421
 export_presets.cfg::TextFile::-1::1786394192::0::1::::<><><>0<>0<><>::
 icon.svg::CompressedTexture2D::3843880153456758082::1781060369::1781060369::1::::<><><>0<>0<>1bf8324b66b59551b29c4abc63bb2c4e<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 index.apple-touch-icon.png::CompressedTexture2D::7179943832297673318::1786394192::1786394253::1::::<><><>0<>0<>d1950d25534208923fe3db88fe90ae51<>res://.godot/imported/index.apple-touch-icon.png-8085a11cc297d91deb55511843765958.ctex::
+Something style.tres::Resource/DialogicStyle::-1::1787181421::0::1::::<><><>0<>0<><>::
 ::res://addons/::1781060369
 ::res://addons/dialogic/::1781060369
 export_plugin.gd::GDScript::7207191105660148901::1781060369::0::1::::<>EditorExportPlugin<><>0<>0<><>::
@@ -326,7 +327,7 @@ icon_position.png::CompressedTexture2D::6240753079284806829::1781060369::1781060
 index.gd::GDScript::2075963725075832992::1781060369::0::1::::<>DialogicIndexer<><>0<>1<><>::
 node_portrait_container.gd::GDScript::8946131689167411849::1781060369::0::1::::DialogicNode_PortraitContainer<>Control<><>0<>1<><>::
 portrait_position.svg::CompressedTexture2D::3357497812767945100::1781060369::1781060369::1::::<><><>0<>0<>57369769c3cec2053b77048073cc24dd<>res://.godot/imported/portrait_position.svg-f025767e40032b9ebdeab1f9e882467a.ctex::
-preview_character.tres::Resource/DialogicCharacter::8864788605870491990::1781060369::0::1::::<><><>0<>0<><>::uid://don4ds5f38byo::::res://addons/dialogic/Resources/character.gd
+preview_character.tres::Resource/DialogicCharacter::8864788605870491990::1781060369::0::1::::<><>uid://bbea0efx0ybu7<>0<>0<><>::uid://don4ds5f38byo::::res://addons/dialogic/Resources/character.gd
 settings_portraits.gd::GDScript::6752804783309176286::1781060369::0::1::::<>DialogicSettingsPage<><>0<>1<><>::
 settings_portraits.tscn::PackedScene::5887474122682821078::1781060369::0::1::::<><><>0<>0<><>::uid://c3hdycwp0hrdm::::res://addons/dialogic/Modules/Character/settings_portraits.gd<>uid://dbpkta2tjsqim::::res://addons/dialogic/Editor/Common/hint_tooltip_icon.tscn<>uid://dpwhshre1n4t6::::res://addons/dialogic/Editor/Events/Fields/field_options_dynamic.tscn<>uid://7mvxuaulctcq::::res://addons/dialogic/Editor/Events/Fields/field_file.tscn
 simple_image_portrait_thumbnail.png::CompressedTexture2D::1139979017741368080::1781060369::1781060369::1::::<><><>0<>0<>8846e0a5b0758071edfd3fcc4846e769<>res://.godot/imported/simple_image_portrait_thumbnail.png-3d6c6de8187fd7911017e2ef9d3c40a4.ctex::
@@ -573,12 +574,12 @@ event_text.gd::GDScript::7199229198122971661::1781060369::0::1::::DialogicTextEv
 icon.svg::CompressedTexture2D::9151163472776694991::1781060369::1781060369::1::::<><><>0<>0<>0fe1b3b3cf3733ead1d66ddc5726114c<>res://.godot/imported/icon.svg-e2501ddcdef01c7f2c3538940f5abfc1.ctex::
 index.gd::GDScript::3735692247776249690::1781060369::0::1::::<>DialogicIndexer<><>0<>1<><>::
 manual_advance.gd::GDScript::7278833021501408885::1781060369::0::1::::DialogicManualAdvance<>RefCounted<><>0<>0<><>::
-node_dialog_text.gd::GDScript::8367256849905527338::1781060369::0::1::::DialogicNode_DialogText<>RichTextLabel<>res://addons/dialogic/Modules/Text/node_dialog_text_icon.svg<>0<>1<><>::
+node_dialog_text.gd::GDScript::8367256849905527338::1781060369::0::1::::DialogicNode_DialogText<>RichTextLabel<><>0<>1<><>::
 node_dialog_text_icon.svg::CompressedTexture2D::4044689466443943908::1781060369::1781060369::1::::<><><>0<>0<>0854d1eb256c2d7e9186a18e71c67bd8<>res://.godot/imported/node_dialog_text_icon.svg-3cf845e99d76137d8156865c09f39e3e.ctex::
 node_input.gd::GDScript::6135746528022206122::1781060369::0::1::::DialogicNode_Input<>Control<><>0<>0<><>::
-node_name_label.gd::GDScript::2409060177523604634::1781060369::0::1::::DialogicNode_NameLabel<>Label<>res://addons/dialogic/Modules/Text/node_name_label_icon.svg<>0<>0<><>::
+node_name_label.gd::GDScript::2409060177523604634::1781060369::0::1::::DialogicNode_NameLabel<>Label<><>0<>0<><>::
 node_name_label_icon.svg::CompressedTexture2D::753910208124862534::1781060369::1781060369::1::::<><><>0<>0<>a4c8bf4be7c45d309f0f460f60daff16<>res://.godot/imported/node_name_label_icon.svg-d482939b74b41ec2da6edc97e41c8bf8.ctex::
-node_next_indicator.gd::GDScript::8643102605516753138::1781060369::0::1::::DialogicNode_NextIndicator<>Control<>res://addons/dialogic/Modules/Text/node_next_indicator_icon.svg<>0<>0<><>::
+node_next_indicator.gd::GDScript::8643102605516753138::1781060369::0::1::::DialogicNode_NextIndicator<>Control<><>0<>0<><>::
 node_next_indicator_icon.svg::CompressedTexture2D::302873534409359568::1781060369::1781060369::1::::<><><>0<>0<>b19c8f494620393de69e28f29117e8d0<>res://.godot/imported/node_next_indicator_icon.svg-06167a3b3e290941c1c34386ebd60af8.ctex::
 node_type_sound.gd::GDScript::8257091630640999901::1781060369::0::1::::DialogicNode_TypeSounds<>AudioStreamPlayer<><>0<>1<><>::
 settings_text.gd::GDScript::5031029662621467051::1781060369::0::1::::<>DialogicSettingsPage<><>0<>1<><>::
@@ -621,7 +622,7 @@ event_wait_input.gd::GDScript::2473881298755643258::1781060369::0::1::::Dialogic
 icon.svg::CompressedTexture2D::2766149336681406939::1781060369::1781060369::1::::<><><>0<>0<>35002bf1f4e75410313770867b7720c7<>res://.godot/imported/icon.svg-cb8e50b081a310c64183b12c6d12fcf2.ctex::
 index.gd::GDScript::971839668851566764::1781060369::0::1::::<>DialogicIndexer<><>0<>1<><>::
 ::res://addons/dialogic/Resources/::1781060369
-character.gd::GDScript::8170509915016804394::1781060369::0::1::::DialogicCharacter<>Resource<>uid://bbea0efx0ybu7<>0<>1<><>::
+character.gd::GDScript::8170509915016804394::1781060369::0::1::::DialogicCharacter<>Resource<><>0<>1<><>::
 CharacterResourceLoader.gd::GDScript::3230683283296700613::1781060369::0::1::::DialogicCharacterFormatLoader<>ResourceFormatLoader<><>0<>1<><>::
 CharacterResourceSaver.gd::GDScript::11330996335859447::1781060369::0::1::::DialogicCharacterFormatSaver<>ResourceFormatSaver<><>0<>1<><>::
 dialogic_identifiable_resource.gd::GDScript::7504157656011423462::1781060369::0::1::::<>Resource<><>0<>1<><>::
@@ -630,7 +631,7 @@ dialogic_layout_layer.gd::GDScript::7097085608305494937::1781060369::0::1::::Dia
 dialogic_style.gd::GDScript::8686860375682204498::1781060369::0::1::::DialogicStyle<>Resource<><>0<>1<><>::
 dialogic_style_layer.gd::GDScript::3944887282532454131::1781060369::0::1::::DialogicStyleLayer<>Resource<><>0<>1<><>::
 event.gd::GDScript::8763588563558386910::1781060369::0::1::::DialogicEvent<>Resource<><>0<>1<><>::
-timeline.gd::GDScript::5667425671830628919::1781060369::0::1::::DialogicTimeline<>Resource<>uid://j7ym07anlusi<>0<>1<><>::
+timeline.gd::GDScript::5667425671830628919::1781060369::0::1::::DialogicTimeline<>Resource<><>0<>1<><>::
 TimelineResourceLoader.gd::GDScript::1953327801557244659::1781060369::0::1::::DialogicTimelineFormatLoader<>ResourceFormatLoader<><>0<>1<><>::
 TimelineResourceSaver.gd::GDScript::6005903703142383367::1781060369::0::1::::DialogicTimelineFormatSaver<>ResourceFormatSaver<><>0<>1<><>::
 ::res://addons/dialogic_additions/::1781060369
@@ -647,86 +648,91 @@ number-5.png::CompressedTexture2D::8898927765517637436::1781144417::1781144474::
 number-6.png::CompressedTexture2D::5757010914316628944::1781144417::1781144474::1::::<><><>0<>0<>a40c77736c0d32b5fcad3dc98b953490<>res://.godot/imported/number-6.png-dcafeb4a64acca46e651bd5b8ebcc271.ctex::
 number-7.png::CompressedTexture2D::1050689802621808965::1781144417::1781144474::1::::<><><>0<>0<>9e4299a3f644c208ab0c34d2342e7005<>res://.godot/imported/number-7.png-1a0a9289f2eb65df044012169f3ff325.ctex::
 number-8.png::CompressedTexture2D::942194725930003445::1781144417::1781144474::1::::<><><>0<>0<>817f40866c4b0fa4e311ff3451a30a40<>res://.godot/imported/number-8.png-1b8923e985e6e8127a39b6130c53b6fc.ctex::
-::res://dialogic resources/characters/::1787180571
-bananasplit.dch::Resource/DialogicCharacter::1914330047122733676::1784761264::0::1::::<><><>0<>0<><>::res://icon.svg
-beerbatteredchips.dch::Resource/DialogicCharacter::5777829162865302177::1784761264::0::1::::<><><>0<>0<><>::res://icon.svg
-Both.dch::Resource/DialogicCharacter::5004280076121735010::1782343893::0::1::::<><><>0<>0<><>::res://icon.svg
-buffalowings.dch::Resource/DialogicCharacter::7761206186939089605::1786394192::0::1::::<><><>0<>0<><>::res://icon.svg
-character.dch::Resource/DialogicCharacter::7310148712118218395::1781144417::0::1::::<><><>0<>0<><>::res://addons/dialogic/Modules/Character/default_portrait.tscn<>res://icon.svg
-chocolatecake.dch::Resource/DialogicCharacter::3846165232706733396::1786394192::0::1::::<><><>0<>0<><>::res://icon.svg
-spaghetti.dch::Resource/DialogicCharacter::4522923381171297588::1786394192::0::1::::<><><>0<>0<><>::res://icon.svg
-steak.dch::Resource/DialogicCharacter::7654457350860873192::1787180571::0::1::::<><><>0<>0<><>::res://sprites/sirloin.png
-steakloin.dch::Resource/DialogicCharacter::112960427272491028::1786396054::0::1::::<><><>0<>0<><>::res://icon.svg
-sushi.dch::Resource/DialogicCharacter::3822595923590355323::1786394192::0::1::::<><><>0<>0<><>::res://sprites/shizukatanaka.png
-System.dch::Resource/DialogicCharacter::1976366751055874386::1784761264::0::1::::<><><>0<>0<><>::
+::res://dialogic resources/characters/::1787181421
+bananasplit.dch::Resource/DialogicCharacter::1914330047122733676::1784761264::0::1::::<><>uid://bbea0efx0ybu7<>0<>0<><>::res://icon.svg
+beerbatteredchips.dch::Resource/DialogicCharacter::5777829162865302177::1784761264::0::1::::<><>uid://bbea0efx0ybu7<>0<>0<><>::res://icon.svg
+Both.dch::Resource/DialogicCharacter::5004280076121735010::1782343893::0::1::::<><>uid://bbea0efx0ybu7<>0<>0<><>::res://icon.svg
+buffalowings.dch::Resource/DialogicCharacter::7761206186939089605::1786394192::0::1::::<><>uid://bbea0efx0ybu7<>0<>0<><>::res://icon.svg
+character.dch::Resource/DialogicCharacter::7310148712118218395::1781144417::0::1::::<><>uid://bbea0efx0ybu7<>0<>0<><>::res://addons/dialogic/Modules/Character/default_portrait.tscn<>res://icon.svg
+chocolatecake.dch::Resource/DialogicCharacter::3846165232706733396::1787181421::0::1::::<><>uid://bbea0efx0ybu7<>0<>0<><>::res://icon.svg
+spaghetti.dch::Resource/DialogicCharacter::4522923381171297588::1786394192::0::1::::<><>uid://bbea0efx0ybu7<>0<>0<><>::res://icon.svg
+steak.dch::Resource/DialogicCharacter::7654457350860873192::1787180571::0::1::::<><>uid://bbea0efx0ybu7<>0<>0<><>::res://sprites/sirloin.png
+steakloin.dch::Resource/DialogicCharacter::112960427272491028::1786396054::0::1::::<><>uid://bbea0efx0ybu7<>0<>0<><>::res://icon.svg
+sushi.dch::Resource/DialogicCharacter::3822595923590355323::1786394192::0::1::::<><>uid://bbea0efx0ybu7<>0<>0<><>::res://sprites/shizukatanaka.png
+System.dch::Resource/DialogicCharacter::1976366751055874386::1784761264::0::1::::<><>uid://bbea0efx0ybu7<>0<>0<><>::
 ::res://dialogic resources/text/::1787180571
 ::res://dialogic resources/text/bananasplit/::1784761264
-bananasplit.dtl::Resource/DialogicTimeline::1655690197356828435::1784761264::0::1::::<><><>0<>0<><>::uid://bpe3fmje14jkk<>uid://2jk0bbf37x05
-::res://dialogic resources/text/buffalowings/::1787180571
-buffalowings.dtl::Resource/DialogicTimeline::3639010136058270652::1786394192::0::1::::<><><>0<>0<><>::uid://bpe3fmje14jkk<>uid://ditt6xmimoa50<>uid://cwkhyfbsl0iym<>uid://dcfdc06684m32<>uid://b3pxmr23348b3<>uid://btcro5pv1p0lu<>uid://b4b3325gq51gg
-buffalowingsENDR.dtl::Resource/DialogicTimeline::6071193451259371698::1787180571::0::1::::<><><>0<>0<><>::uid://ditt6xmimoa50<>uid://dcfdc06684m32
-buffalowingsFUNNYR.dtl::Resource/DialogicTimeline::4384092828146850858::1782256635::0::1::::<><><>0<>0<><>::uid://ditt6xmimoa50<>uid://dcfdc06684m32<>uid://csq6w0rqhfnxy
-buffalowingsSMARTR.dtl::Resource/DialogicTimeline::3725196258177612390::1781144417::0::1::::<><><>0<>0<><>::uid://ditt6xmimoa50<>uid://dcfdc06684m32<>uid://csq6w0rqhfnxy
-buffalowingsSTRONGR.dtl::Resource/DialogicTimeline::4425713069746687722::1781144417::0::1::::<><><>0<>0<><>::uid://ditt6xmimoa50<>uid://dcfdc06684m32<>uid://cdkd05su4l7yk<>uid://csq6w0rqhfnxy
-::res://dialogic resources/text/chocolatecake/::1787180571
-cakeBORING.dtl::Resource/DialogicTimeline::1704954479464875120::1787180571::0::1::::<><><>0<>0<><>::
-cakeDATE.dtl::Resource/DialogicTimeline::4900368377301934498::1787180571::0::1::::<><><>0<>0<><>::
-cakeGAMING.dtl::Resource/DialogicTimeline::1396029780543304493::1787180571::0::1::::<><><>0<>0<><>::
-cakeLORE.dtl::Resource/DialogicTimeline::3121130335424616380::1787180571::0::1::::<><><>0<>0<><>::
-chocolatecake.dtl::Resource/DialogicTimeline::4169715238795083339::1787180571::0::1::::<><><>0<>0<><>::uid://bpe3fmje14jkk<>uid://bu2d1rbsko6ce<>uid://dcfdc06684m32<>uid://cb21l7an1pecw<>uid://bkp5tccw23701<>uid://t5in268m5wf2
+bananasplit.dtl::Resource/DialogicTimeline::1655690197356828435::1784761264::0::1::::<><>uid://j7ym07anlusi<>0<>0<><>::uid://bpe3fmje14jkk<>uid://2jk0bbf37x05
+::res://dialogic resources/text/buffalowings/::1787181421
+buffalowings.dtl::Resource/DialogicTimeline::3639010136058270652::1787181421::0::1::::<><>uid://j7ym07anlusi<>0<>0<><>::uid://bpe3fmje14jkk<>uid://ditt6xmimoa50<>uid://cwkhyfbsl0iym<>uid://dcfdc06684m32<>uid://b3pxmr23348b3<>uid://btcro5pv1p0lu<>uid://b4b3325gq51gg
+buffalowingsENDR.dtl::Resource/DialogicTimeline::6071193451259371698::1787181421::0::1::::<><>uid://j7ym07anlusi<>0<>0<><>::uid://ditt6xmimoa50<>uid://dcfdc06684m32
+buffalowingsFUNNYR.dtl::Resource/DialogicTimeline::4384092828146850858::1782256635::0::1::::<><>uid://j7ym07anlusi<>0<>0<><>::uid://ditt6xmimoa50<>uid://dcfdc06684m32<>uid://csq6w0rqhfnxy
+buffalowingsSMARTR.dtl::Resource/DialogicTimeline::3725196258177612390::1781144417::0::1::::<><>uid://j7ym07anlusi<>0<>0<><>::uid://ditt6xmimoa50<>uid://dcfdc06684m32<>uid://csq6w0rqhfnxy
+buffalowingsSTRONGR.dtl::Resource/DialogicTimeline::4425713069746687722::1781144417::0::1::::<><>uid://j7ym07anlusi<>0<>0<><>::uid://ditt6xmimoa50<>uid://dcfdc06684m32<>uid://cdkd05su4l7yk<>uid://csq6w0rqhfnxy
+::res://dialogic resources/text/chocolatecake/::1787181421
+cakeDATER.dtl::Resource/DialogicTimeline::-1::1787181421::0::1::::<><><>0<>0<><>::
+cakeENDR.dtl::Resource/DialogicTimeline::-1::1787181421::0::1::::<><><>0<>0<><>::
+cakeGAMING.dtl::Resource/DialogicTimeline::1396029780543304493::1787181421::0::1::::<><>uid://j7ym07anlusi<>0<>0<><>::
+cakeLORE.dtl::Resource/DialogicTimeline::3121130335424616380::1787180571::0::1::::<><>uid://j7ym07anlusi<>0<>0<><>::
+chocolatecake.dtl::Resource/DialogicTimeline::4169715238795083339::1787181421::0::1::::<><>uid://j7ym07anlusi<>0<>0<><>::uid://bpe3fmje14jkk<>uid://bu2d1rbsko6ce<>uid://dcfdc06684m32<>uid://cb21l7an1pecw<>uid://bkp5tccw23701<>uid://t5in268m5wf2
 ::res://dialogic resources/text/end/::1784761264
-end.dtl::Resource/DialogicTimeline::223589942084055246::1784761264::0::1::::<><><>0<>0<><>::uid://bpe3fmje14jkk<>uid://ditt6xmimoa50<>uid://b5o65fxw5ohyy
+end.dtl::Resource/DialogicTimeline::223589942084055246::1784761264::0::1::::<><>uid://j7ym07anlusi<>0<>0<><>::uid://bpe3fmje14jkk<>uid://ditt6xmimoa50<>uid://b5o65fxw5ohyy
 ::res://dialogic resources/text/prologue/::1786394192
-prologue.dtl::Resource/DialogicTimeline::6367856162582934459::1786394192::0::1::::<><><>0<>0<><>::uid://bcpb7txq8fbuw<>uid://b1glqkx048v4d<>uid://dobtfv0udnrrn<>uid://c6x4pq3w2n7bd<>uid://dm5jii7n0mx7m<>uid://dy1ybmn83gst5<>uid://coa0emyoiw305<>uid://o77yb6hfevgv<>uid://non2r014fnf6
+prologue.dtl::Resource/DialogicTimeline::6367856162582934459::1786394192::0::1::::<><>uid://j7ym07anlusi<>0<>0<><>::uid://bcpb7txq8fbuw<>uid://b1glqkx048v4d<>uid://dobtfv0udnrrn<>uid://c6x4pq3w2n7bd<>uid://dm5jii7n0mx7m<>uid://dy1ybmn83gst5<>uid://coa0emyoiw305<>uid://o77yb6hfevgv<>uid://non2r014fnf6
 ::res://dialogic resources/text/spaghetti/::1787180571
-spaghetti.dtl::Resource/DialogicTimeline::6803278659211007975::1786396393::0::1::::<><><>0<>0<><>::uid://bpe3fmje14jkk<>uid://b5o65fxw5ohyy<>uid://cqg2hlhqhy4ts<>uid://dcfdc06684m32<>uid://q6otw7h8njo4<>uid://bw83pgkjo88hb<>uid://bwab8ahjbppn4
-spaghettiCOOKING.dtl::Resource/DialogicTimeline::4000426903336928507::1786396444::0::1::::<><><>0<>0<><>::uid://b5o65fxw5ohyy<>uid://dcfdc06684m32<>uid://rfpo8y7vshak
-spaghettiEND.dtl::Resource/DialogicTimeline::1204469758451587846::1787180571::0::1::::<><><>0<>0<><>::uid://b5o65fxw5ohyy<>uid://dcfdc06684m32
-spaghettiFUMBLE.dtl::Resource/DialogicTimeline::3930694903145934971::1784761264::0::1::::<><><>0<>0<><>::uid://b5o65fxw5ohyy<>uid://dcfdc06684m32<>uid://rfpo8y7vshak
-spaghettiKNITTING.dtl::Resource/DialogicTimeline::1187902381877408117::1784761264::0::1::::<><><>0<>0<><>::uid://b5o65fxw5ohyy<>uid://dcfdc06684m32<>uid://bu1ae6ct80pgc<>uid://bpe3fmje14jkk<>uid://rfpo8y7vshak
+spaghetti.dtl::Resource/DialogicTimeline::6803278659211007975::1786396393::0::1::::<><>uid://j7ym07anlusi<>0<>0<><>::uid://bpe3fmje14jkk<>uid://b5o65fxw5ohyy<>uid://cqg2hlhqhy4ts<>uid://dcfdc06684m32<>uid://q6otw7h8njo4<>uid://bw83pgkjo88hb<>uid://bwab8ahjbppn4
+spaghettiCOOKING.dtl::Resource/DialogicTimeline::4000426903336928507::1786396444::0::1::::<><>uid://j7ym07anlusi<>0<>0<><>::uid://b5o65fxw5ohyy<>uid://dcfdc06684m32<>uid://rfpo8y7vshak
+spaghettiEND.dtl::Resource/DialogicTimeline::1204469758451587846::1787180571::0::1::::<><>uid://j7ym07anlusi<>0<>0<><>::uid://b5o65fxw5ohyy<>uid://dcfdc06684m32
+spaghettiFUMBLE.dtl::Resource/DialogicTimeline::3930694903145934971::1784761264::0::1::::<><>uid://j7ym07anlusi<>0<>0<><>::uid://b5o65fxw5ohyy<>uid://dcfdc06684m32<>uid://rfpo8y7vshak
+spaghettiKNITTING.dtl::Resource/DialogicTimeline::1187902381877408117::1784761264::0::1::::<><>uid://j7ym07anlusi<>0<>0<><>::uid://b5o65fxw5ohyy<>uid://dcfdc06684m32<>uid://bu1ae6ct80pgc<>uid://bpe3fmje14jkk<>uid://rfpo8y7vshak
 ::res://dialogic resources/text/steak/::1787180571
-steak.dtl::Resource/DialogicTimeline::2168844092716456691::1787180571::0::1::::<><><>0<>0<><>::uid://bpe3fmje14jkk<>uid://dhb42ae0pmdoq<>uid://bdbguvcnajoh6<>uid://dcfdc06684m32<>uid://c823nufxtni81<>uid://bwf4yuxlpwbl<>uid://mephi46otp0n
-steakCOMFORT.dtl::Resource/DialogicTimeline::7146535757181060820::1786394192::0::1::::<><><>0<>0<><>::uid://dcfdc06684m32<>uid://dhb42ae0pmdoq<>uid://cpataxntdmkck
-steakEND.dtl::Resource/DialogicTimeline::5826828873806526758::1787180571::0::1::::<><><>0<>0<><>::uid://dhb42ae0pmdoq<>uid://dcfdc06684m32
-steakMOVIE.dtl::Resource/DialogicTimeline::851447356535559987::1785890195::0::1::::<><><>0<>0<><>::uid://dcfdc06684m32<>uid://dhb42ae0pmdoq<>uid://cpataxntdmkck
-steakTEACHING.dtl::Resource/DialogicTimeline::115961819731243021::1786394192::0::1::::<><><>0<>0<><>::uid://dcfdc06684m32<>uid://dhb42ae0pmdoq<>uid://cpataxntdmkck
+steak.dtl::Resource/DialogicTimeline::2168844092716456691::1787180571::0::1::::<><>uid://j7ym07anlusi<>0<>0<><>::uid://bpe3fmje14jkk<>uid://dhb42ae0pmdoq<>uid://bdbguvcnajoh6<>uid://dcfdc06684m32<>uid://c823nufxtni81<>uid://bwf4yuxlpwbl<>uid://mephi46otp0n
+steakCOMFORT.dtl::Resource/DialogicTimeline::7146535757181060820::1786394192::0::1::::<><>uid://j7ym07anlusi<>0<>0<><>::uid://dcfdc06684m32<>uid://dhb42ae0pmdoq<>uid://cpataxntdmkck
+steakEND.dtl::Resource/DialogicTimeline::5826828873806526758::1787180571::0::1::::<><>uid://j7ym07anlusi<>0<>0<><>::uid://dhb42ae0pmdoq<>uid://dcfdc06684m32
+steakMOVIE.dtl::Resource/DialogicTimeline::851447356535559987::1785890195::0::1::::<><>uid://j7ym07anlusi<>0<>0<><>::uid://dcfdc06684m32<>uid://dhb42ae0pmdoq<>uid://cpataxntdmkck
+steakTEACHING.dtl::Resource/DialogicTimeline::115961819731243021::1786394192::0::1::::<><>uid://j7ym07anlusi<>0<>0<><>::uid://dcfdc06684m32<>uid://dhb42ae0pmdoq<>uid://cpataxntdmkck
 ::res://dialogic resources/text/sushi/::1787180571
-sushi.dtl::Resource/DialogicTimeline::6989394386061306518::1786396209::0::1::::<><><>0<>0<><>::uid://bpe3fmje14jkk<>uid://bupxujn4c2lwl<>uid://b7tw23nq0dosq<>uid://dcfdc06684m32<>uid://xc8r42nqrfrj<>uid://dsw1un4nqs7dp<>uid://bjqfodpvpjyc3
-sushiCOOKING.dtl::Resource/DialogicTimeline::8469692633058893541::1786395492::0::1::::<><><>0<>0<><>::uid://dcfdc06684m32<>uid://bupxujn4c2lwl
-sushiEND.dtl::Resource/DialogicTimeline::1754905994079633326::1787180571::0::1::::<><><>0<>0<><>::uid://dcfdc06684m32<>uid://bupxujn4c2lwl
-sushiMOVIE.dtl::Resource/DialogicTimeline::1620507743940130759::1786394192::0::1::::<><><>0<>0<><>::uid://dcfdc06684m32<>uid://bupxujn4c2lwl<>uid://0adbsns17qy5
-sushiTEACHING.dtl::Resource/DialogicTimeline::3051479088295536984::1786395514::0::1::::<><><>0<>0<><>::uid://bupxujn4c2lwl
+sushi.dtl::Resource/DialogicTimeline::6989394386061306518::1786396209::0::1::::<><>uid://j7ym07anlusi<>0<>0<><>::uid://bpe3fmje14jkk<>uid://bupxujn4c2lwl<>uid://b7tw23nq0dosq<>uid://dcfdc06684m32<>uid://xc8r42nqrfrj<>uid://dsw1un4nqs7dp<>uid://bjqfodpvpjyc3
+sushiCOOKING.dtl::Resource/DialogicTimeline::8469692633058893541::1786395492::0::1::::<><>uid://j7ym07anlusi<>0<>0<><>::uid://dcfdc06684m32<>uid://bupxujn4c2lwl
+sushiEND.dtl::Resource/DialogicTimeline::1754905994079633326::1787180571::0::1::::<><>uid://j7ym07anlusi<>0<>0<><>::uid://dcfdc06684m32<>uid://bupxujn4c2lwl
+sushiMOVIE.dtl::Resource/DialogicTimeline::1620507743940130759::1786394192::0::1::::<><>uid://j7ym07anlusi<>0<>0<><>::uid://dcfdc06684m32<>uid://bupxujn4c2lwl<>uid://0adbsns17qy5
+sushiTEACHING.dtl::Resource/DialogicTimeline::3051479088295536984::1786395514::0::1::::<><>uid://j7ym07anlusi<>0<>0<><>::uid://bupxujn4c2lwl
 ::res://dialogic resources/voices/::1786394254
 Brockvoice.wav::AudioStreamWAV::4815025437696384261::1781144417::1781144474::1::::<><><>0<>0<>205619a8a2be260b738131327ad32bce<>res://.godot/imported/Brockvoice.wav-797987b4b72a52bb468bf360af5c6529.sample::
 Raspusia.wav::AudioStreamWAV::6930149588254433013::1786394192::1786394254::1::::<><><>0<>0<>21c9b903d0ca6c0f3af3582c3a3431da<>res://.godot/imported/Raspusia.wav-e382653a4f7f072c25ea8b36d713cf2f.sample::
 Spaghetti.wav::AudioStreamWAV::1294616055379473185::1786394192::1786394254::1::::<><><>0<>0<>d58b3da8a7380cdd6761c18d22a02e90<>res://.godot/imported/Spaghetti.wav-b1ae8563000858ab38f1f65cb36f8e13.sample::
 Steak.wav::AudioStreamWAV::3331649294887829360::1786394192::1786394254::1::::<><><>0<>0<>f8bea7011206d9edc4421351c9cd89c9<>res://.godot/imported/Steak.wav-4d1fd7960c29929943c0b3097114ea5a.sample::
 Sushi.wav::AudioStreamWAV::6252133172767042242::1786394192::1786394254::1::::<><><>0<>0<>4c4bb65dbf39499c622b36eb8dc6a19f<>res://.godot/imported/Sushi.wav-570782514f259cddb57d5227983dae1c.sample::
-::res://scenes/::1786396918
+::res://scenes/::1787181421
 cuttingminigame.tscn::PackedScene::3307057463110420734::1781060369::0::1::::<><><>0<>0<><>::uid://csoopr6remkq0::::res://sprites/ROGscale.png<>uid://bkqnu1duix6v3::::res://scripts/pointer.gd<>uid://byrw2n614m0y0::::res://sprites/pointerdark.png
 dinner_date.tscn::PackedScene::1867401658436221151::1781060369::0::1::::<><><>0<>0<><>::uid://dlnbnd614nujb::::res://scripts/dinner_date.gd
-end.tscn::PackedScene::1805930618533131972::1784761264::0::1::::<><><>0<>0<><>::
+end.tscn::PackedScene::1805930618533131972::1787181387::0::1::::<><><>0<>0<><>::uid://b88oe13tmibr0::::res://scripts/canvas_layer.gd
 kitchen.tscn::PackedScene::8566591953977945819::1786396918::0::1::::<><><>0<>0<><>::uid://dnlejcbbq8cyu::::res://scripts/kitchen.gd
 kitchen_2.tscn::PackedScene::1219301469660360464::1784761264::0::1::::<><><>0<>0<><>::uid://8kftwuaaioxo::::res://scripts/kitchen_2.gd
 kitchen_3.tscn::PackedScene::8318238455836646223::1784761264::0::1::::<><><>0<>0<><>::uid://c2rshst8syd62::::res://scripts/kitchen_3.gd
+New_File.tres::Resource/DialogicStyle::-1::1787181421::0::1::::<><><>0<>0<><>::
 shieldminigame.tscn::PackedScene::7574375768247088829::1781060369::0::1::::<><><>0<>0<><>::uid://bobfl1oa2oivp::::res://sprites/wokshield.png<>uid://b88y7aop7p04n::::res://scripts/shield.gd
-Starting screen.tscn::PackedScene::4581755766123240684::1786394192::0::1::::<><><>0<>0<><>::uid://bnixr75ssbgly::::res://scripts/starting_screen.gd
+Starting screen.tscn::PackedScene::4581755766123240684::1787181421::0::1::::<><><>0<>0<><>::uid://bnixr75ssbgly::::res://scripts/starting_screen.gd
 talking.tscn::PackedScene::947278122361642616::1781144417::0::1::::<><><>0<>0<><>::uid://bd5bfieqtefa7::::res://scripts/talking.gd
-::res://scripts/::1785808951
+::res://scenes/DefaultLayoutBase/::1787181421
+custom_default_layout_base.tscn::PackedScene::3230900217802222128::1787181421::0::1::::<><><>0<>0<><>::uid://yivwmkfwrvfr::::res://addons/dialogic/Modules/DefaultLayoutParts/Base_Default/default_layout_base.gd
+default_layout_base.gd::GDScript::5612785259259578711::1787181421::0::1::::<>DialogicLayoutBase<><>0<>1<><>::
+::res://scripts/::1787181069
 dinner_date.gd::GDScript::7958260380893563067::1781144417::0::1::::<>Node2D<><>0<>0<><>::
 kitchen.gd::GDScript::8094684220444213300::1785808951::0::1::::<>Control<><>0<>0<><>::
 kitchen_2.gd::GDScript::2337214319053814676::1784761264::0::1::::<>Control<><>0<>0<><>::
 kitchen_3.gd::GDScript::6704140950155180677::1784761264::0::1::::<>Control<><>0<>0<><>::
 pointer.gd::GDScript::3122165572084299994::1781060369::0::1::::<>Area2D<><>0<>0<><>::
+canvas_layer.gd::GDScript::4771635580447745087::1787181069::0::1::::<>CanvasLayer<><>0<>0<><>::
 shield.gd::GDScript::4772291365215669539::1781060369::0::1::::<>StaticBody2D<><>0<>0<><>::
 sprite_2d.gd::GDScript::7408073323213730386::1781060369::0::1::::<>Sprite2D<><>0<>0<><>::
 starting_screen.gd::GDScript::3316819250283287566::1781060369::0::1::::<>Control<><>0<>0<><>::
 talking.gd::GDScript::2658988620309821444::1781144417::0::1::::<>Node2D<><>0<>0<><>::
 wok_sprite.gd::GDScript::2660843366106391323::1781060369::0::1::::<>Sprite2D<><>0<>0<><>::
-::res://Soundtracks/::1786394253
+::res://Soundtracks/::1787181421
 Brock_song.mp3::AudioStreamMP3::6338107847961680212::1786394192::1786394253::1::::<><><>0<>0<>275aa057e85696f0fae1396140c0df5e<>res://.godot/imported/Brock_song.mp3-a82612eea176ac8d524615971a072dea.mp3str::
 Intro_dinnerdate_soundtrack.mp3::AudioStreamMP3::2557882933923204154::1786394192::1786394253::1::::<><><>0<>0<>b34952a797de397ae6d9509dcfeb9e16<>res://.godot/imported/Intro_dinnerdate_soundtrack.mp3-638958de1c6cf14df7929be2197b3ec3.mp3str::
-Linkin_Park_-_Somewhere_I_Belong_-_Somewhere_I_belong_(mp3.pm).mp3::AudioStreamMP3::902292661747009670::1786394192::1786394253::1::::<><><>0<>0<>95173a8eed78271fad59a80333867e77<>res://.godot/imported/Linkin_Park_-_Somewhere_I_Belong_-_Somewhere_I_belong_(mp3.pm).mp3-d89f79f09f3d6848f952f99b967e2080.mp3str::
+matthewvakaliuk73627-mouse-click-290204.mp3::AudioStreamMP3::8967264952388079331::1787181421::1787181644::1::::<><><>0<>0<>0fc5c55b14be476996c13756c761f55c<>res://.godot/imported/matthewvakaliuk73627-mouse-click-290204.mp3-e09bab4961f01670f7415cc9ecdaabd5.mp3str::
 Sir_Loin_song.mp3::AudioStreamMP3::2599452716866947245::1786394192::1786394253::1::::<><><>0<>0<>79f1cbaaaa894a8bc8d67a94f77aa3b1<>res://.godot/imported/Sir_Loin_song.mp3-5833811b73c95807f09481fd280b91ab.mp3str::
 Spagettie_song.mp3::AudioStreamMP3::5909901580788888828::1786394192::1786394253::1::::<><><>0<>0<>65fc51bf96004b01b48fd25224c86c7b<>res://.godot/imported/Spagettie_song.mp3-065aa4d0631bedf9d4dff2a9d0453782.mp3str::
 Sushi_song.mp3::AudioStreamMP3::4673072339210338836::1786394192::1786394253::1::::<><><>0<>0<>6e6e53eee56da182b8c0c4243e828e0e<>res://.godot/imported/Sushi_song.mp3-30f704af065e2fc1bf4947c4ea4433a5.mp3str::

@@ -42,8 +42,8 @@ directories/dtl_directory={
 "buffalowingsFUNNYR": "res://dialogic resources/text/buffalowings/buffalowingsFUNNYR.dtl",
 "buffalowingsSMARTR": "res://dialogic resources/text/buffalowings/buffalowingsSMARTR.dtl",
 "buffalowingsSTRONGR": "res://dialogic resources/text/buffalowings/buffalowingsSTRONGR.dtl",
-"cakeBORING": "res://dialogic resources/text/chocolatecake/cakeBORING.dtl",
-"cakeDATE": "res://dialogic resources/text/chocolatecake/cakeDATE.dtl",
+"cakeDATER": "res://dialogic resources/text/chocolatecake/cakeDATER.dtl",
+"cakeENDR": "res://dialogic resources/text/chocolatecake/cakeENDR.dtl",
 "cakeGAMING": "res://dialogic resources/text/chocolatecake/cakeGAMING.dtl",
 "cakeLORE": "res://dialogic resources/text/chocolatecake/cakeLORE.dtl",
 "chocolatecake": "res://dialogic resources/text/chocolatecake/chocolatecake.dtl",
@@ -65,7 +65,10 @@ directories/dtl_directory={
 "sushiMOVIE": "res://dialogic resources/text/sushi/sushiMOVIE.dtl",
 "sushiTEACHING": "res://dialogic resources/text/sushi/sushiTEACHING.dtl"
 }
-layout/style_directory={}
+layout/style_directory={
+"": "res://scenes/New_File.tres",
+"New_File": "res://scenes/New_File.tres"
+}
 glossary/default_case_sensitive=true
 text/letter_speed=0.01
 text/initial_text_reveal_skippable=true
@@ -118,6 +121,8 @@ audio/channel_defaults={
 }
 }
 variables={
+"Bum": "",
+"CakeRoute": "",
 "ChefGender": "",
 "ChefGenderHe": "",
 "ChefGenderHeCap": "",
@@ -142,8 +147,8 @@ variables={
 "WingsMood": "",
 "WingsTrait": ""
 }
-layout/style_list=["res://styles/VN.tres"]
-layout/default_style="res://styles/VN.tres"
+layout/style_list=["res://scenes/New_File.tres"]
+layout/default_style="res://scenes/New_File.tres"
 text/input_action="TextInteract"
 translation/enabled=false
 translation/original_locale="en"
