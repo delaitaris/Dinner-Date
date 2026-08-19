@@ -1,6 +1,5 @@
-res://scenes/Starting screen.tscn
-res://scripts/dinner_date.gd
-res://dialogic resources/text/prologue/prologue.dtl
-res://Something style.tres
 res://scenes/New_File.tres
-res://scenes/DefaultLayoutBase/custom_default_layout_base.tscn
+res://scenes/Starting screen.tscn
+res://dialogic resources/characters/steak.dch
+res://dialogic resources/text/steak/steak.dtl
+res://scenes/kitchen_2.tscn
