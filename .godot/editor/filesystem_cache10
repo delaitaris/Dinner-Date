@@ -1,5 +1,5 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1787003279
+::res://::1787104348
 export_presets.cfg::TextFile::-1::1787002941::0::1::::<><><>0<>0<><>::
 icon.svg::CompressedTexture2D::3843880153456758082::1787002941::1787002941::1::::<><><>0<>0<>1bf8324b66b59551b29c4abc63bb2c4e<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 index.apple-touch-icon.png::CompressedTexture2D::7179943832297673318::1787002941::1787003070::1::::<><><>0<>0<>d1950d25534208923fe3db88fe90ae51<>res://.godot/imported/index.apple-touch-icon.png-8085a11cc297d91deb55511843765958.ctex::
@@ -574,12 +574,12 @@ event_text.gd::GDScript::7199229198122971661::1787002941::0::1::::DialogicTextEv
 icon.svg::CompressedTexture2D::9151163472776694991::1787002941::1787002941::1::::<><><>0<>0<>0fe1b3b3cf3733ead1d66ddc5726114c<>res://.godot/imported/icon.svg-e2501ddcdef01c7f2c3538940f5abfc1.ctex::
 index.gd::GDScript::3735692247776249690::1787002941::0::1::::<>DialogicIndexer<><>0<>1<><>::
 manual_advance.gd::GDScript::7278833021501408885::1787002941::0::1::::DialogicManualAdvance<>RefCounted<><>0<>0<><>::
-node_dialog_text.gd::GDScript::8367256849905527338::1787002941::0::1::::DialogicNode_DialogText<>RichTextLabel<><>0<>1<><>::
+node_dialog_text.gd::GDScript::8367256849905527338::1787002941::0::1::::DialogicNode_DialogText<>RichTextLabel<>res://addons/dialogic/Modules/Text/node_dialog_text_icon.svg<>0<>1<><>::
 node_dialog_text_icon.svg::CompressedTexture2D::4044689466443943908::1787002941::1787002941::1::::<><><>0<>0<>0854d1eb256c2d7e9186a18e71c67bd8<>res://.godot/imported/node_dialog_text_icon.svg-3cf845e99d76137d8156865c09f39e3e.ctex::
 node_input.gd::GDScript::6135746528022206122::1787002941::0::1::::DialogicNode_Input<>Control<><>0<>0<><>::
-node_name_label.gd::GDScript::2409060177523604634::1787002941::0::1::::DialogicNode_NameLabel<>Label<><>0<>0<><>::
+node_name_label.gd::GDScript::2409060177523604634::1787002941::0::1::::DialogicNode_NameLabel<>Label<>res://addons/dialogic/Modules/Text/node_name_label_icon.svg<>0<>0<><>::
 node_name_label_icon.svg::CompressedTexture2D::753910208124862534::1787002941::1787002941::1::::<><><>0<>0<>a4c8bf4be7c45d309f0f460f60daff16<>res://.godot/imported/node_name_label_icon.svg-d482939b74b41ec2da6edc97e41c8bf8.ctex::
-node_next_indicator.gd::GDScript::8643102605516753138::1787002941::0::1::::DialogicNode_NextIndicator<>Control<><>0<>0<><>::
+node_next_indicator.gd::GDScript::8643102605516753138::1787002941::0::1::::DialogicNode_NextIndicator<>Control<>res://addons/dialogic/Modules/Text/node_next_indicator_icon.svg<>0<>0<><>::
 node_next_indicator_icon.svg::CompressedTexture2D::302873534409359568::1787002941::1787002941::1::::<><><>0<>0<>b19c8f494620393de69e28f29117e8d0<>res://.godot/imported/node_next_indicator_icon.svg-06167a3b3e290941c1c34386ebd60af8.ctex::
 node_type_sound.gd::GDScript::8257091630640999901::1787002941::0::1::::DialogicNode_TypeSounds<>AudioStreamPlayer<><>0<>1<><>::
 settings_text.gd::GDScript::5031029662621467051::1787002941::0::1::::<>DialogicSettingsPage<><>0<>1<><>::
@@ -622,7 +622,7 @@ event_wait_input.gd::GDScript::2473881298755643258::1787002941::0::1::::Dialogic
 icon.svg::CompressedTexture2D::2766149336681406939::1787002941::1787002941::1::::<><><>0<>0<>35002bf1f4e75410313770867b7720c7<>res://.godot/imported/icon.svg-cb8e50b081a310c64183b12c6d12fcf2.ctex::
 index.gd::GDScript::971839668851566764::1787002941::0::1::::<>DialogicIndexer<><>0<>1<><>::
 ::res://addons/dialogic/Resources/::1787002941
-character.gd::GDScript::8170509915016804394::1787002941::0::1::::DialogicCharacter<>Resource<><>0<>1<><>::
+character.gd::GDScript::8170509915016804394::1787002941::0::1::::DialogicCharacter<>Resource<>uid://bbea0efx0ybu7<>0<>1<><>::
 CharacterResourceLoader.gd::GDScript::3230683283296700613::1787002941::0::1::::DialogicCharacterFormatLoader<>ResourceFormatLoader<><>0<>1<><>::
 CharacterResourceSaver.gd::GDScript::11330996335859447::1787002941::0::1::::DialogicCharacterFormatSaver<>ResourceFormatSaver<><>0<>1<><>::
 dialogic_identifiable_resource.gd::GDScript::7504157656011423462::1787002941::0::1::::<>Resource<><>0<>1<><>::
@@ -631,7 +631,7 @@ dialogic_layout_layer.gd::GDScript::7097085608305494937::1787002941::0::1::::Dia
 dialogic_style.gd::GDScript::8686860375682204498::1787002941::0::1::::DialogicStyle<>Resource<><>0<>1<><>::
 dialogic_style_layer.gd::GDScript::3944887282532454131::1787002941::0::1::::DialogicStyleLayer<>Resource<><>0<>1<><>::
 event.gd::GDScript::8763588563558386910::1787002941::0::1::::DialogicEvent<>Resource<><>0<>1<><>::
-timeline.gd::GDScript::5667425671830628919::1787002941::0::1::::DialogicTimeline<>Resource<><>0<>1<><>::
+timeline.gd::GDScript::5667425671830628919::1787002941::0::1::::DialogicTimeline<>Resource<>uid://j7ym07anlusi<>0<>1<><>::
 TimelineResourceLoader.gd::GDScript::1953327801557244659::1787002941::0::1::::DialogicTimelineFormatLoader<>ResourceFormatLoader<><>0<>1<><>::
 TimelineResourceSaver.gd::GDScript::6005903703142383367::1787002941::0::1::::DialogicTimelineFormatSaver<>ResourceFormatSaver<><>0<>1<><>::
 ::res://addons/dialogic_additions/::1787002941
@@ -660,7 +660,7 @@ steak.dch::Resource/DialogicCharacter::7654457350860873192::1787002958::0::1::::
 steakloin.dch::Resource/DialogicCharacter::112960427272491028::1787002941::0::1::::<><>uid://bbea0efx0ybu7<>0<>0<><>::res://icon.svg
 sushi.dch::Resource/DialogicCharacter::3822595923590355323::1787002941::0::1::::<><>uid://bbea0efx0ybu7<>0<>0<><>::res://sprites/shizukatanaka.png
 System.dch::Resource/DialogicCharacter::1976366751055874386::1787002941::0::1::::<><>uid://bbea0efx0ybu7<>0<>0<><>::
-::res://dialogic resources/text/::1787003279
+::res://dialogic resources/text/::1787003297
 ::res://dialogic resources/text/bananasplit/::1787002941
 bananasplit.dtl::Resource/DialogicTimeline::1655690197356828435::1787002941::0::1::::<><>uid://j7ym07anlusi<>0<>0<><>::uid://bpe3fmje14jkk<>uid://2jk0bbf37x05
 ::res://dialogic resources/text/buffalowings/::1787002958
@@ -669,12 +669,12 @@ buffalowingsENDR.dtl::Resource/DialogicTimeline::6071193451259371698::1787002958
 buffalowingsFUNNYR.dtl::Resource/DialogicTimeline::4384092828146850858::1787002941::0::1::::<><>uid://j7ym07anlusi<>0<>0<><>::uid://ditt6xmimoa50<>uid://dcfdc06684m32<>uid://csq6w0rqhfnxy
 buffalowingsSMARTR.dtl::Resource/DialogicTimeline::3725196258177612390::1787002941::0::1::::<><>uid://j7ym07anlusi<>0<>0<><>::uid://ditt6xmimoa50<>uid://dcfdc06684m32<>uid://csq6w0rqhfnxy
 buffalowingsSTRONGR.dtl::Resource/DialogicTimeline::4425713069746687722::1787002941::0::1::::<><>uid://j7ym07anlusi<>0<>0<><>::uid://ditt6xmimoa50<>uid://dcfdc06684m32<>uid://cdkd05su4l7yk<>uid://csq6w0rqhfnxy
-::res://dialogic resources/text/chocolatecake/::1787003242
+::res://dialogic resources/text/chocolatecake/::1787005013
+cakeDATER.dtl::Resource/DialogicTimeline::2820729673201206611::1787005013::0::1::::<><><>0<>0<><>::uid://bu2d1rbsko6ce<>uid://dcfdc06684m32<>uid://bkp5tccw23701
 cakeENDR.dtl::Resource/DialogicTimeline::5742597148884256448::1787002958::0::1::::<><>uid://j7ym07anlusi<>0<>0<><>::uid://dcfdc06684m32<>uid://bu2d1rbsko6ce
-cakeGAMING.dtl::Resource/DialogicTimeline::1396029780543304493::1787002958::0::1::::<><>uid://j7ym07anlusi<>0<>0<><>::uid://bu2d1rbsko6ce<>uid://dcfdc06684m32<>uid://cn200a4ik18po
+cakeGAMING.dtl::Resource/DialogicTimeline::1396029780543304493::1787002958::0::1::::<><><>0<>0<><>::uid://bu2d1rbsko6ce<>uid://dcfdc06684m32<>uid://cn200a4ik18po
 cakeLORE.dtl::Resource/DialogicTimeline::3121130335424616380::1787002958::0::1::::<><>uid://j7ym07anlusi<>0<>0<><>::
 chocolatecake.dtl::Resource/DialogicTimeline::4169715238795083339::1787002958::0::1::::<><>uid://j7ym07anlusi<>0<>0<><>::uid://bpe3fmje14jkk<>uid://bu2d1rbsko6ce<>uid://dcfdc06684m32<>uid://cb21l7an1pecw<>uid://bkp5tccw23701<>uid://t5in268m5wf2
-cakeDATER.dtl::Resource/DialogicTimeline::2820729673201206611::1787003269::0::1::::<><>uid://j7ym07anlusi<>0<>0<><>::
 ::res://dialogic resources/text/end/::1787002941
 end.dtl::Resource/DialogicTimeline::223589942084055246::1787002941::0::1::::<><>uid://j7ym07anlusi<>0<>0<><>::uid://bpe3fmje14jkk<>uid://ditt6xmimoa50<>uid://b5o65fxw5ohyy
 ::res://dialogic resources/text/prologue/::1787002958
@@ -703,14 +703,14 @@ Raspusia.wav::AudioStreamWAV::6930149588254433013::1787002941::1787003073::1::::
 Spaghetti.wav::AudioStreamWAV::1294616055379473185::1787002941::1787003073::1::::<><><>0<>0<>d58b3da8a7380cdd6761c18d22a02e90<>res://.godot/imported/Spaghetti.wav-b1ae8563000858ab38f1f65cb36f8e13.sample::
 Steak.wav::AudioStreamWAV::3331649294887829360::1787002941::1787003073::1::::<><><>0<>0<>f8bea7011206d9edc4421351c9cd89c9<>res://.godot/imported/Steak.wav-4d1fd7960c29929943c0b3097114ea5a.sample::
 Sushi.wav::AudioStreamWAV::6252133172767042242::1787002941::1787003073::1::::<><><>0<>0<>4c4bb65dbf39499c622b36eb8dc6a19f<>res://.godot/imported/Sushi.wav-570782514f259cddb57d5227983dae1c.sample::
-::res://scenes/::1787002958
+::res://scenes/::1787005013
 cuttingminigame.tscn::PackedScene::3307057463110420734::1787002941::0::1::::<><><>0<>0<><>::uid://csoopr6remkq0::::res://sprites/ROGscale.png<>uid://bkqnu1duix6v3::::res://scripts/pointer.gd<>uid://byrw2n614m0y0::::res://sprites/pointerdark.png
 dinner_date.tscn::PackedScene::1867401658436221151::1787002941::0::1::::<><><>0<>0<><>::uid://dlnbnd614nujb::::res://scripts/dinner_date.gd
 end.tscn::PackedScene::1805930618533131972::1787002941::0::1::::<><><>0<>0<><>::
 kitchen.tscn::PackedScene::8566591953977945819::1787002941::0::1::::<><><>0<>0<><>::uid://dnlejcbbq8cyu::::res://scripts/kitchen.gd
 kitchen_2.tscn::PackedScene::1219301469660360464::1787002941::0::1::::<><><>0<>0<><>::uid://8kftwuaaioxo::::res://scripts/kitchen_2.gd
-kitchen_3.tscn::PackedScene::8318238455836646223::1787002941::0::1::::<><><>0<>0<><>::uid://c2rshst8syd62::::res://scripts/kitchen_3.gd
-New_File.tres::Resource/DialogicStyle::2582765652096979826::1787002958::0::1::::<><><>0<>0<><>::uid://bmbcppprhmrb1::::res://scenes/DefaultLayoutBase/custom_default_layout_base.tscn<>uid://bwg6yncmh2cml::::res://addons/dialogic/Resources/dialogic_style_layer.gd<>uid://c1k5m0w3r40xf::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_FullBackground/full_background_layer.tscn<>uid://cy1y14inwkplb::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Portraits/vn_portrait_layer.tscn<>uid://cn674foxwedqu::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_Input/full_advance_input_layer.tscn<>uid://bquja8jyk8kbr::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Textbox/vn_textbox_layer.tscn<>uid://dsbwnp5hegnu3::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_Glossary/glossary_popup_layer.tscn<>uid://dhk6j6eb6e3q::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Choices/vn_choice_layer.tscn<>uid://cvgf4c6gg0tsy::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_TextInput/text_input_layer.tscn<>uid://lx24i8fl6uo::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_History/history_layer.tscn<>uid://dv08k6ljua6fm::::res://addons/dialogic/Resources/dialogic_style.gd
+kitchen_3.tscn::PackedScene::8318238455836646223::1787005013::0::1::::<><><>0<>0<><>::uid://c2rshst8syd62::::res://scripts/kitchen_3.gd
+New_File.tres::Resource/DialogicStyle::2582765652096979826::1787004386::0::1::::<><><>0<>0<><>::uid://bmbcppprhmrb1::::res://scenes/DefaultLayoutBase/custom_default_layout_base.tscn<>uid://bwg6yncmh2cml::::res://addons/dialogic/Resources/dialogic_style_layer.gd<>uid://c1k5m0w3r40xf::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_FullBackground/full_background_layer.tscn<>uid://cy1y14inwkplb::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Portraits/vn_portrait_layer.tscn<>uid://cn674foxwedqu::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_Input/full_advance_input_layer.tscn<>uid://bquja8jyk8kbr::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Textbox/vn_textbox_layer.tscn<>uid://dsbwnp5hegnu3::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_Glossary/glossary_popup_layer.tscn<>uid://dhk6j6eb6e3q::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Choices/vn_choice_layer.tscn<>uid://cvgf4c6gg0tsy::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_TextInput/text_input_layer.tscn<>uid://lx24i8fl6uo::::res://addons/dialogic/Modules/DefaultLayoutParts/Layer_History/history_layer.tscn<>uid://dv08k6ljua6fm::::res://addons/dialogic/Resources/dialogic_style.gd
 shieldminigame.tscn::PackedScene::7574375768247088829::1787002941::0::1::::<><><>0<>0<><>::uid://bobfl1oa2oivp::::res://sprites/wokshield.png<>uid://b88y7aop7p04n::::res://scripts/shield.gd
 Starting screen.tscn::PackedScene::4581755766123240684::1787002941::0::1::::<><><>0<>0<><>::uid://bnixr75ssbgly::::res://scripts/starting_screen.gd<>uid://d002sqo6buef0::::res://Soundtracks/matthewvakaliuk73627-mouse-click-290204.mp3
 talking.tscn::PackedScene::947278122361642616::1787002941::0::1::::<><><>0<>0<><>::uid://bd5bfieqtefa7::::res://scripts/talking.gd
