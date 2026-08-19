@@ -1,6 +1,2 @@
-res://dialogic resources/text/chocolatecake/cakeGAMING.dtl
-res://dialogic resources/text/buffalowings/buffalowingsENDR.dtl
-res://dialogic resources/text/steak/steakEND.dtl
-res://dialogic resources/text/sushi/sushiEND.dtl
-res://dialogic resources/text/spaghetti/spaghettiEND.dtl
-res://scenes/dinner_date.tscn
+res://scenes/end.tscn
+res://scripts/canvas_layer.gd
