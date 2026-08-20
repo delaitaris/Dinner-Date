@@ -1,5 +1,4 @@
+res://dialogic resources/text/buffalowings/buffalowingsENDR.dtl
 res://scenes/end.tscn
 res://scenes/New_File.tres
-res://scripts/canvas_layer.gd
-res://scripts/dinner_date.gd
-res://dialogic resources/text/chocolatecake/cakeENDR.dtl
+res://scripts/kitchen_3.gd
