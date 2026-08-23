@@ -19,7 +19,7 @@ if {Entreevar} == "Brock":
 else:
 	chocolatecake: Yeah. Now might be a good time to tell you that I... kinda heard your conversations with Shizuka and the others.
 character: And that means?
-chocolatecake: Well... I know a bit about you. 
+chocolatecake: Well... I know a bit about you.
 character: Uh...
 chocolatecake: You're kind, but a bit snarky. You're great at cooking, too.
 character: I...
@@ -37,4 +37,24 @@ character: [i] Nevermind.
 character: Hey, I don't say anything I don't mean.
 chocolatecake: Damn... You're good at this.
 character: [i] And I'm cooking.
-character: Oh, why thank you. You're good at...
+character: Oh, why thank you. You're good at... looking good.
+character: [i] And it's burnt.
+chocolatecake: I...
+She inches a little bit closer.
+character: You good? Stunned by my linguistics?
+She inches a little bit closer...[wave amp=50 freq=2] again.
+character: ...Hello?
+She leans in.
+[wait time="1.0"]
+Yeah, they kiss. What? There's dating in your dating game. 
+[wait time="1.0"]
+character: ...
+chocolatecake: ...
+character: Tastes like chocolate.
+chocolatecake: ...
+character: ...Did my sarcasm not quell this strangely romantic moment? Must I try again?
+chocolatecake: No! No, just... I'm savoring it. Timer's running out, so...
+character: Ah. That's... that's on me.
+chocolatecake: Yeah.
+character: ...
+chocolatecake: ...

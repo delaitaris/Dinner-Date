@@ -1,5 +1,5 @@
 character: Whatever... Man, that was fun.
-chocolatecake: Yeah! You were honestly great to be around. Super interesting.
+chocolatecake: I- Yeah! You were honestly great to be around. Super interesting.
 if {CakeRoute} == "Date":
 	character: Hey, buddy! We just smooched, I think that's a bit more than 'interesting'.
 elif {Bum} == "True" and {CakeRoute} == "Date":
@@ -10,12 +10,8 @@ else:
 	character: Hey! You just caved my skull in with Scorpio and Princess Mosalina. That was more than interesting.
 chocolatecake: Sure, sure. So... I only really have a minute or two left.
 character: Yeah...
-if {CakeRoute} == "Lore":
-	chocolatecake: Listen, remember what I told you. If you want to bring us back, just make the dish again and think about us.
-	character: Yeah. I've got it.
-else:
-	chocolatecake: Look, I don't really have much time, but you have to know this. If you make our dishes again and think about us, we'll come back into existence again.
-	character: I... Okay. I'm over being confused. I've got it.
+chocolatecake: Look, I don't really have much time, but you have to know this. If you make our dishes again and think about us, we'll come back into existence again.
+character: I... Okay. I'm over being confused. I've got it.
 chocolatecake: Cool...
 character: ...
 chocolatecake: ...
