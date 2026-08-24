@@ -22,7 +22,7 @@ func fade_to_black(duration := 1.5):
 	credits_tween.tween_property(credits_label, "modulate:a", 1.0, 2.0)
 	await credits_tween.finished
 
-	await get_tree().create_timer(10.0).timeout
+	await get_tree().create_timer(20.0).timeout
 
 func fade_from_black(duration := 1.5):
 	var tween = create_tween()
