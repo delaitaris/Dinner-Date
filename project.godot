@@ -126,6 +126,7 @@ audio/channel_defaults={
 }
 }
 variables={
+"BananaLore": "",
 "Bum": "",
 "CakeRoute": "",
 "ChefGender": "",

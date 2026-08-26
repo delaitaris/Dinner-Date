@@ -21,7 +21,7 @@ bananasplit: No-! You gotta say the whole thing!
 character: Can I not just say Richard for short?
 bananasplit: No!
 character: ...Okay. So, Richard Split. Happy now?
-bananasplit: Very. 
+bananasplit: Very.
 character: Okay. Who are you?
 bananasplit: Are you deaf!? I'm a huge player and womanizer! My glamour is so amazing, it can kill people! Death by Glamour!
 character: ...Alright.
@@ -31,7 +31,7 @@ character: Why?
 bananasplit: Censorship.
 character: Of course.
 bananasplit: But! I will settle for getting inside that head of yours, hottie.
-- You're pushing it. 
+- You're pushing it.
 	character: Okay, man. You're pushing it.
 	bananasplit: Pushing it? That's just my glamour working on its own.
 	jump bananasplit/date route bypass
@@ -48,10 +48,10 @@ character: So you're not a womanizer. You're a human-nizer.
 bananasplit: Oh, definitely. I don't discriminate.
 character: And allow me to guess, you haven't talked to anyone before me?
 bananasplit: Who do you think I am!? Of course I have!
-character: I- Wait, seriously? 
+character: I- Wait, seriously?
 bananasplit: Yes!?
 character: Huh. I figured you wouldn't given the other people hadn't.
-bananasplit: Y'know, I could explain the reasoning behind that. 
+bananasplit: Y'know, I could explain the reasoning behind that.
 character: Behind what?
 bananasplit: Magic. Mana. The reason we exist. All of it.
 character: [i] Who the hell is the writer? Honestly, sounds weirdly familiar.
@@ -63,9 +63,18 @@ character: ...
 - ...Fine.
 	character: I'm doing this because I'm curious. You better not leave out ANY details, 'kay?
 	bananasplit: Of course! Who would I be if not truthful?
+	set {BananaLore} = "Take Home"
 	jump bananasplitLORER/
 - You disgust me.
-	character: ...You disgust me. Not in a million years. 
+	character: ...You disgust me. Not in a million years.
 bananasplit: Wow! I'm wounded. I can see that my glamour isn't working, so don't worry, I won't let it all out on you.
 character: ...What the hell does that mean?
 bananasplit: I- Hey! That's not what I meant! I can... see how it'd be interpreted that way.
+character: Listen, man, do you even want to talk?
+bananasplit: I'm trying!
+character: Then try harder.
+bananasplit: Alright! You wanted to know who I am, right? Let me talk about myself.
+character: How arrogant.
+bananasplit: Hey!
+character: Yeah, whatever.
+jump bananasplitBACKSTORYR/
