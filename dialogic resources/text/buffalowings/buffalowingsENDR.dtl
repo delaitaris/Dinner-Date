@@ -20,9 +20,11 @@ character: …I don’t care at this point.
 buffalowings: So-
 leave buffalowings [animation="Fade Out Down" length="3.5" wait="true"]
 [signal arg="entreedone"]
+
 System: [wave amp=30 freq=1] Do you want to keep talking to this food at the end?
 - Keep
 	set {EntreeKeep} = "Brock"
 - Discard
 audio music "res://dialogic resources/voices/Brockvoice.wav" [bus="" loop="false"]
+
 [end_timeline]

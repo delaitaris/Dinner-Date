@@ -13,14 +13,4 @@ leave sushi [animation="Fade Out Up" length="2.0"]
 character: ...
 character: …Damn. That sucks.
 [wait time="1.0"]
-System: [wave amp=50 freq=2] This next choice will determine whether you want to continue this conversation later or not.
-label takemeback
-- I wish to continue the conversation later
-	System: Are you sure?
-	- Yes
-		set {EntreeKeep} = "sushi"
-	- Take me back.
-		[wait time="0.3"]
-		jump takemeback
-- I wish to not continue the conversation later
 [end_timeline]

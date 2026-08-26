@@ -18,6 +18,7 @@ config/icon="res://icon.svg"
 [autoload]
 
 Dialogic="*uid://ds2q0uclmolvu"
+Transition="*uid://0y2ob60m8qoa"
 
 [dialogic]
 

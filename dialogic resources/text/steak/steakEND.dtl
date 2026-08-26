@@ -24,14 +24,4 @@ steak: Yep!
 character: Sick. Okay, well… I guess I’ll see you later then, partner.
 steak: Catch you ‘round, partner!
 leave steak [animation="Fade Out" length="2.0" wait="true"]
-System: [wave amp=50 freq=2] This next choice will determine whether you want to continue this conversation later or not.
-label takemeback
-- I wish to continue the conversation later
-	System: Are you sure?
-	- Yes
-		set {MaincourseKeep} = "Steak"
-	- Take me back
-		[wait time="0.3"]
-		jump takemeback
-- I wish not to continue the conversation later
 [end_timeline]
