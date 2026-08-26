@@ -1,0 +1,24 @@
+bananasplit: So... You know who Einstein is, correct?
+character: ...Yeah, obviously.
+bananasplit: And you know what his theory around spacetime is, right?
+- Skip basic explanation
+	character: Yeah, I do. What about it?
+	bananasplit: Awesome, that'll make this so much easier.
+	jump lore skip
+- Hear basic explanation
+	character: Uh...
+	bananasplit: God, you're hot when you're dumb.
+	character: Woah, buddy! Keep it in your mankini!
+	bananasplit: Okay, regardless... So, it's a model around his theory of relativity. It's a four-dimensional... thing, consisting of width, length, and height, aswell as time.
+	character: Time?
+	bananasplit: Yeah, time. 
+	character: And that means...?
+	bananasplit: That means that even if something is entirely still, in a model of spacetime, it will be in a different position as to where it was before. That's because it's further ahead in time.
+	character: ...Okay?
+	bananasplit: Got it?
+	character: I think. A little.
+	bananasplit: Great! So, you're not only hot, but you also learn quickly too.
+	character: Okay.
+label lore skip
+character: What does this have to do with magic?
+bananasplit: Hold your horses! So... you know how gravity works.
