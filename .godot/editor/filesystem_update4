@@ -1,3 +1,19 @@
+res://dialogic resources/characters/bananasplit.dch
+res://dialogic resources/characters/buffalowings.dch
+res://dialogic resources/characters/character.dch
+res://dialogic resources/characters/chocolatecake.dch
+res://dialogic resources/characters/spaghetti.dch
+res://dialogic resources/characters/steak.dch
+res://dialogic resources/characters/steakloin.dch
+res://dialogic resources/characters/sushi.dch
+res://dialogic resources/text/bananasplit/bananasplit.dtl
+res://bananasplitDATER.dtl
+res://bananasplitLORER.dtl
+res://bananasplitBACKSTORYR.dtl
+res://bananasplitENDR.dtl
+res://dialogic resources/text/bananasplit/bananasplitENDR.dtl
+res://dialogic resources/text/bananasplit/bananasplitBACKSTORYR.dtl
+res://dialogic resources/text/bananasplit/bananasplitDATER.dtl
+res://dialogic resources/text/bananasplit/bananasplitLORER.dtl
 res://scenes/end.tscn
 res://scenes/New_File.tres
-res://scripts/canvas_layer.gd

@@ -1,2 +1,71 @@
 [background arg="res://sprites/24062026133858-0001 (1).jpg" fade="0.0"]
 join bananasplit left
+bananasplit: Hottie! What. is. UP!
+character: Uh...
+character: [i] Who the hell is this guy?
+bananasplit: Flabbergasted? Taken aback? I bet you're thinking, 'Who the hell is this guy?'
+character: [i] Well, I'll be damned.
+character: Surprisingly, yeah.
+bananasplit: Of course! Well, It is I, Richard Split, the greatest dessert of all time, well-known player and womanizer!
+character: [i] Yikes.
+character: That's...
+bananasplit: What? Don't tell me my glamour has stunned you already. I know, being in the presence of someone so famous is incredible.
+character: No, I-
+bananasplit: My absolute glamour. Did you know that it could kill you?
+character: You're... gonna kill me?
+bananasplit: What!? Come on, catch up with me, hot stuff! It was a reference!
+character: ...Okay. I don't know how to talk to you. So, Richard-
+bananasplit: No! No, no, no! It's [wave amp=50 freq=2] Richard. Split.
+character: ...That's what I said. Richard.
+bananasplit: No-! You gotta say the whole thing!
+character: Can I not just say Richard for short?
+bananasplit: No!
+character: ...Okay. So, Richard Split. Happy now?
+bananasplit: Very. 
+character: Okay. Who are you?
+bananasplit: Are you deaf!? I'm a huge player and womanizer! My glamour is so amazing, it can kill people! Death by Glamour!
+character: ...Alright.
+character: So... what do you want to do?
+bananasplit: I can't say.
+character: Why?
+bananasplit: Censorship.
+character: Of course.
+bananasplit: But! I will settle for getting inside that head of yours, hottie.
+- You're pushing it. 
+	character: Okay, man. You're pushing it.
+	bananasplit: Pushing it? That's just my glamour working on its own.
+	jump bananasplit/date route bypass
+- Alright, bet. (DATE ROUTE)
+	character: Alright. I'll play along with your sort of talk for a bit.
+	bananasplit: Sick! Now we're getting somewhere!
+	jump bananasplitDATER/
+label date route bypass
+character: Alright, well, can you tell it to stop? It's a bit much.
+bananasplit: I... Yeah, 'course. Sorry.
+character: It's fine. So... normal people talk. What sort of stuff you do like, Richard Split?
+bananasplit: Ahem!... I'll play along. I like talking to hot chicks... and hot dudes... and hot people.
+character: So you're not a womanizer. You're a human-nizer.
+bananasplit: Oh, definitely. I don't discriminate.
+character: And allow me to guess, you haven't talked to anyone before me?
+bananasplit: Who do you think I am!? Of course I have!
+character: I- Wait, seriously? 
+bananasplit: Yes!?
+character: Huh. I figured you wouldn't given the other people hadn't.
+bananasplit: Y'know, I could explain the reasoning behind that. 
+character: Behind what?
+bananasplit: Magic. Mana. The reason we exist. All of it.
+character: [i] Who the hell is the writer? Honestly, sounds weirdly familiar.
+character: Well, I'd love that-
+bananasplit: On one condition.
+character: [i] Oh no.
+bananasplit: You and me... We head back to my place after.
+character: ...
+- ...Fine.
+	character: I'm doing this because I'm curious. You better not leave out ANY details, 'kay?
+	bananasplit: Of course! Who would I be if not truthful?
+	jump bananasplitLORER/
+- You disgust me.
+	character: ...You disgust me. Not in a million years. 
+bananasplit: Wow! I'm wounded. I can see that my glamour isn't working, so don't worry, I won't let it all out on you.
+character: ...What the hell does that mean?
+bananasplit: I- Hey! That's not what I meant! I can... see how it'd be interpreted that way.

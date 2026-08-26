@@ -26,17 +26,19 @@ directories/dch_directory={
 "Both": "res://dialogic resources/characters/Both.dch",
 "System": "res://dialogic resources/characters/System.dch",
 "bananasplit": "res://dialogic resources/characters/bananasplit.dch",
-"beerbatteredchips": "res://dialogic resources/characters/beerbatteredchips.dch",
 "buffalowings": "res://dialogic resources/characters/buffalowings.dch",
 "character": "res://dialogic resources/characters/character.dch",
 "chocolatecake": "res://dialogic resources/characters/chocolatecake.dch",
 "spaghetti": "res://dialogic resources/characters/spaghetti.dch",
 "steak": "res://dialogic resources/characters/steak.dch",
-"steakloin": "res://dialogic resources/characters/steakloin.dch",
 "sushi": "res://dialogic resources/characters/sushi.dch"
 }
 directories/dtl_directory={
 "bananasplit": "res://dialogic resources/text/bananasplit/bananasplit.dtl",
+"bananasplitBACKSTORYR": "res://dialogic resources/text/bananasplit/bananasplitBACKSTORYR.dtl",
+"bananasplitDATER": "res://dialogic resources/text/bananasplit/bananasplitDATER.dtl",
+"bananasplitENDR": "res://dialogic resources/text/bananasplit/bananasplitENDR.dtl",
+"bananasplitLORER": "res://dialogic resources/text/bananasplit/bananasplitLORER.dtl",
 "buffalowings": "res://dialogic resources/text/buffalowings/buffalowings.dtl",
 "buffalowingsENDR": "res://dialogic resources/text/buffalowings/buffalowingsENDR.dtl",
 "buffalowingsFUNNYR": "res://dialogic resources/text/buffalowings/buffalowingsFUNNYR.dtl",
@@ -87,7 +89,10 @@ choices/reveal_delay=0
 choices/reveal_by_input=false
 save/autosave_delay=60.0
 save/encryption_on_exports_only=true
-text/autopauses={}
+text/autopauses={
+",": 0.1,
+".?!-": 0.2
+}
 audio/channel_defaults={
 "": {
 "audio_bus": "",
