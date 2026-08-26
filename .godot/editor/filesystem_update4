@@ -1,7 +1,3 @@
-res://dialogic resources/text/chocolatecake/cakeDATER.dtl
-res://dialogic resources/text/chocolatecake/cakeENDR.dtl
 res://scenes/kitchen_3.tscn
 res://scenes/New_File.tres
-res://dialogic resources/text/chocolatecake/cakeGAMING.dtl
-res://dialogic resources/text/chocolatecake/cakeLORE.dtl
-res://dialogic resources/text/chocolatecake/chocolatecake.dtl
+res://dialogic resources/text/bananasplit/bananasplit.dtl
