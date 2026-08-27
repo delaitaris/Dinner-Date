@@ -1,8 +1,5 @@
-res://dialogic resources/text/bananasplit/bananasplit.dtl
-res://dialogic resources/text/bananasplit/bananasplitBACKSTORYR.dtl
-res://dialogic resources/text/bananasplit/bananasplitDATER.dtl
-res://dialogic resources/text/bananasplit/bananasplitENDR.dtl
-res://dialogic resources/text/bananasplit/bananasplitLORER.dtl
 res://scenes/end.tscn
 res://scenes/New_File.tres
-res://dialogic resources/text/chocolatecake/cakeLORE.dtl
+res://dialogic resources/text/bananasplit/bananasplitLORER.dtl
+res://scenes/kitchen_3.tscn
+res://scenes/kitchen.tscn
