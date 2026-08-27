@@ -1,5 +1,6 @@
 [background arg="res://sprites/24062026133858-0001 (1).jpg" fade="0.0"]
 join bananasplit left
+
 bananasplit: Hottie! What. is. UP!
 character: Uh...
 character: [i] Who the hell is this guy?
@@ -78,3 +79,7 @@ character: How arrogant.
 bananasplit: Hey!
 character: Yeah, whatever.
 jump bananasplitBACKSTORYR/
+
+audio "res://Soundtracks/Richard_split_song.mp3" [volume="-8.0"]
+bananasplit: CHUD
+
