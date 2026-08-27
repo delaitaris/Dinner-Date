@@ -1,5 +1,6 @@
 [background arg="res://sprites/24062026133858-0001 (1).jpg" fade="0.0"]
 join bananasplit left
+audio music "res://Soundtracks/Richard_split_song.mp3" [volume="-8.0"]
 
 bananasplit: Hottie! What. is. UP!
 character: Uh...
@@ -36,7 +37,7 @@ bananasplit: But! I will settle for getting inside that head of yours, hottie.
 	character: Okay, man. You're pushing it.
 	bananasplit: Pushing it? That's just my glamour working on its own.
 	jump bananasplit/date route bypass
-- Alright, bet. (DATE ROUTE)
+- Alright, bet.
 	character: Alright. I'll play along with your sort of talk for a bit.
 	bananasplit: Sick! Now we're getting somewhere!
 	jump bananasplitDATER/
@@ -51,7 +52,7 @@ character: And allow me to guess, you haven't talked to anyone before me?
 bananasplit: Who do you think I am!? Of course I have!
 character: I- Wait, seriously?
 bananasplit: Yes!?
-character: Huh. I figured you wouldn't given the other people hadn't.
+character: Huh. I figured you wouldn't have, given the fact the other people hadn't.
 bananasplit: Y'know, I could explain the reasoning behind that.
 character: Behind what?
 bananasplit: Magic. Mana. The reason we exist. All of it.
@@ -82,4 +83,3 @@ jump bananasplitBACKSTORYR/
 
 audio "res://Soundtracks/Richard_split_song.mp3" [volume="-8.0"]
 bananasplit: CHUD
-
