@@ -1,5 +1,6 @@
 [background arg="res://sprites/24062026133858-0001 (1).jpg" fade="0.0"]
 join bananasplit left
+audio music "res://Soundtracks/Richard_split_song.mp3" [volume="-8.0"]
 
 bananasplit: Hottie! What. is. UP!
 character: Uh...
@@ -82,4 +83,3 @@ jump bananasplitBACKSTORYR/
 
 audio "res://Soundtracks/Richard_split_song.mp3" [volume="-8.0"]
 bananasplit: CHUD
-
