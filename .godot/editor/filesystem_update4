@@ -1,5 +1,6 @@
 
 
+
 res://dialogic resources/text/chocolatecake/cakeLORE.dtl
 res://dialogic resources/text/chocolatecake/cakeDATER.dtl
 res://scenes/end.tscn
@@ -23,4 +24,8 @@ res://scenes/Starting screen.tscn
 res://scenes/New_File.tres
 res://dialogic resources/text/chocolatecake/chocolatecake.dtl
 res://dialogic resources/text/bananasplit/bananasplit.dtl
+
+
+res://scenes/Starting screen.tscn
+res://scenes/New_File.tres
 
