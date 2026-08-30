@@ -1,8 +1,13 @@
 [background arg="res://sprites/24062026133858-0001 (1).jpg" fade="0.0"]
 join steak left
+
 audio music "res://Soundtracks/Sir_Loin_song.mp3" [bus="" loop="true" sync=""]
 set {SteakName} = "Sir Loin"
 steak: Howdy there, partner!
+
+audio music "res://Soundtracks/Sir_Loin_song.mp3" [volume="0.0"]
+Howdy there, partner!
+
 - What's your name?
 	character: Um, Hi! What’s your name?
 	steak: Name’s Loin, Fastest gunslinger in the west. Ma' full name is Sir Loin but my partners all said that sounded more like a knight, so it’s just Loin now. YEE HAW.

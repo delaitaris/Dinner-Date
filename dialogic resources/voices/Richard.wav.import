@@ -1,0 +1,24 @@
+[remap]
+
+importer="wav"
+type="AudioStreamWAV"
+uid="uid://cd12ql445qk3w"
+path="res://.godot/imported/Richard.wav-ee48671577bb7277da28d417ca79432c.sample"
+
+[deps]
+
+source_file="res://dialogic resources/voices/Richard.wav"
+dest_files=["res://.godot/imported/Richard.wav-ee48671577bb7277da28d417ca79432c.sample"]
+
+[params]
+
+force/8_bit=false
+force/mono=false
+force/max_rate=false
+force/max_rate_hz=44100
+edit/trim=false
+edit/normalize=false
+edit/loop_mode=0
+edit/loop_begin=0
+edit/loop_end=-1
+compress/mode=2

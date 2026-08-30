@@ -44,12 +44,13 @@ flat = true
 [node name="Label2" type="Label" parent="." unique_id=1068075363]
 layout_mode = 0
 offset_left = 9.0
-offset_top = 288.0
-offset_right = 1156.0
+offset_top = 274.0
+offset_right = 1598.0
 offset_bottom = 456.0
 text = "ART IS IN PROGRESS AND WILL BE DONE SOON
 
-IF YOU CAN PLAY WITH SOUND, PLEASE DO. SOMEONE WORKED VERY HARD"
+IF YOU CAN PLAY WITH SOUND, PLEASE DO. SOMEONE WORKED VERY HARD 
+IT IS ONLY IN DOWNLOABLE VERSION"
 label_settings = SubResource("LabelSettings_pi1ro")
 
 [node name="TextChangeSound" type="AudioStreamPlayer2D" parent="." unique_id=1439066082]

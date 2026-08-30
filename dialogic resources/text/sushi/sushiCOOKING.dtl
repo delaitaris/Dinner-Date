@@ -36,3 +36,4 @@ leave sushi
 [wait time="4.0"]
 join sushi left
 sushi: Well, due to spending so much time cooking with you "cooking" with you, I’m afraid that I don’t have much time left.
+jump sushiEND/

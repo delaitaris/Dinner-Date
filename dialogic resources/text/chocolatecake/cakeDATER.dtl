@@ -40,14 +40,18 @@ character: [i] And I'm cooking.
 character: Oh, why thank you. You're good at... looking good.
 character: [i] And it's burnt.
 chocolatecake: I...
+[wait time="1.0" hide_text="false"]
 She inches a little bit closer.
+[wait time="1.0" hide_text="false"]
 character: You good? Stunned by my linguistics?
+[wait time="1.0" hide_text="false"]
 She inches a little bit closer...[wave amp=50 freq=2] again.
+[wait time="1.0" hide_text="false"]
 character: ...Hello?
 She leans in.
-[wait time="1.0"]
-Yeah, they kiss. What? There's dating in your dating game. 
-[wait time="1.0"]
+[wait time="1.0" hide_text="false"]
+Yeah, they kiss. What? There's dating in your dating game.
+[wait time="1.0" hide_text="false"]
 character: ...
 chocolatecake: ...
 character: Tastes like chocolate.

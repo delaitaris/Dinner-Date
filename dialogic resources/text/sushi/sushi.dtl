@@ -1,9 +1,9 @@
 [background arg="res://sprites/24062026133858-0001 (1).jpg" fade="0.0"]
 join sushi left
 audio music "res://Soundtracks/Sushi_song.mp3" [bus="" loop="true" sync=""]
-sushi: S\: …Evening, Chef.
-character: C\: Hi? You’re… Sushi.
-sushi: S\: That I am. How are you this fine evening?
+sushi:  …Evening, Chef.
+character: Hi? You’re… Sushi.
+sushi: That I am. How are you this fine evening?
 - Ok
 	character: …I’m okay.
 	sushi: That’s good to hear. I’m of adequate status myself as well.
@@ -63,6 +63,8 @@ sushi: S\: That I am. How are you this fine evening?
 	sushi: …And once more, you look disheartened.
 	character: Yeah. I’m just coming to terms with how bad my education was.
 	sushi: Well, while I may not be a qualified educator, surely I’d be able to assist you in revision.
-	character: I’d… I’d actually like that. Thanks.
-	jump sushiTEACHING/
-	set {SushiMood} = "Mood"
+	character: Well, as bad as my education is, I'm not super interested in increasing my vocabulary.
+	sushi: Ah, do you want to teach me something instead?
+	character: Sure! How about cooking?
+	sushi: I’d like that.
+	jump sushiCOOKING/
