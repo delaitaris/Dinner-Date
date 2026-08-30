@@ -3,36 +3,12 @@ res://dialogic resources/text/chocolatecake/cakeLORE.dtl
 res://dialogic resources/text/chocolatecake/cakeDATER.dtl
 res://scenes/end.tscn
 res://scenes/New_File.tres
+res://dialogic resources/text/prologue/prologue.dtl
 res://scenes/Starting screen.tscn
+res://scenes/New_File.tres
+res://scripts/DialogicRewind.gd
 res://scripts/dinner_date.gd
-
-res://dialogic resources/text/bananasplit/bananasplit.dtl
-res://dialogic resources/text/bananasplit/bananasplitBACKSTORYR.dtl
-res://dialogic resources/text/bananasplit/bananasplitDATER.dtl
-res://dialogic resources/text/bananasplit/bananasplitENDR.dtl
-res://dialogic resources/text/bananasplit/bananasplitLORER.dtl
-res://scenes/end.tscn
-res://scenes/New_File.tres
-res://dialogic resources/text/chocolatecake/cakeLORE.dtl
-
-
-res://dialogic resources/characters/chocolatecake.dch
-res://dialogic resources/characters/bananasplit.dch
-
-res://scenes/Starting screen.tscn
-res://scenes/New_File.tres
-res://scenes/kitchen.tscn
-res://dialogic resources/text/sushi/sushi.dtl
-res://dialogic resources/text/sushi/sushiCOOKING.dtl
-res://dialogic resources/text/spaghetti/spaghetti.dtl
-res://dialogic resources/text/chocolatecake/chocolatecake.dtl
-res://dialogic resources/text/bananasplit/bananasplit.dtl
-
-res://scenes/kitchen_3.tscn
-
-
-
-res://scenes/Starting screen.tscn
-res://scenes/New_File.tres
-
-
+res://scenes/dinner_date.tscn
+res://scripts/RewindSystem.gd
+res://scripts/rewind_button.gd
+res://scenes/kitchen_2.tscn

@@ -19,6 +19,7 @@ config/icon="res://icon.svg"
 
 Dialogic="*uid://ds2q0uclmolvu"
 Transition="*uid://0y2ob60m8qoa"
+RewindSystem="*uid://32ksajgqfod1"
 
 [dialogic]
 
@@ -71,7 +72,7 @@ layout/style_directory={
 "New_File": "res://scenes/New_File.tres"
 }
 glossary/default_case_sensitive=true
-text/letter_speed=0.01
+text/letter_speed=0.02
 text/initial_text_reveal_skippable=true
 text/text_reveal_skip_delay=0.7
 text/advance_delay=0.1
