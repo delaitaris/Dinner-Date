@@ -1,5 +1,3 @@
-res://scenes/Starting screen.tscn
+res://dialogic resources/text/steak/steak.dtl
 res://scenes/New_File.tres
-res://dialogic resources/text/sushi/sushiCOOKING.dtl
-res://scenes/end.tscn
-res://scripts/canvas_layer.gd
+res://scenes/Starting screen.tscn

@@ -1,5 +1,5 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1788058355
+::res://::1788060070
 export_presets.cfg::TextFile::-1::1788057904::0::1::::<><><>0<>0<><>::
 icon.svg::CompressedTexture2D::3843880153456758082::1785920170::1785920170::1::::<><><>0<>0<>1bf8324b66b59551b29c4abc63bb2c4e<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 index.apple-touch-icon.png::CompressedTexture2D::7179943832297673318::1785923180::1785923307::1::::<><><>0<>0<>d1950d25534208923fe3db88fe90ae51<>res://.godot/imported/index.apple-touch-icon.png-8085a11cc297d91deb55511843765958.ctex::
@@ -574,12 +574,12 @@ event_text.gd::GDScript::7199229198122971661::1785920170::0::1::::DialogicTextEv
 icon.svg::CompressedTexture2D::9151163472776694991::1785920170::1785920170::1::::<><><>0<>0<>0fe1b3b3cf3733ead1d66ddc5726114c<>res://.godot/imported/icon.svg-e2501ddcdef01c7f2c3538940f5abfc1.ctex::
 index.gd::GDScript::3735692247776249690::1785920170::0::1::::<>DialogicIndexer<><>0<>1<><>::
 manual_advance.gd::GDScript::7278833021501408885::1785920170::0::1::::DialogicManualAdvance<>RefCounted<><>0<>0<><>::
-node_dialog_text.gd::GDScript::8367256849905527338::1785920170::0::1::::DialogicNode_DialogText<>RichTextLabel<><>0<>1<><>::
+node_dialog_text.gd::GDScript::8367256849905527338::1785920170::0::1::::DialogicNode_DialogText<>RichTextLabel<>res://addons/dialogic/Modules/Text/node_dialog_text_icon.svg<>0<>1<><>::
 node_dialog_text_icon.svg::CompressedTexture2D::4044689466443943908::1785920170::1785920170::1::::<><><>0<>0<>0854d1eb256c2d7e9186a18e71c67bd8<>res://.godot/imported/node_dialog_text_icon.svg-3cf845e99d76137d8156865c09f39e3e.ctex::
 node_input.gd::GDScript::6135746528022206122::1785920170::0::1::::DialogicNode_Input<>Control<><>0<>0<><>::
-node_name_label.gd::GDScript::2409060177523604634::1785920170::0::1::::DialogicNode_NameLabel<>Label<><>0<>0<><>::
+node_name_label.gd::GDScript::2409060177523604634::1785920170::0::1::::DialogicNode_NameLabel<>Label<>res://addons/dialogic/Modules/Text/node_name_label_icon.svg<>0<>0<><>::
 node_name_label_icon.svg::CompressedTexture2D::753910208124862534::1785920170::1785920170::1::::<><><>0<>0<>a4c8bf4be7c45d309f0f460f60daff16<>res://.godot/imported/node_name_label_icon.svg-d482939b74b41ec2da6edc97e41c8bf8.ctex::
-node_next_indicator.gd::GDScript::8643102605516753138::1785920170::0::1::::DialogicNode_NextIndicator<>Control<><>0<>0<><>::
+node_next_indicator.gd::GDScript::8643102605516753138::1785920170::0::1::::DialogicNode_NextIndicator<>Control<>res://addons/dialogic/Modules/Text/node_next_indicator_icon.svg<>0<>0<><>::
 node_next_indicator_icon.svg::CompressedTexture2D::302873534409359568::1785920170::1785920170::1::::<><><>0<>0<>b19c8f494620393de69e28f29117e8d0<>res://.godot/imported/node_next_indicator_icon.svg-06167a3b3e290941c1c34386ebd60af8.ctex::
 node_type_sound.gd::GDScript::8257091630640999901::1785920170::0::1::::DialogicNode_TypeSounds<>AudioStreamPlayer<><>0<>1<><>::
 settings_text.gd::GDScript::5031029662621467051::1785920170::0::1::::<>DialogicSettingsPage<><>0<>1<><>::
@@ -622,7 +622,7 @@ event_wait_input.gd::GDScript::2473881298755643258::1785920170::0::1::::Dialogic
 icon.svg::CompressedTexture2D::2766149336681406939::1785920170::1785920170::1::::<><><>0<>0<>35002bf1f4e75410313770867b7720c7<>res://.godot/imported/icon.svg-cb8e50b081a310c64183b12c6d12fcf2.ctex::
 index.gd::GDScript::971839668851566764::1785920170::0::1::::<>DialogicIndexer<><>0<>1<><>::
 ::res://addons/dialogic/Resources/::1785920205
-character.gd::GDScript::8170509915016804394::1785920170::0::1::::DialogicCharacter<>Resource<><>0<>1<><>::
+character.gd::GDScript::8170509915016804394::1785920170::0::1::::DialogicCharacter<>Resource<>uid://bbea0efx0ybu7<>0<>1<><>::
 CharacterResourceLoader.gd::GDScript::3230683283296700613::1785920170::0::1::::DialogicCharacterFormatLoader<>ResourceFormatLoader<><>0<>1<><>::
 CharacterResourceSaver.gd::GDScript::11330996335859447::1785920170::0::1::::DialogicCharacterFormatSaver<>ResourceFormatSaver<><>0<>1<><>::
 dialogic_identifiable_resource.gd::GDScript::7504157656011423462::1785920170::0::1::::<>Resource<><>0<>1<><>::
@@ -631,7 +631,7 @@ dialogic_layout_layer.gd::GDScript::7097085608305494937::1785920170::0::1::::Dia
 dialogic_style.gd::GDScript::8686860375682204498::1785920170::0::1::::DialogicStyle<>Resource<><>0<>1<><>::
 dialogic_style_layer.gd::GDScript::3944887282532454131::1785920170::0::1::::DialogicStyleLayer<>Resource<><>0<>1<><>::
 event.gd::GDScript::8763588563558386910::1785920170::0::1::::DialogicEvent<>Resource<><>0<>1<><>::
-timeline.gd::GDScript::5667425671830628919::1785920170::0::1::::DialogicTimeline<>Resource<><>0<>1<><>::
+timeline.gd::GDScript::5667425671830628919::1785920170::0::1::::DialogicTimeline<>Resource<>uid://j7ym07anlusi<>0<>1<><>::
 TimelineResourceLoader.gd::GDScript::1953327801557244659::1785920170::0::1::::DialogicTimelineFormatLoader<>ResourceFormatLoader<><>0<>1<><>::
 TimelineResourceSaver.gd::GDScript::6005903703142383367::1785920170::0::1::::DialogicTimelineFormatSaver<>ResourceFormatSaver<><>0<>1<><>::
 ::res://addons/dialogic_additions/::1785920205
@@ -696,7 +696,7 @@ steakMOVIE.dtl::Resource/DialogicTimeline::851447356535559987::1785923180::0::1:
 steakTEACHING.dtl::Resource/DialogicTimeline::115961819731243021::1785923180::0::1::::<><>uid://j7ym07anlusi<>0<>0<><>::uid://dcfdc06684m32<>uid://dhb42ae0pmdoq<>uid://cpataxntdmkck
 ::res://dialogic resources/text/sushi/::1788058080
 sushi.dtl::Resource/DialogicTimeline::6989394386061306518::1788057904::0::1::::<><>uid://j7ym07anlusi<>0<>0<><>::uid://bpe3fmje14jkk<>uid://bupxujn4c2lwl<>uid://b7tw23nq0dosq<>uid://dcfdc06684m32<>uid://xc8r42nqrfrj<>uid://dsw1un4nqs7dp<>uid://bjqfodpvpjyc3
-sushiCOOKING.dtl::Resource/DialogicTimeline::8469692633058893541::1788058080::0::1::::<><>uid://j7ym07anlusi<>0<>0<><>::uid://dcfdc06684m32<>uid://bupxujn4c2lwl<>uid://bs4dflkugayyv
+sushiCOOKING.dtl::Resource/DialogicTimeline::8469692633058893541::1788058080::0::1::::<><><>0<>0<><>::uid://dcfdc06684m32<>uid://bupxujn4c2lwl<>uid://bs4dflkugayyv
 sushiEND.dtl::Resource/DialogicTimeline::1754905994079633326::1788057904::0::1::::<><>uid://j7ym07anlusi<>0<>0<><>::uid://dcfdc06684m32<>uid://bupxujn4c2lwl
 sushiMOVIE.dtl::Resource/DialogicTimeline::1620507743940130759::1785923180::0::1::::<><>uid://j7ym07anlusi<>0<>0<><>::uid://dcfdc06684m32<>uid://bupxujn4c2lwl<>uid://0adbsns17qy5
 sushiTEACHING.dtl::Resource/DialogicTimeline::3051479088295536984::1788057904::0::1::::<><>uid://j7ym07anlusi<>0<>0<><>::uid://bupxujn4c2lwl
@@ -709,10 +709,10 @@ Spaghetti.wav::AudioStreamWAV::1294616055379473185::1785920170::1785920374::1:::
 Steak.wav::AudioStreamWAV::3331649294887829360::1785920170::1785920374::1::::<><><>0<>0<>f8bea7011206d9edc4421351c9cd89c9<>res://.godot/imported/Steak.wav-4d1fd7960c29929943c0b3097114ea5a.sample::
 Sushi.wav::AudioStreamWAV::6252133172767042242::1785920170::1785920374::1::::<><><>0<>0<>4c4bb65dbf39499c622b36eb8dc6a19f<>res://.godot/imported/Sushi.wav-570782514f259cddb57d5227983dae1c.sample::
 ::res://dinnerdate/::1788057904
-::res://scenes/::1788058052
+::res://scenes/::1788059820
 cuttingminigame.tscn::PackedScene::3307057463110420734::1785920170::0::1::::<><><>0<>0<><>::uid://csoopr6remkq0::::res://sprites/ROGscale.png<>uid://bkqnu1duix6v3::::res://scripts/pointer.gd<>uid://byrw2n614m0y0::::res://sprites/pointerdark.png
 dinner_date.tscn::PackedScene::1867401658436221151::1785920170::0::1::::<><><>0<>0<><>::uid://dlnbnd614nujb::::res://scripts/dinner_date.gd
-end.tscn::PackedScene::1805930618533131972::1788057904::0::1::::<><><>0<>0<><>::uid://b88oe13tmibr0::::res://scripts/canvas_layer.gd
+end.tscn::PackedScene::1805930618533131972::1788059820::0::1::::<><><>0<>0<><>::uid://b88oe13tmibr0::::res://scripts/canvas_layer.gd
 kitchen.tscn::PackedScene::8566591953977945819::1785925714::0::1::::<><><>0<>0<><>::uid://dnlejcbbq8cyu::::res://scripts/kitchen.gd
 kitchen_2.tscn::PackedScene::1219301469660360464::1785920170::0::1::::<><><>0<>0<><>::uid://8kftwuaaioxo::::res://scripts/kitchen_2.gd
 kitchen_3.tscn::PackedScene::8318238455836646223::1785920170::0::1::::<><><>0<>0<><>::uid://c2rshst8syd62::::res://scripts/kitchen_3.gd
@@ -723,8 +723,8 @@ talking.tscn::PackedScene::947278122361642616::1785920170::0::1::::<><><>0<>0<><
 ::res://scenes/DefaultLayoutBase/::1788057908
 custom_default_layout_base.tscn::PackedScene::3230900217802222128::1788057904::0::1::::<><><>0<>0<><>::uid://yivwmkfwrvfr::::res://addons/dialogic/Modules/DefaultLayoutParts/Base_Default/default_layout_base.gd
 default_layout_base.gd::GDScript::5612785259259578711::1788057904::0::1::::<>DialogicLayoutBase<><>0<>1<><>::
-::res://scripts/::1788057904
-canvas_layer.gd::GDScript::4771635580447745087::1788057904::0::1::::<>CanvasLayer<><>0<>0<><>::
+::res://scripts/::1788059681
+canvas_layer.gd::GDScript::4771635580447745087::1788059681::0::1::::<>CanvasLayer<><>0<>0<><>::
 dinner_date.gd::GDScript::7958260380893563067::1788057904::0::1::::<>Node2D<><>0<>0<><>::
 kitchen.gd::GDScript::8094684220444213300::1785920170::0::1::::<>Control<><>0<>0<><>::
 kitchen_2.gd::GDScript::2337214319053814676::1785920170::0::1::::<>Control<><>0<>0<><>::
@@ -735,7 +735,7 @@ sprite_2d.gd::GDScript::7408073323213730386::1785920170::0::1::::<>Sprite2D<><>0
 starting_screen.gd::GDScript::3316819250283287566::1785920170::0::1::::<>Control<><>0<>0<><>::
 talking.gd::GDScript::2658988620309821444::1785920170::0::1::::<>Node2D<><>0<>0<><>::
 wok_sprite.gd::GDScript::2660843366106391323::1785920170::0::1::::<>Sprite2D<><>0<>0<><>::
-::res://Soundtracks/::1788058223
+::res://Soundtracks/::1788058464
 Brock_song.mp3::AudioStreamMP3::6338107847961680212::1785920170::1785925209::1::::<><><>0<>0<>275aa057e85696f0fae1396140c0df5e<>res://.godot/imported/Brock_song.mp3-a82612eea176ac8d524615971a072dea.mp3str::
 Intro_dinnerdate_soundtrack.mp3::AudioStreamMP3::2557882933923204154::1785920170::1788057904::1::::<><><>0<>0<>b34952a797de397ae6d9509dcfeb9e16<>res://.godot/imported/Intro_dinnerdate_soundtrack.mp3-638958de1c6cf14df7929be2197b3ec3.mp3str::
 matthewvakaliuk73627-mouse-click-290204.mp3::AudioStreamMP3::8967264952388079331::1788057904::1788057967::1::::<><><>0<>0<>0fc5c55b14be476996c13756c761f55c<>res://.godot/imported/matthewvakaliuk73627-mouse-click-290204.mp3-e09bab4961f01670f7415cc9ecdaabd5.mp3str::
