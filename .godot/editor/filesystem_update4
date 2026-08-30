@@ -1,3 +1,12 @@
 res://dialogic resources/text/steak/steak.dtl
 res://scenes/New_File.tres
 res://scenes/Starting screen.tscn
+res://dialogic resources/characters/System.dch
+res://dialogic resources/characters/character.dch
+res://dialogic resources/characters/sushi.dch
+res://dialogic resources/text/spaghetti/spaghetti.dtl
+res://dialogic resources/characters/spaghetti.dch
+res://dialogic resources/characters/steak.dch
+res://dialogic resources/characters/bananasplit.dch
+res://scenes/kitchen.tscn
+res://dialogic resources/characters/buffalowings.dch
