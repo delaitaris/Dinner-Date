@@ -2,6 +2,7 @@
 
 [ext_resource type="Script" uid="uid://bnixr75ssbgly" path="res://scripts/starting_screen.gd" id="1_pi1ro"]
 [ext_resource type="AudioStream" uid="uid://d002sqo6buef0" path="res://Soundtracks/matthewvakaliuk73627-mouse-click-290204.mp3" id="2_i3j4q"]
+[ext_resource type="Script" uid="uid://32ksajgqfod1" path="res://scripts/RewindSystem.gd" id="3_u64f2"]
 
 [sub_resource type="LabelSettings" id="LabelSettings_pi1ro"]
 font_size = 29
@@ -55,5 +56,8 @@ label_settings = SubResource("LabelSettings_pi1ro")
 
 [node name="TextChangeSound" type="AudioStreamPlayer2D" parent="." unique_id=1439066082]
 stream = ExtResource("2_i3j4q")
+
+[node name="RewindSystem" type="Node" parent="." unique_id=1231608783]
+script = ExtResource("3_u64f2")
 
 [connection signal="pressed" from="Button" to="." method="_on_button_pressed"]
