@@ -1,7 +1,5 @@
-res://dialogic resources/text/bananasplit/bananasplit.dtl
-res://dialogic resources/text/chocolatecake/chocolatecake.dtl
-res://scenes/kitchen_2.tscn
+res://scenes/Starting screen.tscn
 res://scenes/New_File.tres
 res://dialogic resources/text/sushi/sushiCOOKING.dtl
-res://scenes/Starting screen.tscn
-res://scenes/kitchen.tscn
+res://scenes/end.tscn
+res://scripts/canvas_layer.gd
