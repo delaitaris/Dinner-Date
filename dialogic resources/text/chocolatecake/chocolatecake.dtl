@@ -35,7 +35,7 @@ chocolatecake: Yeah. Thanks.
 character: Uh-huh. So… Let’s get to it?
 chocolatecake: Right! Uh… show me around?
 character: I… There’s really not much more to it than this.
-[wait time="1.0" hide_text="false"]
+[wait time="1.0"]
 You walked around the table once, silent and motioning to the various appliances.
 chocolatecake: ...Ah.
 character: Honestly, I don’t know. The only thing I can think of is stuff I’ve already done.
@@ -56,4 +56,7 @@ chocolatecake: …How about I talk about mana and magic stuff?
 	character: I got a few games on this old Minrendo Shift. Maybe we could give one a shot?
 	set {CakeRoute} = "Gaming"
 	jump cakeGAMING/
+
+audio music "res://Soundtracks/Raspusia_song.mp3" [volume="-8.0"]
+chocolatecake: HI
 jump end/
