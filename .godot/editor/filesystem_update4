@@ -1,9 +1,7 @@
-res://dialogic resources/text/prologue/prologue.dtl
-res://scenes/Starting screen.tscn
+res://scenes/end.tscn
 res://scenes/New_File.tres
-res://scripts/DialogicRewind.gd
-res://scripts/dinner_date.gd
-res://scenes/dinner_date.tscn
-res://scripts/RewindSystem.gd
-res://scripts/rewind_button.gd
+res://dialogic resources/text/chocolatecake/chocolatecake.dtl
+res://dialogic resources/characters/steak.dch
+res://dialogic resources/text/bananasplit/bananasplitENDR.dtl
+res://dialogic resources/text/prologue/prologue.dtl
 res://scenes/kitchen_2.tscn
