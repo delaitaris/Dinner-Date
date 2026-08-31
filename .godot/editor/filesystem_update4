@@ -1,4 +1,9 @@
-
+res://dialogic resources/text/bananasplit/bananasplitLORER.dtl
+res://dialogic resources/text/bananasplit/bananasplitENDR.dtl
+res://dialogic resources/text/bananasplit/bananasplitDATER.dtl
+res://dialogic resources/text/bananasplit/bananasplitBACKSTORYR.dtl
+res://dialogic resources/text/bananasplit/bananasplit.dtl
+res://dialogic resources/text/chocolatecake/chocolatecake.dtl
 res://dialogic resources/text/chocolatecake/cakeLORE.dtl
 res://dialogic resources/text/chocolatecake/cakeDATER.dtl
 res://scenes/end.tscn
@@ -34,5 +39,4 @@ res://scenes/kitchen_3.tscn
 
 res://scenes/Starting screen.tscn
 res://scenes/New_File.tres
-
 
