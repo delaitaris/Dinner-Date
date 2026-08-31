@@ -80,3 +80,6 @@ character: How arrogant.
 bananasplit: Hey!
 character: Yeah, whatever.
 jump bananasplitBACKSTORYR/
+
+audio "res://Soundtracks/Richard_split_song.mp3" [volume="-8.0"]
+bananasplit: CHUD

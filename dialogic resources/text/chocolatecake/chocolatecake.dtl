@@ -56,3 +56,4 @@ chocolatecake: …How about I talk about mana and magic stuff?
 	character: I got a few games on this old Minrendo Shift. Maybe we could give one a shot?
 	set {CakeRoute} = "Gaming"
 	jump cakeGAMING/
+jump end/
