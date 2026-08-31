@@ -43,4 +43,5 @@ leave spaghetti [animation="Fade Out" length="3.5" wait="true"]
 character: …Damn. That was fun.
 if {SpaghettiKnit} == "Knit":
 	character: …Damn. That was fun. I still have the plushie, too. That’s neat.
+audio music "res://dialogic resources/voices/Blip.wav" [loop="false"]
 [end_timeline]

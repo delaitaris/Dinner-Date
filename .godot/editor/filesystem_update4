@@ -1,3 +1,6 @@
-res://dialogic resources/text/prologue/prologue.dtl
+res://dialogic resources/text/chocolatecake/cakeENDR.dtl
+res://dialogic resources/text/spaghetti/spaghettiEND.dtl
+res://dialogic resources/text/steak/steakEND.dtl
+res://dialogic resources/text/sushi/sushiEND.dtl
 res://scenes/Starting screen.tscn
 res://scenes/New_File.tres

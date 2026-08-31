@@ -13,4 +13,5 @@ leave sushi [animation="Fade Out Up" length="2.0"]
 character: ...
 character: …Damn. That sucks.
 [wait time="1.0"]
+audio music "res://dialogic resources/voices/Blip.wav" [loop="false"]
 [end_timeline]

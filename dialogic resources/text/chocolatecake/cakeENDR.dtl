@@ -33,4 +33,5 @@ chocolatecake: [wave amp=50 freq=2] Dinner Date.
 leave chocolatecake [animation="Fade Out Down" length="2.0" wait="true"]
 character: [i] ...Huh. That feeling again, as if someones watching me.
 do Transition.fade_to_black()
+audio music "res://dialogic resources/voices/Blip.wav" [loop="false"]
 [end_timeline]
