@@ -1,0 +1,21 @@
+character: So... we're already approaching there, huh?
+bananasplit: Yeah.
+character: I suppose all we have now to do is to say goodbye.
+bananasplit: Well...
+character: Well?
+bananasplit: Look, you're able to summon us back.
+character: Wait- seriously?
+bananasplit: Yeah. If you make us again and think about us, we'll come back into existance.
+character: ...So that's why no one was scared!
+bananasplit: Uh-huh.
+character: They could've explained that!
+bananasplit: Hey, hot stuff. You're talking about other partners while I'm right here.
+character: Oh, uh... sorry.
+bananasplit: It's fine, I'm just playing.
+character: Okay. Well, uh... I'll see you around, then.
+bananasplit: Yeah. Peace, hottie!
+leave bananasplit [animation="Fade Out Down" length="2.0" wait="true"]
+character: ...Damn. That was... fun.
+character: I've always liked a [wave amp=50 freq=2]Dinner Date.
+do Transition.fade_to_black()
+[end_timeline]
