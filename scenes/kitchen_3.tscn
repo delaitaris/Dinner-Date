@@ -17,7 +17,7 @@ offset_left = 175.0
 offset_top = 112.0
 offset_right = 516.0
 offset_bottom = 217.0
-text = "Chocolate cake
+text = "Chocolate Cake
 (F)"
 
 [node name="BananasplitButton" type="Button" parent="." unique_id=812505757]
@@ -26,7 +26,8 @@ offset_left = 687.0
 offset_top = 111.0
 offset_right = 1037.0
 offset_bottom = 218.0
-text = "Banana Split
+text = "UNFINISHED 
+Banana Split
 (M)"
 
 [connection signal="pressed" from="ChocolatecakeButton" to="." method="_on_button_pressed"]

@@ -11,14 +11,48 @@ bananasplit: And you know what his theory around spacetime is, right?
 	character: Woah, buddy! Keep it in your mankini!
 	bananasplit: Okay, regardless... So, it's a model around his theory of relativity. It's a four-dimensional... thing, consisting of width, length, and height, aswell as time.
 	character: Time?
-	bananasplit: Yeah, time. 
+	bananasplit: Yeah, time.
 	character: And that means...?
 	bananasplit: That means that even if something is entirely still, in a model of spacetime, it will be in a different position as to where it was before. That's because it's further ahead in time.
 	character: ...Okay?
 	bananasplit: Got it?
 	character: I think. A little.
 	bananasplit: Great! So, you're not only hot, but you also learn quickly too.
-	character: Okay.
+	character: ...Don't know what I expected.
 label lore skip
 character: What does this have to do with magic?
-bananasplit: Hold your horses! So... you know how gravity works.
+bananasplit: Hold your horses! So... you know how planets and stars, in this model, weigh down the fabric of spacetime, creating gravity?
+character: I do now.
+bananasplit: So, that is imposing their force onto reality, creating an outcome in the form of gravity. Now, what if an individual could do that?
+character: ...But you can't.
+bananasplit: That's what most people think. They don't understand what magic actually is. Magic is imposing a will onto spacetime and bending it.
+character: Yeah, you've lost me.
+bananasplit: Okay, basically... Do you know when you're not tired, but you try to sleep anyway? When you don't want get out of bed, but you still force yourself to? Maybe when you go to the gym when your brain is trying to procrastinate?
+character: ...Way to be blunt about it, but yeah.
+bananasplit: Oh, baby, I'm always blunt. Regardless, that is called 'imposing your will'. You're strong-arming your brain into listening to itself.
+character: And so... how do you do that to reality? It doesn't seem like a thing just anyone can do.
+bananasplit: You're right. Wizards and Mages are people with abnormally strong wills, and they are the only ones who can use magic. Those abnormally strong wills that allow them to bend reality are called Mana.
+character: ...Oh. [i] Oh.
+bananasplit: Getting it now?
+character: A little. Wait, so how can they cast fireballs or whatever? Wouldn't it just make gravity?
+bananasplit: Not exactly. The way planets and stars bend spacetime is a byproduct of their mass; it's not really intentional. By imposing a conscious, human will onto that, you can alter the effects it produces. That spell that hit you brought the targets most beloved into reality, which just so happened to be food... and me.
+character: ...I'm too shocked to really process your flirting, man.
+bananasplit: I know, I know. My visage is truly breathtaking.
+character: Shocked at the fact people can bend reality.
+bananasplit: Aw.
+character: I mean, this is insane! What, there's just people walking around who can materialise money?
+bananasplit: They could do that even before you learnt the fundamentals of magic.
+character: Yeah, but it's... it's different.
+bananasplit: Is it? All you did was learn the way behind it. Nothing's actually changed.
+character: I... Okay. [wave amp=50 freq=2] I'm great. I'm good. I'm completely composed.
+bananasplit: Uh-huh.
+character: [wave amp=50 freq=2] Stop looking at me like that.
+bananasplit: Okay, hot stuff. You just look good when you're all trying to keep it together.
+character: Woah! Dirty.
+bananasplit: Whatever. We'll have time for that after we head back to my...
+character: Your place. Yeah, I know.
+bananasplit: No, it's... it's my time.
+character: Oh...
+bananasplit: It's fine! There's always next time.
+character: Uh...
+jump bananasplitENDR/
