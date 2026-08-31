@@ -19,7 +19,8 @@ func save_state() -> void:
 	if history.size() > max_history_size:
 		history.pop_front()
 
-	print("REWIND: Saved state. History size = ", history.size())
+	print("REWIND: Saved state #", history.size())
+
 
 
 func rewind() -> void:
@@ -31,6 +32,7 @@ func rewind() -> void:
 
 	is_rewinding = true
 
+	# Remove the state we're currently at.
 	history.pop_back()
 
 	var previous_state: DialogicSaveState = history.back()
@@ -39,6 +41,7 @@ func rewind() -> void:
 
 	Dialogic.load_full_state(previous_state)
 
+	# Give Dialogic time to restore the state.
 	await get_tree().process_frame
 	await get_tree().process_frame
 

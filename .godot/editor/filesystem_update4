@@ -1,8 +1,9 @@
-res://scenes/kitchen_2.tscn
-res://scenes/New_File.tres
-res://scripts/RewindSystem.gd
 res://dialogic resources/text/prologue/prologue.dtl
+res://scenes/Starting screen.tscn
+res://scenes/New_File.tres
+res://scripts/DialogicRewind.gd
 res://scripts/dinner_date.gd
-res://dialogic resources/text/prologue/prologuetest.dtl
-res://tools/tools.gd
-res://dialogic resources/text/prologue/prologuetestbackup.dtl
+res://scenes/dinner_date.tscn
+res://scripts/RewindSystem.gd
+res://scripts/rewind_button.gd
+res://scenes/kitchen_2.tscn

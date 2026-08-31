@@ -51,8 +51,6 @@ directories/dtl_directory={
 "chocolatecake": "res://dialogic resources/text/chocolatecake/chocolatecake.dtl",
 "end": "res://dialogic resources/text/end/end.dtl",
 "prologue": "res://dialogic resources/text/prologue/prologue.dtl",
-"prologuetest": "res://dialogic resources/text/prologue/prologuetest.dtl",
-"prologuetestbackup": "res://dialogic resources/text/prologue/prologuetestbackup.dtl",
 "spaghetti": "res://dialogic resources/text/spaghetti/spaghetti.dtl",
 "spaghettiCOOKING": "res://dialogic resources/text/spaghetti/spaghettiCOOKING.dtl",
 "spaghettiEND": "res://dialogic resources/text/spaghetti/spaghettiEND.dtl",
