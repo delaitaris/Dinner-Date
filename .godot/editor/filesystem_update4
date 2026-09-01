@@ -1,5 +1,12 @@
 res://scenes/Starting screen.tscn
 res://scenes/New_File.tres
+res://dialogic resources/text/bananasplit/bananasplitDATER.dtl
 res://dialogic resources/text/bananasplit/bananasplitENDR.dtl
-res://dialogic resources/text/bananasplit/bananasplitBACKSTORYR.dtl
 res://dialogic resources/text/bananasplit/bananasplitLORER.dtl
+res://dialogic resources/text/bananasplit/bananasplitBACKSTORYR.dtl
+res://dialogic resources/text/buffalowings/buffalowingsENDR.dtl
+res://dialogic resources/text/buffalowings/buffalowings.dtl
+res://dialogic resources/text/buffalowings/buffalowingsFUNNYR.dtl
+res://dialogic resources/text/buffalowings/buffalowingsSMARTR.dtl
+res://dialogic resources/text/buffalowings/buffalowingsSTRONGR.dtl
+res://dialogic resources/text/bananasplit/bananasplit.dtl
