@@ -1,8 +1,5 @@
 res://scenes/Starting screen.tscn
 res://scenes/New_File.tres
-res://dialogic resources/text/bananasplit/bananasplitBACKSTORYR.dtl
-res://dialogic resources/text/prologue/prologue.dtl
-res://dialogic resources/text/bananasplit/bananasplitLORER.dtl
 res://dialogic resources/text/bananasplit/bananasplitENDR.dtl
-res://dialogic resources/text/buffalowings/buffalowingsENDR.dtl
-res://dialogic resources/text/chocolatecake/cakeENDR.dtl
+res://dialogic resources/text/bananasplit/bananasplitBACKSTORYR.dtl
+res://dialogic resources/text/bananasplit/bananasplitLORER.dtl

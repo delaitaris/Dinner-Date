@@ -15,7 +15,7 @@ bananasplit: It's fine, I'm just playing.
 character: Okay. Well, uh... I'll see you around, then.
 bananasplit: Yeah. Peace, hottie!
 leave bananasplit [animation="Fade Out Down" length="2.0" wait="true"]
-character: ...Damn. That was... fun.
-character: I've always liked a [wave amp=50 freq=2]Dinner Date.
+character: ...Damn.
+character: I've always liked a nice [wave amp=50 freq=2]Dinner Date.
 do Transition.fade_to_black()
 [end_timeline]
