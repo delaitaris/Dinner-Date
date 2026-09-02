@@ -1,12 +1,9 @@
-res://scripts/kitchen.gd
-res://scenes/kitchen.tscn
-res://scenes/New_File.tres
 res://dialogic resources/text/sushi/sushiEND.dtl
-res://dialogic resources/text/sushi/sushi.dtl
-res://dialogic resources/text/steak/steak.dtl
-res://dialogic resources/text/prologue/prologue.dtl
+res://dialogic resources/text/chocolatecake/cakeENDR.dtl
 res://dialogic resources/text/buffalowings/buffalowingsENDR.dtl
 res://dialogic resources/text/steak/steakEND.dtl
 res://dialogic resources/text/spaghetti/spaghettiEND.dtl
-res://dialogic resources/text/chocolatecake/cakeENDR.dtl
-res://dialogic resources/text/bananasplit/bananasplitENDR.dtl
+res://scenes/kitchen.tscn
+res://scenes/New_File.tres
+res://dialogic resources/characters/steak.dch
+res://dialogic resources/characters/chocolatecake.dch
