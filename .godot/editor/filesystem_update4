@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 <<<<<<< HEAD
+<<<<<<< HEAD
 res://dialogic resources/text/chocolatecake/cakeENDR.dtl
 res://dialogic resources/text/spaghetti/spaghettiEND.dtl
 res://dialogic resources/text/steak/steakEND.dtl
@@ -34,3 +35,10 @@ res://dialogic resources/text/buffalowings/buffalowingsSMARTR.dtl
 res://dialogic resources/text/buffalowings/buffalowingsSTRONGR.dtl
 res://dialogic resources/text/bananasplit/bananasplit.dtl
 >>>>>>> archie
+=======
+res://scenes/Starting screen.tscn
+res://scenes/New_File.tres
+res://dialogic resources/text/spaghetti/spaghettiFUMBLE.dtl
+res://dialogic resources/text/steak/steak.dtl
+res://scenes/kitchen_2.tscn
+>>>>>>> Lucas

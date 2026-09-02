@@ -8,7 +8,9 @@ Howdy there, partner!
 
 - What's your name?
 	character: Um, Hi! What’s your name?
-	steak: Name’s Loin, Fastest gunslinger in the west. Ma' full name is Sir Loin but my partners all said that sounded more like a knight, so it’s just Loin now. YEE HAW.
+	steak: Name’s Loin, Fastest gunslinger in the west. Ma' full name is Sir Loin but my partners all said that sounded more like a knight, so it’s just Loin now.
+	audio "res://Soundtracks/yeehaw.wav" [volume="6.0"]
+	steak:  YEE HAW.
 	set {SteakName} = "Loin"
 - Steak?
 	character: You're a steak?
