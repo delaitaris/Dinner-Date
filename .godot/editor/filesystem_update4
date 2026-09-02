@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 res://dialogic resources/text/bananasplit/bananasplitLORER.dtl
 res://scenes/kitchen_2.tscn
 res://scenes/New_File.tres
@@ -15,3 +16,16 @@ res://dialogic resources/text/bananasplit/bananasplitENDR.dtl
 res://dialogic resources/text/bananasplit/bananasplitBACKSTORYR.dtl
 res://dialogic resources/text/bananasplit/bananasplit.dtl
 res://dialogic resources/text/bananasplit/bananasplitDATER.dtl
+=======
+res://dialogic resources/text/bananasplit/bananasplitBACKSTORYR.dtl
+res://dialogic resources/text/bananasplit/bananasplitDATER.dtl
+res://dialogic resources/text/bananasplit/bananasplit.dtl
+res://dialogic resources/text/bananasplit/bananasplitENDR.dtl
+res://dialogic resources/text/sushi/sushi.dtl
+res://dialogic resources/text/sushi/sushiCOOKING.dtl
+res://dialogic resources/text/sushi/sushiEND.dtl
+res://dialogic resources/text/sushi/sushiMOVIE.dtl
+res://dialogic resources/text/bananasplit/bananasplitLORER.dtl
+res://scenes/Starting screen.tscn
+res://scenes/New_File.tres
+>>>>>>> archie
