@@ -1,11 +1,12 @@
-res://dialogic resources/text/bananasplit/bananasplitDATER.dtl
-res://scenes/Starting screen.tscn
-res://scenes/New_File.tres
-res://dialogic resources/text/spaghetti/spaghettiKNITTING.dtl
-res://dialogic resources/characters/sushi.dch
-res://dialogic resources/characters/bananasplit.dch
-res://dialogic resources/text/steak/steakCOMFORT.dtl
+res://scripts/kitchen.gd
 res://scenes/kitchen.tscn
-res://scenes/kitchen_2.tscn
-res://scenes/kitchen_3.tscn
-res://dialogic resources/characters/chocolatecake.dch
+res://scenes/New_File.tres
+res://dialogic resources/text/sushi/sushiEND.dtl
+res://dialogic resources/text/sushi/sushi.dtl
+res://dialogic resources/text/steak/steak.dtl
+res://dialogic resources/text/prologue/prologue.dtl
+res://dialogic resources/text/buffalowings/buffalowingsENDR.dtl
+res://dialogic resources/text/steak/steakEND.dtl
+res://dialogic resources/text/spaghetti/spaghettiEND.dtl
+res://dialogic resources/text/chocolatecake/cakeENDR.dtl
+res://dialogic resources/text/bananasplit/bananasplitENDR.dtl
