@@ -1,9 +1,13 @@
-res://dialogic resources/text/sushi/sushiEND.dtl
-res://dialogic resources/text/chocolatecake/cakeENDR.dtl
-res://dialogic resources/text/buffalowings/buffalowingsENDR.dtl
-res://dialogic resources/text/steak/steakEND.dtl
-res://dialogic resources/text/spaghetti/spaghettiEND.dtl
-res://scenes/kitchen.tscn
-res://scenes/New_File.tres
-res://dialogic resources/characters/steak.dch
 res://dialogic resources/characters/chocolatecake.dch
+res://dialogic resources/characters/steak.dch
+res://dialogic resources/text/sushi/sushiEND.dtl
+res://dialogic resources/text/sushi/sushi.dtl
+res://scenes/New_File.tres
+res://scenes/kitchen.tscn
+res://dialogic resources/characters/sushi.dch
+res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Choices/vn_choice_layer.gd
+res://dialogic resources/text/chocolatecake/chocolatecake.dtl
+res://dialogic resources/text/chocolatecake/cakeENDR.dtl
+res://dialogic resources/text/chocolatecake/cakeLORE.dtl
+res://dialogic resources/text/chocolatecake/cakeDATER.dtl
+res://scenes/end.tscn

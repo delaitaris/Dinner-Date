@@ -1,6 +1,6 @@
 [background arg="res://sprites/24062026133858-0001 (1).jpg" fade="0.0"]
 join sushi left
-audio music "res://Soundtracks/Sushi_song.mp3" [bus="" loop="true" sync=""]
+audio music "res://Soundtracks/Sushi_song.mp3" [loop="true"]
 sushi: …Evening, Chef.
 character: Hi? You’re… Sushi.
 sushi: That I am. How are you this fine evening?
