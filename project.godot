@@ -24,6 +24,7 @@ Transition="*uid://0y2ob60m8qoa"
 
 directories/dch_directory={
 "Both": "res://dialogic resources/characters/Both.dch",
+"System": "res://dialogic resources/characters/System.dch",
 "bananasplit": "res://dialogic resources/characters/bananasplit.dch",
 "buffalowings": "res://dialogic resources/characters/buffalowings.dch",
 "character": "res://dialogic resources/characters/character.dch",

@@ -18,4 +18,5 @@ leave bananasplit [animation="Fade Out Down" length="2.0" wait="true"]
 character: ...Damn.
 character: I've always liked a nice [wave amp=50 freq=2]Dinner Date.
 do Transition.fade_to_black()
+audio music "res://dialogic resources/voices/Blip.wav" [loop="false"]
 [end_timeline]
