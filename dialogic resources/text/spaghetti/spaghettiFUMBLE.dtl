@@ -12,6 +12,8 @@ spaghetti: …Yoohoo? Earth to {ChefName}?
 leave spaghetti [animation="Slide To Left"]
 character: [i] [wave amp=20 freq=2]…Damn. I’m cooked. I’ve been thinking to myself for at least a solid 15 seconds. There’s no way she hasn’t caught on to my fumbling-
 join spaghetti left [animation="Slide From Right"]
+audio "res://Soundtracks/Metal.mp3"
+[wait time="1.0"]
 character: DAMN IT!
 character: Ow….. God
 character: Did you just hit me with a ladle!?

@@ -1,7 +1,7 @@
 [gd_scene format=3 uid="uid://b6jo33ml85esy"]
 
 [ext_resource type="Script" uid="uid://bnixr75ssbgly" path="res://scripts/starting_screen.gd" id="1_pi1ro"]
-[ext_resource type="AudioStream" uid="uid://d002sqo6buef0" path="res://Soundtracks/matthewvakaliuk73627-mouse-click-290204.mp3" id="2_i3j4q"]
+[ext_resource type="AudioStream" uid="uid://d002sqo6buef0" path="res://Soundtracks/click.mp3" id="2_i3j4q"]
 
 [sub_resource type="LabelSettings" id="LabelSettings_pi1ro"]
 font_size = 29
