@@ -16,6 +16,7 @@ sushi: Why is it glowing?
 character: What do you mean, ‘Why is it glowing?’ It shouldn’t be glowing!
 character: ...
 character: [shake rate=20.0 level=5] That’s a metal tray!
+audio "res://Soundtracks/Microwave.mp3"
 [wait time="2.0"]
 join sushi left
 character: ....And… our industrial microwave is gone.

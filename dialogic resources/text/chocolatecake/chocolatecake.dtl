@@ -1,6 +1,7 @@
 [background arg="res://sprites/24062026133858-0001 (1).jpg" fade="0.0"]
 join chocolatecake left
-audio music "res://Soundtracks/Raspusia_song.mp3"
+
+audio music "res://Soundtracks/Raspusia_song.mp3" [volume="-8.0"]
 
 chocolatecake: How’s it going?
 character: Hey! I'm… pretty alright.
@@ -56,3 +57,5 @@ chocolatecake: …How about I talk about mana and magic stuff?
 	character: I got a few games on this old Minrendo Shift. Maybe we could give one a shot?
 	set {CakeRoute} = "Gaming"
 	jump cakeGAMING/
+
+
