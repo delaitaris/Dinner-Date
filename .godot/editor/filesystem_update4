@@ -1,31 +1,11 @@
-<<<<<<< HEAD
-res://dialogic resources/text/bananasplit/bananasplitLORER.dtl
-res://scenes/kitchen_2.tscn
-res://scenes/New_File.tres
-res://dialogic resources/characters/sushi.dch
-res://dialogic resources/text/sushi/sushi.dtl
-res://dialogic resources/characters/steak.dch
-res://dialogic resources/characters/chocolatecake.dch
-res://dialogic resources/text/chocolatecake/chocolatecake.dtl
-res://dialogic resources/characters/spaghetti.dch
-res://dialogic resources/characters/buffalowings.dch
-res://dialogic resources/text/buffalowings/buffalowings.dtl
-res://dialogic resources/text/buffalowings/buffalowingsENDR.dtl
-res://dialogic resources/characters/bananasplit.dch
-res://dialogic resources/text/bananasplit/bananasplitENDR.dtl
-res://dialogic resources/text/bananasplit/bananasplitBACKSTORYR.dtl
-res://dialogic resources/text/bananasplit/bananasplit.dtl
 res://dialogic resources/text/bananasplit/bananasplitDATER.dtl
-=======
-res://dialogic resources/text/bananasplit/bananasplitBACKSTORYR.dtl
-res://dialogic resources/text/bananasplit/bananasplitDATER.dtl
-res://dialogic resources/text/bananasplit/bananasplit.dtl
-res://dialogic resources/text/bananasplit/bananasplitENDR.dtl
-res://dialogic resources/text/sushi/sushi.dtl
-res://dialogic resources/text/sushi/sushiCOOKING.dtl
-res://dialogic resources/text/sushi/sushiEND.dtl
-res://dialogic resources/text/sushi/sushiMOVIE.dtl
-res://dialogic resources/text/bananasplit/bananasplitLORER.dtl
 res://scenes/Starting screen.tscn
 res://scenes/New_File.tres
->>>>>>> archie
+res://dialogic resources/text/spaghetti/spaghettiKNITTING.dtl
+res://dialogic resources/characters/sushi.dch
+res://dialogic resources/characters/bananasplit.dch
+res://dialogic resources/text/steak/steakCOMFORT.dtl
+res://scenes/kitchen.tscn
+res://scenes/kitchen_2.tscn
+res://scenes/kitchen_3.tscn
+res://dialogic resources/characters/chocolatecake.dch
