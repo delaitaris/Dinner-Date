@@ -1,50 +1,17 @@
-<<<<<<< HEAD
-res://dialogic resources/text/bananasplit/bananasplitENDR.dtl
-res://scenes/Starting screen.tscn
-res://scenes/New_File.tres
-=======
-<<<<<<< HEAD
-<<<<<<< HEAD
-<<<<<<< HEAD
-res://dialogic resources/text/chocolatecake/cakeENDR.dtl
-res://dialogic resources/text/spaghetti/spaghettiEND.dtl
-res://dialogic resources/text/steak/steakEND.dtl
-res://dialogic resources/text/sushi/sushiEND.dtl
-res://scenes/Starting screen.tscn
-res://scenes/New_File.tres
-=======
-res://dialogic resources/text/steak/steak.dtl
-res://scenes/New_File.tres
-res://scenes/Starting screen.tscn
-res://dialogic resources/characters/System.dch
-res://dialogic resources/characters/character.dch
-res://dialogic resources/characters/sushi.dch
-res://dialogic resources/text/spaghetti/spaghetti.dtl
-res://dialogic resources/characters/spaghetti.dch
-res://dialogic resources/characters/steak.dch
-res://dialogic resources/characters/bananasplit.dch
-res://scenes/kitchen.tscn
-res://dialogic resources/characters/buffalowings.dch
->>>>>>> origin/Lucas
-=======
-res://scenes/Starting screen.tscn
-res://scenes/New_File.tres
-res://dialogic resources/text/bananasplit/bananasplitDATER.dtl
-res://dialogic resources/text/bananasplit/bananasplitENDR.dtl
 res://dialogic resources/text/bananasplit/bananasplitLORER.dtl
-res://dialogic resources/text/bananasplit/bananasplitBACKSTORYR.dtl
-res://dialogic resources/text/buffalowings/buffalowingsENDR.dtl
-res://dialogic resources/text/buffalowings/buffalowings.dtl
-res://dialogic resources/text/buffalowings/buffalowingsFUNNYR.dtl
-res://dialogic resources/text/buffalowings/buffalowingsSMARTR.dtl
-res://dialogic resources/text/buffalowings/buffalowingsSTRONGR.dtl
-res://dialogic resources/text/bananasplit/bananasplit.dtl
->>>>>>> archie
-=======
-res://scenes/Starting screen.tscn
-res://scenes/New_File.tres
-res://dialogic resources/text/spaghetti/spaghettiFUMBLE.dtl
-res://dialogic resources/text/steak/steak.dtl
 res://scenes/kitchen_2.tscn
->>>>>>> Lucas
->>>>>>> ea89b667fe43e62ade53e33b1855025e62d160ae
+res://scenes/New_File.tres
+res://dialogic resources/characters/sushi.dch
+res://dialogic resources/text/sushi/sushi.dtl
+res://dialogic resources/characters/steak.dch
+res://dialogic resources/characters/chocolatecake.dch
+res://dialogic resources/text/chocolatecake/chocolatecake.dtl
+res://dialogic resources/characters/spaghetti.dch
+res://dialogic resources/characters/buffalowings.dch
+res://dialogic resources/text/buffalowings/buffalowings.dtl
+res://dialogic resources/text/buffalowings/buffalowingsENDR.dtl
+res://dialogic resources/characters/bananasplit.dch
+res://dialogic resources/text/bananasplit/bananasplitENDR.dtl
+res://dialogic resources/text/bananasplit/bananasplitBACKSTORYR.dtl
+res://dialogic resources/text/bananasplit/bananasplit.dtl
+res://dialogic resources/text/bananasplit/bananasplitDATER.dtl
