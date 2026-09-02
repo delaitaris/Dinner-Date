@@ -12,11 +12,7 @@ spaghetti: Kinda. I know it’s not real knitting, but…
 	spaghetti: What?
 	character: What? Nothing, nothing. That was a joke. I was kidding.
 	spaghetti: O- oh…Well! You want to see me make something!? Look!
-leave spaghetti [animation="Fade Out" length="2.0"]
-[background arg="res://icon.svg" fade="3.0" wait="true"]
-[wait_input hide_text="false"]
-[background arg="res://sprites/24062026133858-0001 (1).jpg" fade="0.0"]
-join spaghetti left [animation="Fade In" length="2.0" wait="true"]
+[wave amp=50 freq=2]Just imagine...... a nice knitted bowl of spaghetti... mmmmmmmmmmmmmmm......
 character: …Okay, this wasn’t what I was expecting when I heard ‘spaghetti’. I was imagining a jumble of thread and yarn, but this is literally just a knitted bowl of spaghetti.
 spaghetti: Uh-huh! It’s pretty cool, no?
 character: It actually is. Squishy, too.

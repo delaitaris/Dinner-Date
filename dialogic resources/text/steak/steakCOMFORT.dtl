@@ -38,10 +38,9 @@ steak: Yea…
 character: Y'know what?
 character: Hm?
 character: I’ll be back in a bit.
-# BRING TOY GUN
-[wait time="2.0"]
+[wave amp=50 freq=2] Imagine a really obviously fake toy gun.
 steak: What… is this?
-character:  Some kid left a cap-gun here. ‘Left’ is a strong word, he was messing around with it and being a nuisance, so we took it.
+character: Some kid left a cap-gun here. ‘Left’ is a strong word, he was messing around with it and being a nuisance, so we took it.
 steak: Can you do that?
 character: God, no. It was funny, though. You like it?
 steak: I… this is bloody awesome, partner! I can finally fulfill my dreams of being the wests’ best gunslinger!

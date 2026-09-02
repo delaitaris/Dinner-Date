@@ -30,12 +30,13 @@
 &"portraits": {
 "New portrait": {
 "export_overrides": {
-"image": "\"res://sprites/shizukatanaka.png\""
+"image": "\"res://sprites/Untitled - 02 September 2026 at 19.46.13.png\""
 },
 "mirror": false,
 "offset": Vector2(0, 0),
 "scale": 1,
-"scene": ""
+"scene": "",
+"sound_mood": ""
 }
 },
 &"scale": 1.0

@@ -30,7 +30,7 @@
 &"portraits": {
 "New portrait": {
 "export_overrides": {
-"image": "\"res://icon.svg\""
+"image": "\"res://sprites/Untitled - 02 September 2026 at 20.18.38.png\""
 },
 "mirror": false,
 "offset": Vector2(0, 0),

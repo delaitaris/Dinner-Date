@@ -30,11 +30,12 @@
 &"portraits": {
 "New portrait": {
 "export_overrides": {
-"image": "\"res://icon.svg\""
+"image": "\"res://sprites/chocockae.png\""
 },
+"ignore_char_scale": false,
 "mirror": false,
 "offset": Vector2(0, 0),
-"scale": 1,
+"scale": 1.0,
 "scene": ""
 }
 },
