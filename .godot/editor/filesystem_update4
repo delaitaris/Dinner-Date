@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 res://dialogic resources/text/chocolatecake/cakeENDR.dtl
 res://dialogic resources/text/spaghetti/spaghettiEND.dtl
 res://dialogic resources/text/steak/steakEND.dtl
@@ -19,3 +20,17 @@ res://dialogic resources/characters/bananasplit.dch
 res://scenes/kitchen.tscn
 res://dialogic resources/characters/buffalowings.dch
 >>>>>>> origin/Lucas
+=======
+res://scenes/Starting screen.tscn
+res://scenes/New_File.tres
+res://dialogic resources/text/bananasplit/bananasplitDATER.dtl
+res://dialogic resources/text/bananasplit/bananasplitENDR.dtl
+res://dialogic resources/text/bananasplit/bananasplitLORER.dtl
+res://dialogic resources/text/bananasplit/bananasplitBACKSTORYR.dtl
+res://dialogic resources/text/buffalowings/buffalowingsENDR.dtl
+res://dialogic resources/text/buffalowings/buffalowings.dtl
+res://dialogic resources/text/buffalowings/buffalowingsFUNNYR.dtl
+res://dialogic resources/text/buffalowings/buffalowingsSMARTR.dtl
+res://dialogic resources/text/buffalowings/buffalowingsSTRONGR.dtl
+res://dialogic resources/text/bananasplit/bananasplit.dtl
+>>>>>>> archie

@@ -1,0 +1,60 @@
+bananasplit: Right, so where do I begin?
+character: I mean, you said you talked to people before me, and based off your personality, you've probably had a few partners before. What about them?
+bananasplit: You... want to hear about my old partners? Hey, I don't shame people for their preferences, but...
+character: Woah, woah! It's not like that at all. I'm just curious.
+bananasplit: Well... Alright then.
+bananasplit: Back in 2027, I met up with these smokin' hot jalapeño poppers. Her spice and my sweetness was just right... I'd continue, but I'm afraid I can't. Y'know, censorship.
+character: ...Right, I forgot. You're a human-nizer.
+bananasplit: And I wear that like a badge of pride. Well, skipping forward a bit, she tried to eat me, yadda yadda, then we split up.
+character: Hah, split- Hold up a minute, what do you mean she tried to eat you?
+bananasplit: Yeah, she tried to eat me.
+character: How? You're both food. Would that be cannibalism? I mean, technically she's not a banana split, so...
+bananasplit: Who said anything about cannibalism?
+character: ...What?
+bananasplit: What?
+character: But you just said...
+character: Ah. I get it now.
+bananasplit: Now, allow me to continue...
+
+And thus, Richard Split continues to ramble on...
+
+bananasplit: And then, get this, the beer-battered chips gets absolutely eviscerated by the orbital strike. And somehow it was Shizuka Tanaka's fault!?
+character: ...
+bananasplit: Right?
+character: ...
+bananasplit: Yoohoo? Wakey wakey, eggs and bakey?
+character: ...Wha...? Oh- Oh! I'm awake!- I mean, I've been awake. What's up?
+bananasplit: I was regaling you about how our resident sushi apparently eviscerated our beer-battered chips with an orbital strike.
+character: Uh...
+bananasplit: It's fine. How about this... I could tell you about magic, and mana, and that sort of stuff.
+- Sure.
+	character: That would... probably be a bit more exciting.
+	bananasplit: Yeah.
+	jump bananasplitLORER/
+- I'll pass.
+	character: Yeah, I'll pass. 
+bananasplit: Okay...? What do we do then? I suppose my glamour is wearing off on you, considering how tired you got.
+character: I... Yeah, I'm pretty bored, to be honest. 
+bananasplit: Alright... Look, just listen to this. I'm rather interested in this dating business, and I want to try my best. You might have caught on, or didn't, considering you were asleep, that I'm not really great at this whole... 'being a good partner' thing.
+character: ...Yeah, I did. Sorry.
+bananasplit: No, it's fine. I messed up. It's my bad for coming on so strong.
+character: Hey, I can see the good side of it. Also, it's not entirely your fault.
+bananasplit: Still, it feels like it. Would you... want to talk now?
+character: ...What?
+bananasplit: You know, give my vocal cords a rest. I promise, I won't fall asleep like you did.
+character: Wow, harsh. I'm kidding. So, me-stuff?
+bananasplit: Yeah. You-stuff.
+
+{ChefName} tells Richard Split about how {ChefGenderHe} recently broke up with {ChefGenderHis} partner, and other fun  facts about {ChefGenderHis} life.
+
+bananasplit: I... I'm assuming that's why you weren't all that into me.
+character: A little.
+bananasplit: Yeah, that makes sense.
+character: Yeah...
+bananasplit: Uh... Cheer-up kiss?
+character: I can tell by the look on your face that that's a joke.
+bananasplit: Yeah, it is. What can I say? I'm a human-izer at heart.
+character: Sure, sure.
+bananasplit: Uh... sorry to kill the vibe, but my time's running out.
+character: Ah...
+jump bananasplitENDR/
