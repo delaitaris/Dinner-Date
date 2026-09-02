@@ -38,7 +38,7 @@ bananasplit: But! I will settle for getting inside that head of yours, hottie.
 	bananasplit: Pushing it? That's just my glamour working on its own.
 	jump bananasplit/date route bypass
 - Alright, bet.
-	character: Alright. I'll play along with your sort of talk for a bit.
+	character: ...Fine. I'll humour you.
 	bananasplit: Sick! Now we're getting somewhere!
 	jump bananasplitDATER/
 label date route bypass

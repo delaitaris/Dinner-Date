@@ -1,1 +1,63 @@
-bananasplit:
+bananasplit: So, hot stuff... What sort of stuff do you like?
+character: Cooking.
+bananasplit: ...That's it, hot stuff?
+character: Pretty much.
+bananasplit: Damn, hot stuff. You're lame.
+character: Say's the one who just said 'hot stuff' three times in a row. You need to expand your vocabulary, Richard.
+bananasplit: Hey! It's Richard Split, and my vocabulary is just fine!
+character: Yeah? Well, regardless, you're going to need to try a bit harder if you want to get on my good side.
+bananasplit: Oh? Alright, then. I'll let all my glamour out on you.
+character: Bit much.
+bananasplit: And you said I needed to try a bit harder.
+character: I said 'try', not 'get'.
+bananasplit: Wow! And you condemned my comment!
+character: Yeah, I did. Because it was lame. 
+bananasplit: ...My jokes are not lame!
+character: Really? They seem rather lame.
+bananasplit: They are not!
+character: Yes, they are.
+bananasplit: No!
+character: Yeah.
+bananasplit: Not in the slightest!
+character: Pretty sure they are.
+bananasplit: No, they are not!
+character: Not convincing me otherwise-
+
+...Did he just kiss {ChefName}? Seriously?
+
+character: I... Uh...
+bananasplit: Yeah! Beat that!
+character: Uh...
+bananasplit: What, speechless because of my charm!?
+character: That's...
+bananasplit: Uh...
+character: ...
+bananasplit: Did I mess up? Was that... too much? If it's any consolation, I was just joking around...
+- Yeah, it's fine.
+	character: I- No! It's all fine. I was just caught off guard, that's all.
+	bananasplit: Oh, thank god... I thought I went too far.
+	character: No, it's fine.
+	bananasplit: Yeesh...
+- You did, in fact, mess up.
+	character: ...Yeah, you did.
+	bananasplit: I... Yikes.
+	character: Yeah. Yikes indeed.
+	bananasplit: Uh... Sorry?
+	character: Sorry won't cut it. Apologise actually.
+	bananasplit: I'm... actually really sorry. I thought we were just messing around playfully, and that was... what I thought to do.
+	character: ...
+	bananasplit: ...Forgive me?
+	- Yeah.
+		character: ...Forgiven.
+		bananasplit: Sick. Okay. Sorry, again.
+		character: It's fine.
+	- No. (End date route)
+		character: No.
+		bananasplit: Uh... Okay, then. My time's running a bit short anyway, so...
+		character: ...Damn. Well, now I feel bad about holding a grudge!
+		bananasplit: No, don't. It's fine.
+		character: I... Okay.
+bananasplit: Uh... Hey, my timer's running a bit short.
+character: Oh! Seriously?
+bananasplit: Yeah.
+character: Ah...
