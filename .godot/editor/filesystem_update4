@@ -1,21 +1,5 @@
-<<<<<<< HEAD
-res://dialogic resources/text/bananasplit/bananasplitENDR.dtl
-res://scenes/Starting screen.tscn
-res://scenes/New_File.tres
-res://dialogic resources/text/spaghetti/spaghettiFUMBLE.dtl
-res://dialogic resources/text/steak/steak.dtl
-=======
-res://dialogic resources/characters/chocolatecake.dch
-res://dialogic resources/characters/steak.dch
-res://dialogic resources/text/sushi/sushiEND.dtl
-res://dialogic resources/text/sushi/sushi.dtl
-res://scenes/New_File.tres
-res://scenes/kitchen.tscn
-res://dialogic resources/characters/sushi.dch
-res://addons/dialogic/Modules/DefaultLayoutParts/Layer_VN_Choices/vn_choice_layer.gd
-res://dialogic resources/text/chocolatecake/chocolatecake.dtl
-res://dialogic resources/text/chocolatecake/cakeENDR.dtl
-res://dialogic resources/text/chocolatecake/cakeLORE.dtl
-res://dialogic resources/text/chocolatecake/cakeDATER.dtl
 res://scenes/end.tscn
->>>>>>> 97a1dd099ebdf51c7173d7ac45c672e547d8892a
+res://scenes/New_File.tres
+res://dialogic resources/characters/bananasplit.dch
+res://dialogic resources/characters/chocolatecake.dch
+res://scripts/canvas_layer.gd

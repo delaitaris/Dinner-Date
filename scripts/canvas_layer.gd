@@ -28,5 +28,5 @@ func fade_from_black(duration := 1.5):
 	var tween = create_tween()
 	tween.tween_property(fade_rect, "modulate:a", 0.0, duration)
 	await tween.finished
-
+	
 	fade_rect.mouse_filter = Control.MOUSE_FILTER_IGNORE
